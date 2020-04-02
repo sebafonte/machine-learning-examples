@@ -22,6 +22,10 @@ Simple DNN approach for a classifier of signal or FM signal, with another .pynb 
 Actually it has a problem because it does'nt seem to apply the loaded weights, because predictions in the notebook for just use the networks does'nt predict right, but weights seems to be the same.
 
 
+SIGID-GRC-capturer
+===
+
+Example for capturing signals. Does'nt work actually, just uploaded for backup and continue working on it.
 
 
 
