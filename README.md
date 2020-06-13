@@ -1,4 +1,4 @@
-# machine-learning-examples
+# Description
 
 Repository for my learning examples, maybe used as pieces for other projects.
 
