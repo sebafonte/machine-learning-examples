@@ -1,0 +1,2 @@
+Sampled at 250k samples-sec using the rtl-window-capture-base.grc.
+

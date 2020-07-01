@@ -1,0 +1,2 @@
+model_checkpoint_path: "clasifier-2-1-smaller-sk.weights"
+all_model_checkpoint_paths: "clasifier-2-1-smaller-sk.weights"
