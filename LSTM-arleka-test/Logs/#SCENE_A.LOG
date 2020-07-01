@@ -1,0 +1,4360 @@
+Session Start: Tue Dec 15 22:33:30 1998
+* Logging #scene.ar to: [#scene_a.log]
+<ThE_ReD> la otra vez el pelotudo de computacion 98 me decia que el sonido de 
+   24 bits es miles de veces mejor que el de 16
+<ThE_ReD> que putazo
+<Eagle2> tenes el 3dMark?
+<Eagle2> bueno!
+<ThE_ReD> lo unico que conseguis mejor con 24 es el ruido de ambiente
+<Eagle2> mira lo que me comparas
+<Eagle2> otra vez
+<Eagle2> eso es un mito
+<ThE_ReD> y en unos anios me van a decir que es mejor 32 que 24
+<Eagle2> el sonido final siempre es de 16bits
+<Eagle2> lo que cambia son las mezclas internas
+<ThE_ReD> Eagle: pero obviamente un mixing de 32 es mucho mejor
+<Eagle2> yo tengo una SoundBlaster Live! y te digo que es increible
+<ThE_ReD> La sblive mixea por hard en 24 bits
+<Eagle2> nope
+*** PiBeRombo sets mode: +o Arlequin
+<Eagle2> mixea internamente con interpolacion a 32bits
+<ThE_ReD> no? eso me dijo el chabon ;)
+<ThE_ReD> interpolacion nomas? que garcha
+<ThE_ReD> y es una live
+<Eagle2> nada mas?
+<Eagle2> sabes como suena?
+<Eagle2> 0.008% de distorcion total armonica
+<ThE_ReD> podria usar volume ramping o cubic spline y usa interpolacion?
+14__[5quit14_)1: [coda] has quit IRC (Ping timeout)
+<Eagle2> 120 db de salida de sonido
+<Eagle2> la Pinnacle Studio de turtle beach tiene 110
+<ThE_ReD> ademas la interpolacion saca ambiente, el cubic spline no
+<Eagle2> depende de que tipo de interpolacion estas hablando
+<Eagle2> la interpolacion de 8 puntos a 32bits por hardware es lo mas perfecto 
+   que hay
+<ThE_ReD> Eagle: La interpolacion de la live es lineal
+<Eagle2> y?
+<ThE_ReD> mientras por mmx podes interpolar con spline, por eso digo que son 
+   una garcha la live y la awe en eso
+<Eagle2> vos escuchaste la AWE32?
+<koza> no.. usa interpolacion por taylor la sb.. por eso puede mixear frecuencias 
+   altas
+<Eagle2> para
+<Eagle2> para un cacho
+<ThE_ReD> si, tengo una awe64
+<Eagle2> vos decis que segun teoria suena mejor una SB por software que una 
+   Live?
+<Eagle2> estas loco
+<Eagle2> yo tambien pense eso cuando tenia la GUS pero con la live! no podes 
+   decir lo mismo
+<Eagle2> es perfecta/
+<ThE_ReD> Eagle: mmx + soft es maravilla :)
+<Eagle2> te invito a escucharla con gusto
+<ThE_ReD> Eagle: tengo 2 amigos con la live
+<Eagle2> cuando quieras veni
+<Eagle2> mmmmmmmmmmmmmmmmmmmmmm
+<Eagle2> escuchaste mal
+<ThE_ReD> Eagle: con equipos de la puta madre conectados a esa puta salida 
+   digital
+<Eagle2> oka
+<Eagle2> listo
+<Eagle2> quedamos asi
+14__[5join14_)1: [sludge] has joined channel #scene.ar.
+<ThE_ReD> y el IT con mmx cubic spline suena mejor ke el modplug pa' win ke 
+   mixea por hard de la live :)
+*** happosai sets mode: +o [sludge]
+<Eagle2> esto esta muy interesante pero me tengo que ir a comer van por el tercer 
+   llamado
+<ThE_ReD> Ademas los soundfonts de la live son un asco :)
+<Eagle2> que?
+<Eagle2> el MODPLUG MIXEA POR HARD EN LA LIVE?!?
+<Eagle2> estas loquisimo de remate!
+<Eagle2> el modplug Usa DirectSound por hard pero de ninguna manera usa el 
+   wavetable de 64  voces de la live!!!
+<ThE_ReD> Eagle: yup! lo dice ahi cuando lo configuro: usar directo a la sblive
+<Eagle2> no confundas!
+<Eagle2> eso es DirectSound !
+<ThE_ReD> eagle: posta!?
+<Eagle2> canales digitales por DirectSound
+<Eagle2> claro
+<ThE_ReD> pero decia.. directo a la live
+<Eagle2> no
+<ThE_ReD> yups, decia eso
+<Eagle2> dice SoundBlaster Live Wave Out!
+<Eagle2> fijate
+<ThE_ReD> usar directsound o directo a la live
+<ThE_ReD> mmmm
+<Eagle2> o sino SoundBlaster Live DirectSound
+<Eagle2> directsound es una cosa
+<ThE_ReD> me voe a fihar la proxima ve
+<Eagle2> y wavetable es otra
+<ThE_ReD> directsound es una garsha
+<Eagle2> en serio
+<Eagle2> quien te dijo
+<Eagle2> tengo el audiowinbench 98
+<ThE_ReD> eagle2: porque programe para directsound y es una garsha :)
+<Eagle2> por directsound en AWE64 mixeando 32 canales te saca el 70% de CPU
+<Eagle2> la live te saca 0.01%
+14__[5join14_)1: darkman__ has joined channel #scene.ar.
+<Eagle2> asi que no es una garcha si tenes el hardware apropiado
+*** vENOMOUS is now known as Spektor
+<ThE_ReD> Eagle: eso es una garcha :)
+<Eagle2> oka 
+<Eagle2> alguien hace musica aca?
+*** Spektor is now known as vENOMOUS
+<ThE_ReD> Siempre el hardware apropiado, plataplataplataplataplata.
+<ThE_ReD> :)
+<ThE_ReD> yo hago musica
+<Eagle2> y claro
+<Eagle2> y vos que haces?
+<ThE_ReD> musica,codeo y 3D
+<Eagle2> aaaaaaaa no digas haces todo
+<fugitivo> y juega bien al doom2
+<Eagle2> y que tal? como te ves para la compo
+<ThE_ReD> fug: nahhh
+<Eagle2> che me tengo que ir vuelvo en un rato
+<Eagle2> saludos a todos, fue un gusto
+<fugitivo> cya eagle
+<ThE_ReD> Eagle: en coding. no creo que haga nada zarpao porke no tengo 
+   tiempo. en Musica: no creo que haga nada zarpado porque no tengo tiempo: en 
+   la Wild: voy a hacer algo zarpado preparense :)
+<Eagle2> me voy a lastrar
+<Arlequin> chau
+<Eagle2> upa
+<fugitivo> ThE_ReD: no superara a nuestro video maldito
+<Eagle2> en la wild que vas a hacer?
+<fugitivo> Eagle2: ves? hay competencia
+<Eagle2> ahora me interesaste
+<Eagle2> y eso quiero!
+14__[5part14_)1: vENOMOUS has left channel #scene.ar.
+14__[5join14_)1: vENOMOUS has joined channel #scene.ar.
+<ThE_ReD> en la wild voy a hacer un video todo en animacion 3D con lightwave y 
+   max 2.5
+<Eagle2> en la wild te vamos a hacer un render de max que se te va a caer el culo 
+   :))))
+*** Minmei sets mode: +o vENOMOUS
+<fugitivo> uhhhh
+<Eagle2> jajjaja
+<fugitivo> Arlequin: lees?
+<ThE_ReD> Eagle2: :) uso el 3ds desde que salio la primera version.
+<Eagle2> agarrate el pantalon :)
+<Eagle2> aca tambien
+<Eagle2> desde la primerita de dos
+<ThE_ReD> hoho
+<Eagle2> hasta la ultima de windows
+<ThE_ReD> va a ser una masa tonces. igualmente no va a tener tanta calidad, 
+   pero va a ser una masa igual
+<Eagle2> con motion capture, camera match, etc
+<koza> Eagle2: ese render iria en la categoria animacion.. no la wild :)
+<fugitivo> eso
+<Eagle2> con video real mezclado con animacion y camera matching
+<koza> Eagle2: como hacen motion capture?
+<Eagle2> veremos
+<Eagle2> apa
+<ThE_ReD> MOTION CAPTURE, COMO MIERDA PODES TENER 2 VODOO 2, 
+   SBLIVE, EQUIPO DE MOTION CAPTURE Y CAPTURA DE VIDEO, CON TODA ESA 
+   PLATA QUIEN MIERDA NOOOOOOOOO?????? :) :) :) :)
+<fugitivo> ouch
+<Eagle2> con el joystick :)
+<fugitivo> ARL!@$
+<Eagle2> se anima
+<Arlequin> si?
+<Arlequin> a ver
+<Arlequin> a ver
+<Arlequin> a ver
+<Eagle2> no no es para tanto
+<Arlequin> esperen que leo el buffer!
+<Arlequin> esperen que leo el buffer!
+<fugitivo> Arlequin: otro mas para wild
+<Eagle2> dejas el modelo 
+<Eagle2> y pones motion capture y animas con el joystick
+<fugitivo> Arlequin: carajo, deja los otros canales y lee este
+<Eagle2> ideal para batalla de naves, etc///
+<Arlequin> aqui estoy
+<Arlequin> esagle: vas a tener competencia :)
+<Eagle2> como los mejores!
+<Eagle2> esto se tiene que poner bueno
+<Arlequin> si fugo se pone :)
+<Eagle2> pensemos que si no se va todo a la mierda
+<Arlequin> si.. :)
+<Eagle2> aca la scene estuvo muerta un monton de tiempo
+<fugitivo> competencia rox
+<fugitivo> =)
+<Eagle2> ojala que algun dia sea tipo Assembly y que te rompan el orto de la 
+   calidad/
+<koza> i feel the spirit!
+<Eagle2> vamos asi que a matarse
+<koza> si..
+<koza> o sea
+<koza> me emociona el espiritu de competencia
+<fugitivo> hehe
+<koza> la party la planeamos para que exista eso
+<Eagle2> vos sos organizador koza?
+<ThE_ReD> koza: voy a ganar en todas las categorias! hoho
+<ThE_ReD> koza: mentira ;)
+<Eagle2> jajajja
+<Eagle2> che ReD, te agendo
+<ThE_ReD> koza: no se ascii
+<ThE_ReD> koza: ;) haha
+<Eagle2> espero ver buenas producciones
+<Eagle2> tuyas.
+<Eagle2> a ver si de aca sale algun grupo copado
+<ThE_ReD> mias? voy a presentar proyectos mas ke nada.. pero bueh :)
+<Eagle2> quien dice por ahi terminamos haciendo algo.
+<ThE_ReD> pvm es copado
+<ThE_ReD> ;)
+14__[5join14_)1: [coda] has joined channel #scene.ar.
+<[coda]> hi there! =]
+<Eagle2> aca no se si nos vamos a presentar como BetaGroup o cambiamos el 
+   nombre.
+<Arlequin> eagle, al menos.. en wildemo para mi va aser lo mejor d ela party :)
+<fugitivo> cooda
+<[coda]> acastoy de nuevo
+<ThE_ReD> koza: termineeeterminee las rutinas para leer s3m, la la la
+<fugitivo> wildemo habria que dejarlo para el ultimo dia
+<Arlequin> ya estoy planeando comprarme una mezcladora de vieo para el 99
+<[coda]> arleco: iiisa!
+<Eagle2> yo tengo una Miro
+<Arlequin> red: daselas a ab! de una buena vez! :)
+<Eagle2> para capturar
+<Arlequin> fugitivo tiene una dc-30 :)) el orgullo de la scene :)
+<Eagle2> asi que tambien se puede hacer algo
+<ThE_ReD> Arleq: que de una buena vez, eeu, no me apuren , todavia falta 
+   bastante ;)
+<Eagle2> yo tengo la DC-30 Plus :)
+<Arlequin> uh pvto :)
+<fugitivo> Arlequin: mi viejo, yo con mi maquina no puedo tener nada =)
+<Eagle2> no mentira
+<Eagle2> era joda tengo una DRX
+<Eagle2> no puedo tener todo
+<Arlequin> esta buena?
+<Eagle2> ya me gaste mucha guita con la memoria
+<Arlequin> yo quiero una baratola.. como para experimebtar
+<Eagle2> 160 Mega de RAM :)
+<fugitivo> <Eagle2> no puedo tener todo
+<Eagle2> esta buena
+<fugitivo> pero
+<fugitivo> mouse puto
+<fugitivo> golpeo la mesa y anda solo
+<Eagle2> jajja
+<Eagle2> es un genius?
+<fugitivo> si
+<Eagle2> todos tienen mouse PS2?
+<Arlequin> donno
+<ThE_ReD> yo tengo mi mouse logitech chatito chatito y es lo mejor ke hay
+<Eagle2> son los mejores
+<fugitivo> pero cada dia pienso mas que es el linux que lo hace mas sencible
+14__[5crEEd14_)1: xdcc> akayozz just requested file #1
+<fugitivo> yo este lo compre el otro dia por $5
+<Eagle2> se conocen el truco del mouse rate para los ps2?
+<fugitivo> andaba escaso de dinero y tenia que comprar una lectora
+<ThE_ReD> ps2?
+14__[5quit14_)1: vENOMOUS has quit IRC ([BX] Gary Coleman uses BitchX. Whatchoo 
+talkin bout foo?)
+<ThE_ReD> nahh
+<ThE_ReD> no uso ps2
+<ThE_ReD> :)
+<Eagle2> te lo convierte en un mouse de amiga
+<ThE_ReD> ??
+<Eagle2> pero solo anda con ps2
+<koza> asi de una vez por todas tenemos una buena demoscene sudaka
+<Eagle2> por eso son los mejores
+<koza> che loco
+<koza> me leen?
+<koza> o tengo un superlaG?
+<koza> puta..
+<koza> tengo un superlag :(
+<Arlequin> no
+<ThE_ReD> ps2 puto, se apropio de mi irq 5
+<ThE_ReD> lo regale
+<Eagle2> te deja al mouse con un movimiento que parece mouse de amiga, viste 
+   esos mouses que se mueven PERFECTO?
+<Eagle2> ideal para el quake
+<fugitivo> ùíù CTCP PING reply from koza: 11.910 seconds
+<Eagle2> bueno ahora vengo 
+<Eagle2> chau
+<Eagle2> tengo que comer algo
+<Eagle2> no se vayan
+<Eagle2> 5
+<Eagle2> 4
+<Eagle2> 3
+<Eagle2> 2
+<Eagle2> 1
+<Eagle2> 0
+14__[5quit14_)1: Eagle2 has quit IRC (Read error: 0 (Undefined error: 0))
+<fugitivo> cya eagle
+<ThE_ReD> que puede tener de mejor un mouse de amiga
+<ThE_ReD> dioz
+<ThE_ReD> :)
+<Arlequin> es amiga!! :)
+<fugitivo> es mejor loco
+<ThE_ReD> ..
+<ThE_ReD> ok
+<fugitivo> hoy casi me pone loco el windows
+<fugitivo> no podes escuchar mp3 y usar el photoshop a la vez
+<fugitivo> es increible
+<ThE_ReD> fug: tenes que aprender a contar hasta 10
+<Arlequin> yo tengo un mouse con tatoo de 2minutos
+<fugitivo> ya se contar hasta 9
+<[coda]> HASTA NUEVE?!?!?
+<darkman__> arl: cool!
+<[coda]> a la mierda!!
+<ThE_ReD> fug: okoz. pero eso es por el player, no por windoze :)
+<darkman__> 9 min
+<fugitivo> viste? me costo un monton aprender ;)
+<fugitivo> ThE_ReD: es por el windows
+<koza> laaaaaaaaaaaaaaaaaaaaaaaaaggggggggggggg
+<ThE_ReD> fug: hay un par de players de mierda tirados por ahi que hacen ruidos 
+   cuando haces de todo, incluyendo el winamp, el que tengo io no hace ruido
+<fugitivo> ThE_ReD: y no empeces a defender a windows
+<ThE_ReD> es un puerto de un player mara mac
+<[coda]> fugee: hahhahaha =]
+<ThE_ReD> fug: pero eso es por el player :) windows es una garcha igual
+<Arlequin> que groso!
+<Arlequin> fugo
+<Arlequin> hay que ponerse con la wildemo eh!
+<ThE_ReD> les voy a ganar, para que se gastan? tiren todo a la mierda..
+<fugitivo> ThE_ReD: mi winamp anda perfecto, pero si empezas a usar el winamp 
+   con el photoshop retocando fotos se hace un poco... como se puede decir... 
+   insoportable
+<fugitivo> Arlequin: obvio, les vamo a romper el ojete a red y a eagle
+<koza> ke loco
+<Arlequin> ahaha
+<ThE_ReD> fug: los truktruktruktruktrukruk del sonido?
+<koza> la de gente nueva ke viene
+<Arlequin> es vieja :)
+<Arlequin> pero revivieron
+<Arlequin> tenemos que hacer la pagina sudaka
+<Arlequin> LO ANTES POSIBLE
+<koza> masa
+<fugitivo> ThE_ReD: no... el mouse empieza a saltar y esas cosas
+<koza> estamos reviviendo muertos.. no se komo pero lo estamos haciendo :)
+<ThE_ReD> ??????????????
+<ThE_ReD> fug: a la mierda
+<Arlequin> ya tenemos los brazukas, chilenos, mexicanos, paraguayos, tlh de 
+  rosario, los bolitas
+<ThE_ReD> fug: eso si es de windoz
+<darkman__> arl: viste la mag. heroin?
+<koza> Arlequin: estamos reviviendo a la scneeeeeeeeeee! (refantasioso) :)
+<Arlequin> dm:
+<ThE_ReD> fug: a mi me empieza a hacer truktruktrukutrkutrkutr
+<Arlequin> donde la sacastes?
+<fugitivo> ThE_ReD: o sea, se traba y esas cosas de windows
+<Arlequin> ---------- anuncio
+<Arlequin> el chabon de la magazine HEROIN
+<koza> Arlequin: hay qe soportar scene.ar... boicot a #pvm!
+<Arlequin> www.HEROIN.NET o heroine.net
+<fugitivo> koza: eso! ahora saco los bots!
+<Arlequin> quiere que saquemos la revista oficialmente en argentima , en TF98! :)
+<darkman__> arl: te la dcceo?
+<Arlequin> la tengo :)
+<fugitivo> Arlequin: cuanto garpa?
+<darkman__> masa
+<Arlequin> esta buena.. pero no tiene nots
+<Arlequin> notas
+<fugitivo> Arlequin: con cuanto aporta?
+<darkman__> claa
+<Arlequin> muy buena
+<koza> Arlequin: no
+<Arlequin> fugo: nose, fama :)
+<darkman__> pero esta re copada.. el cursor es una jeringa..
+<Arlequin> koza: ?
+<fugitivo> Arlequin: nah, que fama, que aporte algo
+<Arlequin> heh
+<Arlequin> no, pero me dio emails de sudakas
+<Arlequin> para la party
+<Arlequin> que yo no tenia
+<fugitivo> Arlequin: la fama no nos va a ayudar a pagar las cosas
+<Arlequin> es un buen swapper; y cuando necesitemos algo de el..
+<Arlequin> tipo, promocion de algo comercial afuera..
+<Arlequin> (juegos, etc)
+<Arlequin> me voy
+<Arlequin> salu2
+<fugitivo> cya
+Session Close: Tue Dec 15 23:04:19 1998
+
+Session Start: Sat Dec 19 23:24:05 1998
+* Logging #scene.ar to: [#scene_a.log]
+<KoZa_> btw: arl.. yo te codeo la interfaszx.e
+<KoZa_> los "normales":
+<Arlequin> interfase? hrmnm okee
+<KoZa_> Top musician
+<KoZa_> Top coder
+<Spektor> yo! yo!
+<Arlequin> a mi me gusta mas que nada... ascii comun pero ok
+<Spektor> yo! yo!
+<KoZa_> Top gfxman
+<Spektor> yo! yo!
+<KoZa_> Top ascii
+<Arlequin> koza: no hay ni dos por seccion
+<Spektor> top nerd
+<Spektor> yo! yo!
+<KoZa_> arl: pero no onda imphobia.. con ansi.. en modo texto.. pero elito
+<KoZa_> arl: no importa :)
+<KoZa_> arl: ya va a haber..
+<Arlequin> ok
+<KoZa_> aunque todos vamos a figurar en el toplarva y en el topnerd
+<Arlequin> hacemos votacion o los denominamos nosotros?
+<KoZa_> arl: "Top minadelascene" :)
+<KoZa_> no.. 
+<Arlequin> si, creo que yase quien figura en 1ero de top nerd
+<Spektor> ahi ya fue
+<KoZa_> como lo vas a denominar vos.. so loco?.. votacion
+<Arlequin> okok..
+<Arlequin> hayq ue poner un bot
+<Spektor> <gatoo> soy dios
+14__[5quit14_)1: KoZa_ has quit IRC (Leaving)
+<Spektor> wow
+<Spektor> cya koza :)
+<Arlequin> uh
+14__[5join14_)1: KoZa_ has joined channel #scene.ar.
+<KoZa_> cutipaste to me :)
+<Spektor> nada nuevo
+<Arlequin> <Spektor> todo mal con koza
+<Arlequin> ops
+<KoZa_> haha
+<KoZa_> bueno..
+<KoZa_> hablando en serio
+<Spektor> arl. alcahuete, oreja ...
+<Arlequin> okee dokie
+<Spektor> :)
+<KoZa_> lo de la magazine.. ya por ejemplo tenemos para ayudar el pendejo ese 
+   que hizo la web en chile sobre demoscene.. y seguro que fac se manda un par 
+   de tutoriales.. y gente hay.. la onda seria meter articulos sudamericanos.. pero 
+   tambier hacer secciones "locales"
+<KoZa_> btw: ta bueno el nombre sudamerka :)
+<Spektor> hehehe
+<Arlequin> sisi.. e sverdad
+<Arlequin> yo creo que en este anio que viene la scene crece un 100%
+<Arlequin> talvez no como la scene vieja.. pero al fin y al cabo..
+<KoZa_> arl: mira..
+<KoZa_> lee el articulo en la ultima hugis que dice "sinousoidal scene"
+<Spektor> *** *someone* sets mode +baba
+<Arlequin> que es eso?
+<Arlequin> no me anda..
+<KoZa_> o sea.. la nueva escene sera 80% mas lame :).. bah.. 
+<Spektor> nahhh
+<Arlequin> eso fue re nerd
+<KoZa_> mm
+<KoZa_> spektor
+<Arlequin> una comparacion 'social' de lo que pasa con la scene.. con una funcion 
+  matematica :)
+<Spektor> <shad> estoy caliente.un hombre por favor
+<KoZa_> tenes que escribi un articulo "Aceptando que somos nerds"
+<Spektor> claro
+<KoZa_> y eso?
+<KoZa_> arl: sip.. pero esta re bien hecho el article
+<Spektor> es como decir, la malvinas son inglesas
+<Spektor> somos la vanguardia
+<Arlequin> todo mal.. tendriamos que haber estado con el movimiento surrealista
+<KoZa_> haha
+<KoZa_> no..
+<Spektor> nah
+<Spektor> arl = dadaista
+<KoZa_> mejor con el movimiento hippie.. sexo,drogas,rock&roll :)
+<KoZa_> no..
+<KoZa_> aca el dadaista es uctumi :)
+<Arlequin> ahaha
+<Spektor> AHHHHHHHHHHHHHHHHHHHHHHHHH!
+<Spektor> risa risa risa risa risa risa risa 
+<Spektor> es verdad
+<Arlequin> es verdad, con el movimiento lisergico
+<Spektor> es verdad
+<Arlequin> pero estamos con la generacion x
+<Spektor> <yami> holasss 
+<KoZa_> o sea.. uctumi es re made en india... es hinduista
+<Spektor> y esto ?
+<KoZa_> spk dale gas
+<Spektor> a 1ooo
+<Spektor> a mil
+<KoZa_> spk es una amiga ke busca amiga
+<Spektor> soy nerd y busco lesbianismo en undernet... Y QUE?
+<Arlequin> ahahaha
+<KoZa_> spketor: sos una lesbiana virtual :)
+<Arlequin> ahaha
+<Spektor> a 1oooooooooo
+<Spektor> me ausento por unos minutos :)
+<Arlequin> seguro va a buscar un cd de slush..
+14__[5join14_)1: Acer0 has joined channel #scene.ar.
+<Spektor> los cd de sludge son de lo mas
+<Arlequin> acero
+<KoZa_> che
+<KoZa_> ah..
+<KoZa_> acero: vos no sos ese anabolik..no?
+<Spektor> acer0 esta re duro
+<Acer0> no
+<KoZa_> ho
+<Spektor> (humor facil=
+<Acer0> koza : por?
+<Spektor> <gatoo> hola
+<Spektor> *basta* de anotar
+<KoZa_> acero: flashee
+<vENOMOUS> che
+<vENOMOUS> koza
+<KoZa_> spk ahaha
+<vENOMOUS> te acordas
+<vENOMOUS> el host ese
+<vENOMOUS> q hackearon los pelotudos de hack.ar?
+<KoZa_> ayer?
+<Acer0> koza : yo soy el vesinito de Ab!
+<vENOMOUS> se
+<KoZa_> creo que www.cnea.org.ar .. no se
+<vENOMOUS> noo
+<KoZa_> acer0: ah.. ya se quien sos
+<vENOMOUS> www.cie.com.ar
+<vENOMOUS> id
+<KoZa_> entonces te conozco :)
+<vENOMOUS> uid=0(root) gid=0(wheel) groups=0(wheel), 2(kmem), 3(sys), 4(tty), 
+   5(operator),
+<vENOMOUS> 20(staff), 31(guest)
+<vENOMOUS> hehehehehhe
+<KoZa_> haha
+<KoZa_> acero: no apareciste mas :)
+<Arlequin> veno:
+<Arlequin> eso significa? :)
+<vENOMOUS> haha
+<vENOMOUS> q lo tengo :)
+<vENOMOUS> anda a esa page
+<Arlequin> haaaa
+<Arlequin> a ver
+<Arlequin> joyaaaaa haha
+<vENOMOUS> argh
+<Spektor> ops ops
+<vENOMOUS> nono
+<Spektor> <yami> m o h
+<Spektor> que le digo?
+<vENOMOUS> no vallas.. coz la borraron
+<vENOMOUS> o
+<Arlequin> era la de comicion de energia atomica?
+<vENOMOUS> Spektor: o decile
+<vENOMOUS> ahah
+<KoZa_> no.. era algo educativo
+<Acer0> arl : consiguieron telas?
+<KoZa_> acero: no..
+<KoZa_> y necesitamos la mayor cantidad osible!
+14__[5join14_)1: AcidBrain has joined channel #scene.ar.
+*** happosai sets mode: +o AcidBrain
+<Acer0> llego el señor con acido en la cabeza
+<KoZa_> hoho
+<KoZa_> bueno..
+<KoZa_> ahora oiremos la historia del handle de ab..
+-AcidBrain:#scene.ar- [No place to hide!] np2h.dyndns.com [No place to hide!]
+<Spektor> aaaaaaaaaaaaaaaaaaaaagaagagag
+<vENOMOUS> away
+* vENOMOUS is away: (...) [BX-MsgLog On]
+<AcidBrain> ahhaheahehahe
+<Spektor> <MARIANITO> hola
+<Spektor> *basta*
+<Arlequin> nono segui!
+<Arlequin> ahaa
+<KoZa_> haha
+<KoZa_> spektor tiene feeling
+<Acer0> ab : kc tanto tiempo
+<KoZa_> habria que hacer un bot mujer con IA que haga lo que esta haciendo 
+   spektor
+<AcidBrain> a0: aca se anda.. pudiste hacer andar tu maquina del demonio?
+<Spektor> a mil
+<KoZa_> es posible de hacer..
+<Acer0> sip
+<Acer0> ab : lo encontre a jose!
+<AcidBrain> acer0: ahaha, kewl, ahi voy para alla
+<Spektor> <MARIANITO> tu edad ?
+<Spektor> <Karellen> 17
+<Spektor> POR FAVOR ........ LEAN ESTAAAAA!
+<Spektor> <ALAIN_OK> lindo nombre..nena
+<Spektor> GRAAAAAAAAAANDEEEEEEEEEEEEEEEE
+<KoZa_> hha
+<KoZa_> no puede ser tan idiota :)
+<Arlequin> ahahaha
+<AcidBrain> jjjauauajuauja
+<Spektor> <Karellen> grande campeón
+<Spektor> ya fue
+<Spektor> no merece mi sexo
+14__[5join14_)1: darkman__ has joined channel #scene.ar.
+<KoZa_> haha
+<KoZa_> el otro dia estuve hablando 4 horas con payton
+<KoZa_> en hack.ar  .. el chabon se enamoro de mi.. me hice la elita
+<Spektor> wow
+<Arlequin> ahhaa
+<KoZa_> decia que yo era su suenio.. una mina elita..
+<Spektor> imaginate una mina asi loco elita
+<AcidBrain> aheahehahe
+<Spektor> el chabon re desea ser sodomisado... dale duro
+<KoZa_> al final.. luego de las cuatro horas... el me decia que opii los bardeaba
+<KoZa_> y yo le digo
+<KoZa_> "soy opii"
+<KoZa_> se queria matar :)
+<Arlequin> hahaah
+<Spektor> <MARIANITO> y que es de tu vida ?
+<Spektor> aaaaaaahahahaha
+<KoZa_> old phriend :)
+<KoZa_> joya
+<KoZa_> ahora que entro octavo puedo seguir mirando su estilo para el octabot
+<Arlequin> ahahaha
+14__[5quit14_)1: AcidBrain has quit IRC (irc-e.frontiernet.net irc.exodus.net)
+14__[5quit14_)1: happosai has quit IRC (irc-e.frontiernet.net irc.exodus.net)
+14__[5quit14_)1: Minmei has quit IRC (irc-e.frontiernet.net irc.exodus.net)
+*** Acer0 is now known as A0-a\
+14__[5join14_)1: AcidBrain has joined channel #scene.ar.
+14__[5join14_)1: Minmei has joined channel #scene.ar.
+14__[5join14_)1: happosai has joined channel #scene.ar.
+*** irc.idle.net sets mode: +ooo AcidBrain Minmei happosai
+<KoZa_> bsb
+14__[5join14_)1: darkito has joined channel #scene.ar.
+*** darkito is now known as darkie
+14__[5quit14_)1: AcidBrain has quit IRC (irc.best.net irc.exodus.net)
+14__[5quit14_)1: happosai has quit IRC (irc.best.net irc.exodus.net)
+14__[5quit14_)1: Minmei has quit IRC (irc.best.net irc.exodus.net)
+14__[5quit14_)1: darkman__ has quit IRC (Ping timeout)
+*** darkie is now known as darkman__
+14__[5join14_)1: Minmei has joined channel #scene.ar.
+14__[5join14_)1: happosai has joined channel #scene.ar.
+*** irc.idle.net sets mode: +oo Minmei happosai
+14__[5join14_)1: AcidBrain has joined channel #scene.ar.
+*** happosai sets mode: +o AcidBrain
+* vENOMOUS is back from the dead. Gone 0 hrs 21 min 1 secs
+<vENOMOUS> back
+14__[5quit14_)1: darkman__ has quit IRC (Ping timeout)
+<KoZa_> CRONICA TV:
+<KoZa_> ULTIMO MOMENTO
+<KoZa_> ROMANCE ENTRE OCTAVO Y LAGATA
+<Arlequin> ahahahaa
+<Spektor> ahahhaahah
+<Spektor> flash
+<AcidBrain> eheheheh
+<KoZa_> (octavo le proveia informacion a la side a travez de la gata para ke nos 
+   busteen a todo :)
+<AcidBrain> che
+<Arlequin> ahahaaaaaaaaaa
+<AcidBrain> no saben que masa las boludeces que hace bio con el flash #)
+14__[5quit14_)1: AcidBrain has quit IRC (Leaving)
+<KoZa_> tachomierda ab :)
+<KoZa_> che arl..
+<KoZa_> que ondas.. diste alguna materia.. cuantas te kedaron¿?
+<Spektor> 8vo y su prima?
+<Arlequin> y.. por ahora 4 a marzo
+<Arlequin> pero bueh, ahora me dijo este miercoles rindo la ultima
+<KoZa_> pero que coeficiente de dadas/rendidas bien tuviste?
+14__[5join14_)1: [sludge] has joined channel #scene.ar.
+<Arlequin> koza
+<Arlequin> a ver, estas:
+<Arlequin> 2 mal 1 bien
+<Arlequin> mejor dicho
+<Arlequin> 1 mal 1 me cagaron 1 bien
+<KoZa_> hi federico Rodolfo slush
+<[sludge]> koza
+<Arlequin> la scene tendria que hacer un filme
+<[sludge]> posta
+<[sludge]> Poliwarez
+<Spektor> porn?
+<KoZa_> haha
+<Spektor> spektor vs shadow in the mud
+<Arlequin> haha
+<Arlequin> no, yo creo..
+<Spektor> spektor as himself
+<KoZa_> todavia no entiendo bien la definicion exacta de scene.. sus limites..etc 
+   :).. en realidad es nerds in a bolsa
+<Spektor> shadow as herself
+<Arlequin> muchas historia entrecuzadas
+<Spektor> octavo as the mud
+<Arlequin> claro
+<KoZa_> paren
+<KoZa_> paren
+<Arlequin> octavo vendria a ser el nosesabe de la pelicula
+<KoZa_> --------------------------
+<KoZa_> vean esto por dios!
+<KoZa_> ----------------------------------
+<KoZa_> <^glori0-> we're been working on a translation -- did it mean everyone 
+   here cares only for grubs?  ;)
+<Spektor> :)
+<KoZa_> <KoZa_> yes?
+<KoZa_> <^glori0-> is that "yes?" or "yes!"  ?  what DID it mean?
+<KoZa_> <KoZa_> yes! :)
+<KoZa_> <^glori0-> aha!
+<KoZa_> <KoZa_> what kind of traslation?
+<KoZa_> <^glori0-> thank you -- come back and teach us your language anytime -- 
+   this translation was dragged by the hair, laboriously and arduously, out of a 
+   spanish/english dictionary and was presumed to be fundamentally inaccurate (of 
+   "vinieron todos aca larvas")
+<KoZa_> -----------
+<KoZa_> FLASHHHHHHHH!
+<Spektor> WOWWWW!
+<Spektor> pero no entiendo bien
+<Arlequin> haaaaaaaaaaaaaah ahahhahaaaaaaaaa
+<Spektor> para
+14__[5join14_)1: rnt has joined channel #scene.ar.
+<KoZa_> yo tampoco
+<KoZa_> pero me re flasheo :)
+<[sludge]> ah?
+<Spektor> quien es ese tipo?
+<KoZa_> no se.. no esta en ningun canal 
+<KoZa_> creo que es dios :)
+<vENOMOUS> che arl
+<vENOMOUS> Arlequin: tas?
+<Spektor> es probable
+<Arlequin> sisi toy
+<Arlequin> que ondas?
+<vENOMOUS> Arlequin: estos servers podrian usarse para la pr2
+<vENOMOUS> drwxr-xr-x   3 nobody  nogroup   512 Oct 13 18:28 
+   www.cie.com.ar
+<vENOMOUS> drwxr-xr-x  11 nobody  nogroup   512 Oct 13 19:26 
+   www.croceri.com.ar
+<vENOMOUS> drwxr-xr-x   3 nobody  nogroup   512 Nov 16 20:04 
+   www.grimoldi.com.ar
+<vENOMOUS> drwxr-xr-x   3 nobody  nogroup   512 Nov 18 17:22 
+   www.icon.com.ar
+<vENOMOUS> drwxr-xr-x   3 nobody  nogroup   512 Nov 18 18:57 www.ieb.org.ar
+<KoZa_> loco.. que flash.. pense que me iba a dar a traducir cualquier cosa y 
+   salto con eso :)
+<vENOMOUS> drwxr-xr-x   3 nobody  nogroup   512 Nov 18 17:23 
+   www.incucai.org.ar
+<vENOMOUS> drwxr-xr-x   3 nobody  nogroup   512 Jul 14 11:48 
+   www.ludovicasquirru.com.ar
+<vENOMOUS> drwxr-xr-x   3 nobody  nogroup   512 Nov 19 09:31 
+   www.premiumconsulting.com.ar
+<vENOMOUS> drwxr-xr-x   3 nobody  nogroup   512 Oct 13 19:52 
+   www.raulruano.com.ar
+<KoZa_> ..
+<Arlequin> grimoldi hahhah
+<vENOMOUS> drwxr-xr-x   3 nobody  nogroup   512 Nov 19 12:51 
+   www.veternet.com.ar
+<vENOMOUS> drwxr-xr-x   3 nobody  nogroup   512 Jul 14 10:01 
+   www.websa.com.ar
+<vENOMOUS> eheh
+<Arlequin> joya yo creo que si..
+<Spektor> www.ludovicasquirru.com.ar
+<KoZa_> che..
+<Arlequin> pero ya fue lo de pr2 venomos, no te preocupes
+<KoZa_> ya fue pr2
+<KoZa_> igual tnx
+<Arlequin> veno: talvez para el 99; o para conseguirte una entrevista/laburo con el 
+  clarin?
+<Arlequin> :)
+<vENOMOUS> hahaha
+<vENOMOUS> pq ya fue?!..
+<Arlequin> porque :
+<KoZa_> veno: ya tenemos publicidad en clarin
+<Arlequin> compren el clarin del miercoles y fijense en : Seccion Informatica :)
+<Spektor> que grande octo
+<Arlequin> haha todo un deprav8
+<[sludge]> hahaha
+<[sludge]> es el mesias
+<vENOMOUS> Arlequin: q va a hber?
+<KoZa_> el profeta del childporn?
+<Spektor> *si*
+<KoZa_> el azote de los warez?
+<Arlequin> veno: no estoy seguro :) es decir, en que forma.. pero va a estar lo de 
+  la party :)
+<[sludge]> hahaha
+<Spektor> donde pasa octavo no vuelve a crecer la hierba
+<Spektor> o algo asi
+<[sludge]> ahhhhhhhhhhhhh
+<[sludge]> me muero
+<KoZa_> octavo escribio los 10 mandamientos??
+<Spektor> volvio la racha ganadora
+<Spektor> <Chess> hola !!!!!!!!
+<KoZa_> 1- tendras childporn
+<[sludge]> Spektor: hahaahah
+<KoZa_> 2- no desearas el childporn de tu projimo
+<KoZa_> 3- no usaras el nombre de warez en vano
+<rnt> hahaha
+<Spektor> kukuku
+<KoZa_> 4- no desearas la prima de tu projimo
+<rnt> hahaha
+<[sludge]> 5- no culearas (personas ajenas a tu familia)
+<Spektor> desearas a TU prima ?
+<rnt> che pero ke edad la prima? ahora me decis 8 a#os :)
+<KoZa_> rnt: algo asi
+<Arlequin> 10 creo
+<[sludge]> rnt: tenia 11 cuando la toketeo
+<rnt> KoZa_: dejate de joder
+<[sludge]> nono, no se sarpen
+<[sludge]> ahora tiene 13
+<KoZa_> si..
+<rnt> eh
+<KoZa_> pero onda.. la cosa fue a los 11 :)
+<rnt> yo ni por puta me fijo en la mia, ke tiene 18 y es rubia de ojos celestes... ke 
+   chabobn
+<KoZa_> 6- toquetearas a tu prima 3 veces por dia
+<Arlequin> digamos
+<Arlequin> uso la manecita de la prima para darse un toke
+<KoZa_> haha.. hchomierda
+<rnt> eh, eso esta muy mal.
+14__[5quit14_)1: A0-a\ has quit IRC (Ping timeout)
+<KoZa_> mm
+<KoZa_> sobredosis de childporn 
+<[sludge]> y depende
+<[sludge]> bah
+<Spektor> *silencio*
+<Arlequin> sludge: bueh :)
+<Arlequin> mira si la prima estaba conciente
+<[sludge]> ahora que tiene 13/14 si :)
+<KoZa_> nah.
+<rnt> dioz
+<Spektor> vuele un bife para sludge
+<[sludge]> y que se yo, si esta buena, esta buena
+<Arlequin> ahhaahahaa
+<[sludge]> Spektor: y vos callate que tenes una historia :)
+<rnt> uh
+<Arlequin> uhhhhh
+<Arlequin> cuenten cuentem
+<Arlequin> para los rumores de la revista
+<KoZa_> Si todos los hombres fuesen hermanos... dejarias que alguno se casase 
+   con tu hermana?
+<Spektor> sludge. pero tiene 15
+<Spektor> ...
+<rnt> spk, no me digas? :)
+<[sludge]> Spektor: y, esta 14, un anio menos
+<Spektor> no, pero ahí es cuando se nota la diferencia ...
+<Spektor> ... ... ...
+<Arlequin> si.,. 15 ya esta bien :)
+<rnt> ahahah
+<KoZa_> a partir de los 16 las minas se declaran brekeables
+<Spektor> a 1ooo
+<[sludge]> nah
+<[sludge]> bah, uds son mas grandes, maybe por eso
+<[sludge]> yo de 14 para arriba, si esta, esta
+<rnt> una cosa es a los 16, otra a los 11 y otra a los 13
+<KoZa_> cronicatv: Juicio a octavo, su tio lo denuncia
+<Arlequin> ahahaha
+<[sludge]> ahahhhhhhhhhhh
+<rnt> hahaha 
+<rnt> testimonios lo condenan
+<Spektor> testimonios re-ve-la-do-res
+<Spektor> AAAAAAAAAAAAAHAHAHaha
+<Spektor> me muero
+<Spektor> juro
+<rnt> "-si, yo se ke la torturaba cuando tenia 5 con una katana'
+<Spektor> risa
+<Spektor> mucho
+<Spektor> risa
+<KoZa_> haha
+<Spektor> huuhuh
+* vENOMOUS is away: (Auto-Away after 10 mins) [BX-MsgLog On]
+<Spektor> <KoZa_> uc: sos alcoholico?
+<[sludge]> y le metia un hierro caliente por el ojete
+<Spektor> JJJJJJJJJJJJJJJJJJJAjeJAOEjaeOAJ!
+<[sludge]> no, me fui al carajo
+<KoZa_> "a los 12 dormia con la katana"
+<Spektor> KAPJEOJEoAJ
+<Spektor> uctumi.. sos alcoholico!?!?
+<Spektor> AAAAAAhaHEHAE
+<rnt> ahahah
+<KoZa_> spk: te ayudo a meter ruido :)
+<KoZa_> spk: asi voikoteamos pvm
+<Spektor> dale
+<Spektor> dale
+14__[5quit14_)1: happosai has quit IRC (irc.best.net irc.exodus.net)
+14__[5quit14_)1: Minmei has quit IRC (irc.best.net irc.exodus.net)
+14__[5join14_)1: happosai has joined channel #scene.ar.
+14__[5join14_)1: Minmei has joined channel #scene.ar.
+*** irc.exodus.net sets mode: +oo happosai Minmei
+<KoZa_> dios
+<KoZa_> entra jente extrania en pvm :)
+<KoZa_> y no se repiten
+<rnt> ese es ka0z
+<KoZa_> no..
+<KoZa_> ese alerjan
+<KoZa_> es un .ar
+<[sludge]> <Spektor> alerjan. QUIEN SOS?
+<[sludge]> que hdp
+<[sludge]> <darkman__> alverja: si..
+<[sludge]> alverjaaaaa!
+<Spektor> :)
+<Arlequin> eh?
+<KoZa_> che..
+<KoZa_> hay que hacer un apply para entrar al canal
+<KoZa_> asi cuando joinea un nuevo se lo damos para ke lo llene y despues lo 
+   autorizamos o no
+<Spektor> si
+<Arlequin> eso
+<Arlequin> que venga a scene.ar si quiere
+<KoZa_> mm
+<KoZa_> bueno.. tampoco la cosa es convertir scene.ar en el deposito de 
+   chatarra :)
+<KoZa_> soy scene.arista
+<Spektor> AAAAAAAAAAAAAAAAAAAAAAHAHAHAHAHHA
+<Spektor> un paja me mando su foto!!!!!!
+<Spektor> AAAAAAAAAJAJAJAJA
+<Spektor> mirenla plz
+<KoZa_> hahahha
+<KoZa_> manda!!
+<rnt> to-k-la
+<Arlequin> quien es?
+<Arlequin> no loco
+<Arlequin> #pvm es cualquiera
+<KoZa_> spk: le mandaste la de la promotora? :)
+<[sludge]> me van a matar en la party
+<[sludge]> como bardie
+<KoZa_> che.. spk manda again
+<Spektor> koza. obvio :)
+<Spektor> <Chess> te doy mi tel ?
+<KoZa_> naa
+<KoZa_> que podes hacer con el tel?
+<KoZa_> spk: mandame la foto del chabon again a mi
+<Spektor> ops 
+<Spektor> es el mirc de porquería, despues te la paso
+<Arlequin> haha
+<Arlequin> para que te doy una re retoke
+<Arlequin> pasale esta foto w8
+<Spektor> icq arl
+<Spektor> <Chess> 15 039-9458 ( movi ) o 901 - 4410
+<Spektor> que pajotona
+<KoZa_> nah.. que mal ese chabon :)
+<Arlequin> haaaaaaaah
+<KoZa_> bueh..
+<KoZa_> si te pasan la foto de una promotora asi vos no le darias el fono? :)
+<Spektor> obvio 
+<Spektor> <Chess> tu tel ?
+<Spektor> ops
+<Arlequin> el de octavo?
+<KoZa_> haha
+<KoZa_> de una
+<rnt> sos un capo levantandote nerds spk :)
+<Spektor> damelo damelo damelo
+<KoZa_> de guan (c) rnt
+<Arlequin> nono
+<Arlequin> muy sarpado seria :)
+<[sludge]> hahaahah
+<KoZa_> dale
+<[sludge]> hahaaaaaaaaaa
+<[sludge]> nnnnonono
+<KoZa_> decile que pregunte por el nombre de la prima :)
+<Arlequin> ahaha
+<Arlequin> no, se enoja y nos mata a todos con la katana
+<rnt> ahahah
+<KoZa_> che arl
+<KoZa_> decile que traiga la katana a la party
+<KoZa_> asi se mata alguno
+<Spektor> si
+<Arlequin> si, yo igual llevo algo.. no se sabe que puede pasar
+<Spektor> arl flashero
+<KoZa_> haha
+<KoZa_> arl es un peligro :)
+<KoZa_> que te vas a llevar?
+<[sludge]> llevemos merka! y vendamos
+<Arlequin> una victor inox que corta como la concha de la lora..
+<KoZa_> una bombaH ?
+<Arlequin> aparte tiene toco de cosas utiles para ensablar a ultimo momento
+* Spektor is gone *i have left - email *dj-spektor"usa.net - since *4:55 pm
+<KoZa_> bueh.. eso es re cascarudo :)
+<KoZa_> yo pense que me ibas a decir un FAL.. o algo de eso:)
+<[sludge]> ahahahah
+<[sludge]> ni yo tengo eso
+14__[5join14_)1: tupamaro has joined channel #scene.ar.
+<Arlequin> bolo, un fal debe salir lot
+<tupamaro> bueno
+<KoZa_> quien sabe.. vamos a tener que luchar contra la side, la pfa y lagata
+<rnt> un fal te cuesta la vida
+* Spektor is back *i have returned - gone for *0: 1(+s10)
+<Arlequin> es verdad, va a ser todos contra nosotros
+<Arlequin> haha
+<KoZa_> sip.. en todo sentido
+<tupamaro> quien es lagata
+<Spektor> un chango de la side
+<Arlequin> contra el x-team y el escuadron elite tambien
+<KoZa_> que nos monitorea
+<tupamaro> que mal
+<KoZa_> y estudia nuestros habitos nerds
+<tupamaro> van a boicotear la part?
+<Spektor> si
+<KoZa_> no
+<KoZa_> nos van a bustear a todos
+<Arlequin> nose; bah todo bien, creo que los de x-team decian en dalnet a todo el 
+  mundo que vengan
+<tupamaro> bueno
+<rnt> voy a por un trago
+<tupamaro> hay que ir preparados
+<KoZa_> arl: como es eso?
+<tupamaro> conseguimos gases, etc
+14__[5join14_)1: LordAcid has joined channel #scene.ar.
+<rnt> yo llevo britbas y sabres para todos
+*** LordAcid is now known as AcidBrain
+<Arlequin> koza: dunno
+<AcidBrain> gruv!, flash #)
+*** tupamaro is now known as rootsoul
+<rnt> che spk toka las fotos :)
+<KoZa_> tienen espada laser onda star wars?
+<Spektor> rnt. el mirc choto este no anda
+<Spektor> loco
+<Spektor> bardo #pvm
+<KoZa_> si
+<Arlequin> si loco
+<Arlequin> voto por +k de garka
+<Spektor> naa
+<Arlequin> no se puede
+<Arlequin> asi
+14__[5crEEd14_)1: current netsplit from irc.best.net irc.Prison.NET
+<Arlequin> porque ni siquiera se puede chatear, es re dificil seguir el hilo
+<AcidBrain> voto por el +l
+<rnt> spk: todo guei
+*** Minmei sets mode: +o Arlequin
+14__[5quit14_)1: [sludge] has quit IRC ([BX] The FDA says 5 servings of BitchX a day 
+increases sexual potency)
+<KoZa_> vieron
+<KoZa_> scene.ar es betta
+<rnt> ahora la coza cambia
+<AcidBrain> supporteamos scene,.ar
+* vENOMOUS is back from the dead. Gone 0 hrs 29 min 10 secs
+*** rootsoul was kicked by vENOMOUS (that's all i have to say about rootsoul)
+*** vENOMOUS sets mode: +b *!*rootsoul@*.servicenet.com.ar
+<rnt> che venomous ke poronga tenes?
+<vENOMOUS> por?
+<Arlequin> w8w8ww8w8
+<Arlequin> hay una confusion
+<KoZa_> che
+<KoZa_> -b
+<rnt> para ke co#o banneas a gv, por ej?
+<vENOMOUS>  es nervioz? o no
+<Arlequin> el forro de venomous nos andaba hackeando los bots
+<Arlequin> pero
+<rnt> es groove chaval
+<vENOMOUS> uh
+<Arlequin> ahora esta groove en lo de nervioz
+*** vENOMOUS sets mode: -b *!*rootsoul@*.servicenet.com.ar
+<rnt> haahha
+14__[5join14_)1: rootsoul has joined channel #scene.ar.
+<KoZa_> uh+
+14__[5part14_)1: Spektor has left channel #scene.ar.
+14__[5join14_)1: Spektor has joined channel #scene.ar.
+<Spektor> porque me kickearon?
+<Spektor> che, groove
+<KoZa_> spk.. no te kickearon
+<KoZa_> *** Spektor (karellen@ppp109-ts1.servicenet.com.ar) has left #scene.ar
+<Spektor> aha!
+14__[5quit14_)1: AcidBrain has quit IRC (Leaving)
+14__[5join14_)1: [sludge] has joined channel #scene.ar.
+14__[5quit14_)1: KoZa_ has quit IRC (Leaving)
+14__[5quit14_)1: rootsoul has quit IRC (Leaving)
+14__[5join14_)1: koza has joined channel #scene.ar.
+<Spektor> <Stevens> uhhhhhhh falta shadow aca!
+<Spektor> <Stevens> jajajaja
+<Spektor> <Stevens> mira vos...este azrael metido en todos lados ! 
+*** koza is now known as koZ4
+<Arlequin> ahhahaha
+<[sludge]> hahahah
+<Arlequin> entro con mi nuevo nick en prima.com.ar
+<Arlequin> y a los dos segundos ya me msgean
+<koZ4> haha
+<koZ4> yo soy carolina :)
+<koZ4> la shika eleet
+<Arlequin> ahaha
+<Arlequin> denme la foto
+<Arlequin> yaa
+<Arlequin> que consegui tres
+<[sludge]> haahahahah
+<koZ4> haha
+<Arlequin> please
+<Arlequin> please
+<Arlequin> please
+<koZ4> la foto de la promo?
+<Arlequin> esa!
+<Arlequin> che
+<Arlequin> denle la puta madre
+<Arlequin> ya son 5
+*** happosai sets mode: +o [sludge]
+<koZ4> vendamos childporn y acostemosnos con nuestras primas!
+<rnt> haha
+<Arlequin> koza
+<Arlequin> la foto la concha tu ma
+<rnt> vendamos nuestras primas y acostemonos con sus amigas
+<[sludge]> eso me parece mejor
+<rnt> seh, mi prima tiene cada amiga de puta madre.
+<Arlequin> ya 
+<Arlequin> son 8
+<Arlequin> los que estoy hablando
+<Arlequin> y quieren mi foto
+<[sludge]> epa, entrega a las amigas de tu prima
+<Arlequin> koza
+<Arlequin> vos querias gente
+<koZ4> no tengo la foto aca
+<koZ4> que es #amigovios?
+<Arlequin> #conferencias
+<Arlequin> pero mi nick: hotgirl
+<rnt> un canal lamo como todos
+<Arlequin> atrae mucho
+<koZ4> che loco
+<koZ4> mandemos a todos los lamos a #amigovios y hacemo la orgia
+<[sludge]> ahahahaah
+<Arlequin> ahha dale
+<Arlequin> quien sos koza?
+<koZ4> carolina
+<koZ4> <otro> puedo ir si llevo una flor en el ojal?
+<koZ4> ese es el pelotudo que va a tener una flor en el ojal :)
+<[sludge]> hahaha
+<[sludge]> ahhhhhhhhhhh
+<koZ4> nota mental: cagarlo a pinia  :)
+<Arlequin> ahahaha
+<Arlequin> espero que sirva
+<Arlequin> haha
+14__[5join14_)1: darkman__ has joined channel #scene.ar.
+14__[5quit14_)1: Spektor has quit IRC (Leaving)
+14__[5join14_)1: hard2kill has joined channel #scene.ar.
+* vENOMOUS is away: (Auto-Away after 10 mins) [BX-MsgLog On]
+*** hard2kill was kicked by vENOMOUS (Yo momma so poor she can't afford to pay 
+attention!)
+14__[5join14_)1: AcidBrain has joined channel #scene.ar.
+*** happosai sets mode: +o AcidBrain
+* vENOMOUS is back from the dead. Gone 0 hrs 5 min 10 secs
+14__[5quit14_)1: rnt has quit IRC (Ping timeout: 240 seconds)
+14__[5quit14_)1: AcidBrain has quit IRC (Leaving)
+14__[5join14_)1: AcidBrain has joined channel #scene.ar.
+*** happosai sets mode: +o AcidBrain
+Session Close: Sun Dec 20 02:34:29 1998
+
+Session Start: Tue Dec 29 21:38:55 1998
+* Logging #scene.ar to: [#scene_a.log]
+14__[5join14_)1: fugitivo has joined channel #scene.ar.
+*** Minmei sets mode: +o SYShalted
+14__[5join14_)1: Acer0- has joined channel #scene.ar.
+<Arlequin> a0
+<Acer0-> arl.. como anda
+14__[5join14_)1: happosai has joined channel #scene.ar.
+*** PiBeRombo sets mode: +o happosai
+*** SYShalted sets mode: +o happosai
+*** Minmei sets mode: +o happosai
+*** happosai sets mode: +o PiChan
+*** SYShalted sets mode: +o Arlequin
+14__[5join14_)1: [sludge] has joined channel #scene.ar.
+14__[5quit14_)1: biomemo has quit IRC (Ping timeout)
+*** happosai sets mode: +o [sludge]
+14__[5quit14_)1: Acer0- has quit IRC (Ping timeout)
+Session Close: Tue Dec 29 22:01:52 1998
+
+Session Start: Fri Jan 08 00:17:56 1999
+* Logging #scene.ar to: [#scene_a.log]
+14__[5crEEd14_)1: you just received filename (muehe8.ans) from darkman__
+14__[5crEEd14_)1: you just received filename (cover1.jpg) from Spektor
+<Arlequin> che
+<Arlequin> se me ocurre
+<Arlequin> si empezas a trabakar koza..
+<Arlequin> quien organiza la partee?
+<Spektor> deja todo en manos de red
+<darkman__> arl: entre todos :)
+<Arlequin> dm: si.. no sabes:))
+<Arlequin> bueno
+<darkman__> yo me ofrezco..
+<Arlequin> spektor..
+<Arlequin> okee.. joya dm
+<Spektor> sisisi 
+<Arlequin> hacemos asi.. a spektor lo usamos para hablar por fono con las 
+  empresas :) y despues nosotros hacemos el resto..
+<darkman__> arl: posta.. te acordas que te conte lo de mi amigo que trabaja en una 
+   empresa armando redes..
+<Arlequin> y lo que pueda koza..
+<koza> arleca: en el texto que casi termine sobre la party
+<koza> arleca: digo algo que se los adelanto ahora si es ke no se los adelante ya
+<koza> dejo la organizacion de theflash99 por falta de time (laburo+estudio+hacer 
+   un demo)
+<Arlequin> _ crEEd ,/ xdcc *3 file(s) */m Arlequin xdcc send #n
+<Arlequin> 1 *[4x/00k] *THE FLASH 98 - OFFICIAL RESULTS COMPOS 
+<Arlequin> 2 *[2x/00k] *THE FLASH 98 OFFICIAL ONLINE ANSI 
+<Arlequin> 3 *[0x/00k] *THE FLASH 98 - Ascii works, include special guests 
+<Arlequin> -totals (offered: *kb) - (gotten: *kb)
+<koza> bueh.. pongansen tristes che :)
+<koza> o tirenme la bronca :)
+14__[5crEEd14_)1: xdcc> Uctumi just requested file #3
+<Arlequin> todo mal
+<Spektor> y...
+<Arlequin> pero
+<Arlequin> para evitar la muerte
+<Arlequin> podes dejar las cosas con guillermo en 0 y listo :)
+<koza> posta.. voy a tener 0 time.. si me pongo a hacer algo no voy a poder.. y lo 
+   voy a hacer mal..
+<koza> haha
+<Arlequin> tipo, que haya posibilidades de usar el mismo lugar
+<koza> uh.. cierto que sigue existiendo guillote.. me habia olvidado :)
+<Arlequin> porque otro dudo que consigamos
+<koza> arleca: mmmm
+<Arlequin> al final.. te vas a vivir solo? 
+<koza> arleca: acordate que ahora guillote vio que no fue _nadie_ .. se dio cuenta 
+   todo el chamuyo que le hicimos.. pueden pasar dos cosas : 1- que se rehuse y 
+   nos mande al carajo ...  2- que se ponga las pilas y haga el bocha de publicidad... 
+    me tiro por la opcion 1 :)
+<koza> Arlequin: voy a ver.. vamo a ver en que gasto el sueldo
+<Arlequin> como que no fue nadie.. digamos.. tendria que haber ido alguien?
+<koza> yo jui
+<Arlequin> y encima hay que pagar mas?
+<koza> yo no pago mas :)
+<Spektor> che
+<Spektor> ya fue la party 
+<Arlequin> bueno.. igual esa era una reunion del comitee :)
+<Arlequin> yo tampoco..
+<darkman__> spek: ?
+<koza> ehh.. para spektor
+<Spektor> para para
+<Arlequin> bueno.. dale..
+<Arlequin> diganme.. si fue
+<Spektor> vamos a ser realistas :)
+<koza> ya hubo una party.... o sea.. se demostro que es posible (larvaticamente 
+   hablando)
+<Arlequin> asi me retiro y me dejo de perder el tiempo con esto..
+<Arlequin> si es verdad.. yo creo que no va a haber otra
+<koza> Spektor: si con arlequin hubiesemos sido _realistas_ 20 dias antes de la 
+   party... no se hubiese hecho y se hubiese cancelado para el culo :)
+<Spektor> no no
+<darkman__> koza: es verdad
+<Spektor> pero en ese momento no habia forma de volver atras
+<darkman__> despues cuando llegue el momento de la party y _no haya party_ 
+   nos vamos a arrepentir.. todos..
+<koza> Arlequin: no podes decir eso despues de todo lo ke chamuyamo e hicimo :)
+<koza> Spektor: si que habia forma de volver atras.. un simple  "la party no se 
+   hace" 
+<darkman__> y van a decir "ah, pero yo hubiera hecho esto, hubiera ayudado en 
+   eso y la haciamos"
+<darkman__> aunque fuera mas o menos larva..
+<koza> nos hubiesen puteado todos si la cancelabamos.. tanto como ahora nos 
+   putean por la organizacion :)
+<darkman__> koza: nah!.. nadie putea por la organizacion :).. 
+<Spektor> koza. pero igual. hasta 1 día antes había esperanza de que vengan 
+   1000 personas
+<Arlequin> si.. pero pasa.. que si ya fue lo de guillermo.. y vimos que no hay Nada 
+  de convocatoria..
+<Arlequin> el dinero no alcanza para pagar un lugar
+<koza> Spektor: en eso tenes razon.. ya fue.. .. ahora aprendimos que no es tan 
+   simple que venga bocha de gente.. aunque salga en clarin
+<koza> Arlequin: el lugar se llama "buenos aires no duerme" :)
+<koza> hay que empezar negociaciones por ese lado
+<Arlequin> no.. prefiero que todo muera decentemente.. no te parece?
+<koza> y thered dice que tiene _miles_ de contactos.. y si lo dejan a el.. capaz que 
+   organiza toda la party el solo :)
+<Spektor> yo si
+<koza> naaa.... la muerte debe ser deshonrosa.. sino no hay sufrimiento
+<Spektor> vos porque sos mazokka
+14__[5join14_)1: Uctumi has joined channel #scene.ar.
+<darkman__> cual es el aspecto que mas preocupa de la party?.. 
+<Uctumi> ok
+<Uctumi> de que hablan?
+<darkman__> de que no se hace la party..
+<Arlequin> yo tengo el animo por el piso..
+<Arlequin> talvez es el dia
+<koza> Uctumi: yo les comunike a arl y a spekta que no voy a organizar theflash99 
+   por falta de time.. y ya se re bajonearon :)
+<Uctumi> koza: ah
+<Uctumi> arlequin: uhhh
+<Uctumi> che, ayudamos entre todos!
+<Uctumi> yo si quieren me meto en la organizacion
+<koza> pero pienso que esta vez mas gente se puede poner las pilas con la 
+   organizacion.. o sea.. una vez que ya todos vieron que no era _imposible_
+*** Spektor is now known as Hal-9ooo
+<Arlequin> claro..
+<Arlequin> pero pasa.. el lugar es lo fundamental..
+<Arlequin> cuanto teoricamente falta garpar?
+<koza> Arlequin: una semana antes estabamos viendo un lugarcito de fiestas 
+   infantiles.... papanoel ayudo
+<Arlequin> la silla la pongo yo..
+<koza> arleca: exactamente falta garpar el monto que figuraba en el papel ese que 
+   _NO_ firmamos :)
+<Arlequin> hahaa
+<Arlequin> pero tipo, 30$?
+<darkman__> aha.. koza fugitivo
+<darkman__> koza afeitate
+<Uctumi> $30!
+<koza> darkman__: me afeite a los kostados
+<koza> y me corte el pelo
+<fugitivo> eh?
+<koza> y hoy me compre un traje
+<fugitivo> yo que?
+<Uctumi> koza: hay dios, todo mal ;)
+<fugitivo> ah
+<koza> y ayer me sacaron sangre
+<Arlequin> koza, cuanto $?
+<darkman__> koza. haha
+<Uctumi> koza: y yo instale w95! todo mal!
+<Uctumi> nos estamos institucionalizando
+<koza> arleca: no se.. teoricamente era: hacer el informe+silla+luz
+<koza> Uctumi: Lucha contra el sistema!
+<Arlequin> bueno.. 
+<Uctumi> koza: haha
+<Arlequin> me parece que maniana llamo a guillermo y listo
+<Arlequin> y vemos
+<koza> Arlequin: llamalo.. igual a el le debe chupar un huevo todo.. total.. mientras 
+   tenga pa la frula
+<darkman__> arl: acordate que en la prox. meet lleva la ethernet..
+<fugitivo> che
+<Uctumi> koza: hahahahahaha
+<fugitivo> preguntemos como fue la primera assembly =)
+<darkman__> koza: hoho
+<Arlequin> fue en el primer mundo..
+*** Hal-9ooo is now known as Spektor
+<darkman__> arl: es verdad
+<fugitivo> preguntaste?
+<koza> hahhaa.. si
+<Uctumi> che, el año que viene no hagamos flash99, vamos todos a assembly :)
+<koza> recuerden que somos la vanguardia artistico digital larvista del tercer 
+   mundo
+<Arlequin> es verdad
+<Arlequin> bueno..
+<koza> Uctumi: ok.... robemos un avion y vamos
+<Uctumi> koza: posta
+<fugitivo> no creo
+<koza> Arlequin: think bsas no duerme
+<fugitivo> debio ser igual o peor que theflash
+<Arlequin> pienso editar dj-sudamerka  magazine..
+<darkman__> uctumi: robemos el tango, el avion de mendez
+<Uctumi> dark: haha
+<Arlequin> asique e que enserio quiera colaborar..
+<Arlequin> osea nadie :)
+<koza> Arlequin: yo te puedo tirar un par de ideas / notas... 
+<Uctumi> pero! son todos hackers! no pueden sacar un viaje de avion onda juegos 
+   de guerra?
+<darkman__> dj-sudamerka? es re solo musica..
+<Arlequin> koza: si notas :)
+<Arlequin> spektor: la notaaaaaaa
+<darkman__> uctumi: y.. :)
+<Arlequin> y llama al chabon de las fotos..
+<Uctumi> sudamerka hahah
+<darkman__> arl: ah!, me llamo vitrogeno y me dijo que las fotos todavia las tiene 
+   que escanear, que tiene mucho laburo en la diskeria
+<Uctumi> arl: ya me lo baje :)
+<Uctumi> che, posta, give up the bajon!!
+<koza> aoy hacker
+<darkman__> la party se hace si o si.. por mas que tenga que ser en la casa de 
+   koza
+<koza> ehhrmm.. todo bien.. mientras no sean mas de 10 personas :)
+<Arlequin> dm: tiempo para scanear 20 fotos.. no es mucho :) okee..
+<darkman__> hah
+<Arlequin> no.. es cualquiera.. casa no.. 
+<darkman__> ademas no puede ser en el campo..
+<darkman__> no viene nadie
+<Arlequin> dale darkman.. prendete en la depresion :)
+<koza> bss asss noooo dueermee
+<darkman__> arl: nono.. no way..
+<Arlequin> hehe
+<darkman__> koza: bs as no duerme!?.. what?!
+<fugitivo> en bs as no duerme hay que repartir folletos
+<koza> no
+<darkman__> ah..
+<koza> en buenos aires no duerme es la _party_
+<Uctumi> si posta
+<Arlequin> - ***********************************************************************
+<Arlequin> - 
+<Arlequin> -  :::            ::::::::::.        :::::::-.         :::::::-.       
+<Arlequin> -  ;;;             `;;;```.;;;        ;;,   `';,        ;;,   `';,     
+<Arlequin> -  [[[              `]]nnn]]'         `[[     [[        `[[     [[     
+<Arlequin> -  $$'               $$$""             $$,    $$         $$,    $$     
+<Arlequin> - o88oo,.__  d8b     888o       d8b    888_,o8P'  d8b    888_,o8P'  d8b
+<Arlequin> - """"YUMMM  YMP     YMMMb      YMP    MMMMP"`    YMP    MMMMP"`    
+  YMP
+<Arlequin> - 
+<Arlequin> -                        LoS PiBES DeL DoFON
+<Arlequin> - 		     iNTERNATIONAL IRC SERVER
+<Uctumi> folleteada en buenos aires no duerme!!!
+<Spektor> ?!?!?!
+<fugitivo> ni ahi
+<darkman__> koza: en buenos aires no duerrmee!?!?!
+<Arlequin> che
+<fugitivo> eso lo organiza el gobierno de la nacion
+<fugitivo> no seria _nuestra_ party
+<Arlequin> sugiero meter a thered en la party..
+<Uctumi> arlequin: ese ansi no llego :)
+<koza> Arlequin: que es eso?.. quienes son los p del dofon?
+<Uctumi> arl: ese aski
+<koza> fugitivo: ensecuestramos un lugar
+<Arlequin> es un cybergrupo eleet top secret
+<fugitivo> arl: thered no se pone las pilas
+<koza> Arlequin: yo tambien.. pero es peligroso.. van a tener que controlarlo
+<Arlequin> por eso
+<fugitivo> koza: hehe
+<Arlequin> porque va a quereer hacer todo para el
+<koza> Arlequin: onda.. yo pienso que lo quiere tirar para el lado comercial por lo 
+   que me dijo
+<Arlequin> pero.. cuando el chabon se pone las pilas..
+<Arlequin> no importa lo comercial.. la cosa es que se haga
+<koza> Arlequin: y creo que va a querer ganar guita con las entradas
+<Arlequin> no importa , en este caso, los medios :)
+<darkman__> claro
+<koza> Arlequin: onda.. $30 la entrada :)
+<darkman__> podemos hacerlo un toke comercial.. 
+<Arlequin> no, el no gana nada porque lo mato
+<Spektor> basta
+<darkman__> colgamos un par de banderas de shoppings..
+<Uctumi> $30 la entrada!!!
+<koza> yo voy a hacer un demo que se va a llamar "carrefour, lo mejor y mas 
+   barato"
+<Uctumi> haha
+<Spektor> no se dan cuenta
+<darkman__> koza: ahhahaha
+<Uctumi> koaz: HAHAAH
+<Arlequin> spek, que
+<darkman__> basta.. la party se hace
+<darkman__> y se va a hacer en grande
+<Uctumi> posta, lo que dice darkman
+<darkman__> tengo para aportar..
+<koza> bueno.. el punto es que.. el decir "theflash99" no se hace es de __larva__ 
+   .. no puede ser que ni siquiera empezaron a organizar..etc.. y ya esten abajo9.... 
+   yo sugiero ke el primer paso sea definir el equipo de organizacion... que fijen una 
+   reunion una vez por semana en IRC para hablar.. que se comuniken por mail.. y 
+   una vez por mes como minimo se juntan en persona (2600).. seremos boludos 
+   pero somos una bocha... y tiramo todo pal mismo lado
+<Spektor> vamos darkman
+<Uctumi> vamos Koza, y Dark
+<Arlequin> basta, kickeeen a spektor que nos deprime a todos :)
+<darkman__> koza: isa
+<Uctumi> hahah
+<darkman__> hah
+<Spektor> ok, pero yo soy dios
+<Arlequin> todo mal.. 
+<Uctumi> haha
+<Spektor> y les voy a meter 380 watts por el culo
+<koza> Spektor: loco.. no nos tires abajo.. un par de anfeta y te pones pila :)
+<Arlequin> porque somos todo chicos/no chamuyeros
+<Uctumi> hahaha
+<Arlequin> salvo spektor y koza..
+<Uctumi> koza: hahah
+*** darkman__ sets mode: +o Spektor
+<Uctumi> spektoro!
+<darkman__> spek: dale, yo te doy op :)
+<koza> Arlequin: atras del telefono sos graaaandeee
+<Spektor> es verdad
+<Uctumi> che spektor es chamuyex
+<Arlequin> ok... 
+<Uctumi> dark: ahora nos pones op a todos :)
+<darkman__> uc: errm..
+<Spektor> me tenes que ver con una mina
+<Uctumi> bueh
+<fugitivo> che arl, alguna pagina de arte digital?
+<koza> 1) Definir equipo de organizacion  .. 2) que 2 personas se pongan con la 
+   web que es importante ... 3) empezar a tirar para varias puntas.. sponsors... 
+   bsas no duerme.. etc..
+*** darkman__ sets mode: +oooo Arlequin fugitivo koza Uctumi
+<Spektor> tengo el chamullo de un control remoto
+<Arlequin> quien se compromete a participar de la organizacion.. eso incluye: 
+  mucho tiempo, hablar con gente gente, revolver por todos lados para sacar 
+  cosas..
+<Arlequin> fug
+<Spektor> tengo el chamuyo de un cascote
+<Arlequin> www.artev.com.ar
+<Arlequin> bueno, pero sos el mas de aca:)
+<koza> spk: tenes chamuyo larva.. no chamuyes que no podes chamuyar.. que 
+   chamuyero ke so.. so puro chamuyo vo
+<Spektor> tengo el chamuyo de un mouse
+<Uctumi> koza: hahaah
+<Arlequin> ves, ya estas chamuyando
+<Uctumi> che posta
+<Spektor> koza. *plop*
+<fugitivo> Arlequin: no anda
+<Spektor> no me chamuyen
+<Uctumi> es verdad lo que dice koza, hay que empezar a hacer algo
+<darkman__> ** si viera la cana todo el equipo para armar redes que poseeo en 
+   este momento me bustean.. **
+<koza> que flash condorito
+<Uctumi> darkman: hahah, armemos una intranet!
+<Arlequin> fug, a ver...
+<Uctumi> darkman: conseguimos unos kilometros de cable y listo :)
+<koza> armemos la ortonet
+<Uctumi> ortonet eleet
+<darkman__> posta.. en INCA seguros me conozco a bocha de gente..
+<Uctumi> eleetenet
+<Spektor> koza. pero vos no es que no vas a participasR?
+<darkman__> a los chabones de las redes, (a uno le hice un ansi para un 
+   programa gratis, eh?! :), a los que aseguran por telefono y a el que limpia :)
+<koza> Spektor: yo tiro ideas nomas :)
+<Arlequin> www.artev.com
+<Spektor> bueno, yo hago lo mismo de koza
+<darkman__> el que limpia ya me chorio 7 ethernets!..
+<darkman__> me chorio o sea.. chorio y me dio
+<Arlequin> ahha que groso..
+<Uctumi>  darkman: bueno, consegui sponsor por ahi :)
+<Arlequin> spektor
+<fugitivo> darkman__: me regalas algo de la merca?
+<Arlequin> vos te vas tambien?
+<Spektor> nah
+<darkman__> fug: veni a buscar.. me sobran conectores huehue.. como 20..
+<Arlequin> ah, que me pongo loco eh
+<Arlequin> :)
+<koza> arl & spk: yo me retiro.. todo bien si se retiran uds tambien.. (jajaa.. huimos 
+   todos :) .. entonces pongamonos de acuerdo quienes van a ser nuestros 
+   sucesores (red+uctumi+darkman) ?? :)
+<Uctumi> dark: listo
+<fugitivo> bah
+<fugitivo> decia una placa de video, o algo asi
+<darkman__> fug: tambien tengo :)
+<Uctumi> koza: RED no
+<Arlequin> fug?: qe
+<Arlequin> uct
+<darkman__> red si!
+<Arlequin> hayq ue pensarlo bien eso
+<darkman__> tiene 'contactos'
+<Uctumi> uctumi+darkman+fugitivo+acidbrain <---- re larva mal
+<Arlequin> lo de red.. yo pienso que si.. 100%
+<fugitivo> Arlequin: ah?
+<Spektor> dark. red NO
+<fugitivo> darkman__: que placas son?
+<Uctumi> ningun THe rED!
+<fugitivo> darkman__: algo que supere a mi trident?
+<koza> red si.. de una.. pero hay que controlarlo... 
+<darkman__> fug: tengo una que tiene salida de tv y no se como mierda anda
+<Arlequin> claro..
+<darkman__> fug: ahah
+<Uctumi>  koza: red con chumbo si
+<koza> btw: les llego el email de thered? :)
+<Spektor> koza. a quien no
+<Uctumi> koza: no me llego ningun email del the_red
+<darkman__> no
+<Arlequin> si..
+<Arlequin> ah ver que les muestro
+<Uctumi> que decia, cuenten cuenten
+<Arlequin> son como 8733 paginas
+<koza> ho.. no les llego a todos entonce
+<Arlequin> con la historia de su vida
+<koza> rilissssss! :)
+<Uctumi> ehhhhhh?
+<Uctumi> no me digas!
+<fugitivo> a todos nos llego ese email =)
+<koza> canto de un punga al dejar el nido
+<Uctumi> a mi no!!
+<darkman__> a mi tampoco
+<Uctumi> koza: che, forwardeamelo!
+<Uctumi> muero de intriga :)
+<fugitivo> Arlequin: pero una pagina con arte mas loco, este es muy formal =)
+<Uctumi> che, estoy descubriendo que me estoy volviendo re chismoso
+<Arlequin> fug, hrmnm, yo ya me recorri todo yahoo buscando algo decente
+<Arlequin> ahaha
+<Uctumi> y bueh
+<Arlequin> uctumi, rumores de la scene
+<Uctumi> arl: rumours
+<Uctumi> arl: sendia el mail!
+<Uctumi> arl: pasalo
+<Arlequin> te encargas de esa seccion enla zine?
+<Arlequin> a verq ue lo pase a .txt
+<fugitivo> Arlequin: y no encontraste?
+<Spektor> a uds los voy a cagar a tiros
+<Uctumi> arlequin: hohoo, es re carolo :)
+<koza> spektor.. todo mal con vo
+<Uctumi> PRIMICIA EN LA SCENE: spektor asesinó 5 jovenes
+<Arlequin> todo ma
+<Arlequin> l
+<Spektor> a mil
+<Arlequin> hay 50mb para subir de la party
+<Spektor> pum!
+<Arlequin> y me anda a 0.15k
+<Uctumi> gaga
+<Uctumi> aha
+<Arlequin> como resolvemos eso?
+<Uctumi> arlequin: y bueh, empeza a subir, despues en el 99 terminas :)
+<koza> Arlequin: te diria que con thered.. :)
+<Uctumi> arl: lleva el HD a la casa de koza, o traelo aca y lo subimos
+<Arlequin> bueno
+<Arlequin> quedamos asi..
+<koza> repartamo lo mega
+<Uctumi> claro
+<Uctumi> ahi ta
+<Arlequin> staff de tf98: spektor... uctumi y yo...    vos darkman te enganchas 
+  tonces?
+<koza> Arlequin: no.. mira .. daselo a thered.. es una buen test para ver si el 
+   chabon puede hacer algo por la party way
+14__[5quit14_)1: darkman__ has quit IRC (Ping timeout)
+<Arlequin> uops
+<fugitivo> haah]
+<Uctumi> uhh
+<Uctumi> ping timeout, asi que no se fue a proposito
+<Spektor> arl. vamos a ser realistas
+<Spektor> arl. se van a ir todos 
+<Arlequin> ok, yo diria que primero hayq ue determinar si queremos a thered en la 
+  partee
+<Uctumi> no spektor, no seas realista :)
+<Arlequin> mira..
+<Arlequin> octavo esta...
+<fugitivo> Uctumi: haahah =)
+<Uctumi> spektor: eso no es realismo, eso es pesimismo mal
+14__[5join14_)1: darkie__ has joined channel #scene.ar.
+<Arlequin> pero con octavo no se puede contar en nada porque es loco.. tipo 
+  buscar sponsors y esas cosas
+<koza> Arlequin: primero intenta que thered lo suba.. si no lo hace.. lo banneas.. y 
+   listo :).. 
+<koza> "es loco" :)
+<Arlequin> alguien le respondio el msg? o yo solo?
+<Arlequin> spek:
+<koza> Arlequin: me too :)
+<Arlequin> te parece?
+*** darkie__ is now known as darkman__
+<Spektor> que cosa?
+*** PiBeRombo sets mode: +o darkman__
+-> *darkman__* ah darkman.. esto te lo tendria que haber avisado como hace 2 
+   meses pero siempre me olvido que en circe has ascendido a categoria super 
+   eleet :)
+<Arlequin> spek: lo de borrarse
+<koza> spk: es ultraprobable que pase eso.. obviamente.. pero hay que fijar 
+   pautas... 1 .. si el chabon esta en pvm y se larvea... se bannea y se hecha del 
+   grupo :)  2- fijar horarios para encontrarse y hablar de la party...  3-.. decir que 
+   los organizadores tendran axx a la parte pornografica con la minita en bolas 
+   donada por octavo ... 
+<Spektor> arl. preguntale a koza
+<Arlequin> es asi, yo digo.. que sin party ya fue la scene
+<Arlequin> osea , si no projectamos la party yo dejo pvm y circe.
+<darkman__> koza: ahhaha
+<koza> que scene? :)
+<Arlequin> porque nada mas lo hago por eso..
+<Arlequin> bueno, la pseudo
+<Spektor> che
+<koza> Arlequin: bolo.. ya se hizo una :).. 
+<fugitivo> Arlequin: no!
+<Spektor> hablando en serio, saquense la idea de la scene de la bocha :)
+<fugitivo> Arlequin: quedate por el amor al arte!
+<koza> que flash.. hubo algo asi como una party en la argentina... que bueno seria 
+   que hubiese una party en la argentina
+<Arlequin> spekor.. vos haces musica..
+<Arlequin> por mas que no exista la scene.. seguiras haciendo musica..
+<Arlequin> yo hago asciis mugrosos :)
+<koza> (aplausos para arl) :)
+<Uctumi> arlequin: no digas eso! esta copada tu arte
+<darkman__> claro.. los rilises siempre salen
+<Arlequin> koza: haha, la voz de tu hermano en la segunda intro invitacion :)
+<fugitivo> Arlequin: pero el preproyecto de vj's?
+<Uctumi> para mi la escena murio con los BBS, ahora ya es otra cosa
+<Arlequin> fug: eso si me gusta
+<Uctumi> con inet no podes ver los nuevso releases de los grupos con NA
+<Arlequin> fug: y consegui algo, con que posta podemos animar raves
+<Arlequin> para que te lo mando fug
+<Uctumi> eso ya no va a existir mas
+<fugitivo> Arlequin: y bueno
+<koza> che .. hablando de boards... esta poes online?
+<Arlequin> yo llame y no..
+<fugitivo> Arlequin: demosle adelante con ese tema =)
+<Uctumi> <AcidBrain> a mi me re cagaste de arriba de un puente  <-------- 
+   HAHAHAH
+<koza> Uctumi: somos todos lamos... asi que todo bien
+<Uctumi> CHe, Pongamos una pagina de la SCENE
+<Uctumi> poSTA
+<Uctumi> un lugar donde subamos los relases, onda BBS
+<Arlequin> si.. es lo qye quiero hacer
+<Spektor> uct. ponete una chapa 
+<Arlequin> pero si alguien hace la pagina!! yo nose..
+<koza> Uctumi: en poes land van los rilises
+<darkman__> ayer no estaba online..
+<darkman__> pero anteayer si
+<Arlequin> yo ya tengo las bases de email, los grupos.. etc!! 
+<Uctumi> koza: no, pero no ves que todos estan colgados de inet?
+<darkman__> arl: lee los privates, plz
+<darkman__> arl: ah, ok
+<Uctumi> se podria hacer una pagina con un sistema de archivo
+<Uctumi> que admita upload y todo eso
+<koza> Uctumi: es verdad eso.. es mas.. desde que volvio poes.. y etc.. y etc etc.. 
+   y mas ahora.. decidi dejar irc de por vida... es algo ultra-larvatico.. horas y horas 
+   de larveo _puro_ y duro
+<Spektor> ftp
+<fugitivo> che
+<fugitivo> pero mientras estas en irc estas haciendo otras cosas tambien =)
+<Uctumi> koza: bueno, tampoco la pavada
+<koza> ]]]]] ftp y board en cablemodem [[[ thered ]]] extorsion ]]] 
+<Arlequin> che, guarda que se esta encarajinando todo..
+<Spektor> colo = quemado
+<koza> spk: a full :)
+<Arlequin> que es el futuro de la 'scene'? de la party? de irc?! de los bbs!?!
+<koza> es verdad
+<koza> igual me voy a morir
+<Uctumi> hahah
+<koza> por mas rilises ke sake
+<Spektor> arl. malo malo malo malo
+<Uctumi> hahaha
+<Uctumi> posta, ya no tengo ganas de nada
+<koza> uh.. flashie que venia lagata
+<Arlequin> haha, que masa.. m ehicistes acordar cuando vinistes a esa 2600 en 
+  donde queriamos meter una seccion de musica a pvm.. queseyo..  que etherial no 
+  iba mas
+<koza> uhhhhh.. locooo
+<koza> aun podemos violar a la gataaaa! 
+<Arlequin> uct: que?!
+<Uctumi> hagamonos el harakiri en masa y listo
+<Spektor> sisisi
+<Spektor> me acuerdo
+<darkman__> koza: yealmente estas enamorado de la gata
+<darkman__> koza: te vas a llevar una decepcion muy grande :)
+<Spektor> colo : nerd
+<koza> dm: lo admito :).. me gustan los cops
+<koza> colo : artista plashero y quemadote
+<darkman__> koza: son como poliladron :)
+<Uctumi> arlequin: la scene esta re solitaria, falta gente, cosas, nose, algo falta
+<koza> ex hippie con panza de vino
+<darkman__> koza: vos sos el chorro..
+<Arlequin> ok.. mejor sigamos con lo de la party porque sino es cada vez peor
+<Uctumi> si
+<Uctumi> give up the carajo
+<Arlequin> koza, vos pensas que va a ser posible mantener el mismo lugar?
+<Spektor> si
+<Uctumi> posta hagamosla la party, yo tengo ganas de hacer una DEMO
+<Spektor> suspendemos la party, pvm y synthesis
+<koza> Uctumi: faltan rilises :)
+<Uctumi> es mas, necesito hacer una demo
+<Uctumi> koza: de donde?
+<koza> que loco.. spektor y arleka tienen el poder de autodestruir la scene
+<koza> Arlequin: no.
+<darkman__> tipo.. tenemos que hacer una reunion para organizar lo principal..
+<darkman__> y hablar bien..
+<darkman__> koza: es verdad! =)
+<darkman__> son re pesimistas..
+<koza> Arlequin: yo digo de bsas no duerme  .. o sino.. de algun lugar de la 
+   municipalidad que los cede.. 
+<Spektor> y encima mato a te re
+<fugitivo> koza: ahah, posta
+<Arlequin> spektor: basta!! :)
+<Uctumi> koza: faltan rilises... puede ser
+<Arlequin> munciipalidad olvidate..
+<Spektor> colo quemeishon
+<darkman__> koza: vos decis en el lugar de bs as no duerme o durante bs as no 
+   duerme?!?!
+<Spektor> koza. hablando e la party
+<koza> darkman__: las dos cosas
+<Spektor> koza. hay que ir a lo de la cuqui
+<Arlequin> yo quiero su pileta
+<Arlequin> ya que van todos :)
+<Arlequin> dm: la proxima 2600?
+<fugitivo> koza: como pensas hacer una party en bs as no duerme?
+<Arlequin> any1 pingme
+<Uctumi> que bs as no duerme.. no
+<koza> Spektor: de la cuqui ???
+<Spektor> koza. si, la cuqui
+<darkman__> arl: nono.. falta mucho.. tiene que ser antes..
+<Uctumi> a mi me parece que la ultima flashparty ruleo! y la de este año seria 
+   bueno que rulee 100 veces mas
+<koza> fugitivo: vas.. hablas.. decis que sos artista digital.. pedis un proyector (se 
+   acuerdan los proy que habian??) .. entras.. ensecuestras un lugar.. pintarrajeas 
+   las paredes.. te pintarrajeas vos (sos artista.. no te olvides) ..etc
+<Uctumi> pero si sale igual estaria bien
+<koza> Uctumi: para mi ruleo tambien.. y es lo ke digo en el texto.. lo unico que no 
+   me gusto fue que no hubiese tantos rilises como esperaba
+<fugitivo> koza: hahahaha =)
+<Uctumi> koza: texto?
+<Spektor> te comes un kilo de helado de lsd y ya fue
+<koza> pero piensen.. creo que en la party se riliseo mas.. que durante todo el 
+   anio :)
+<Uctumi> haha
+<Uctumi> seguro
+<Uctumi> por que te re motiva!!
+<koza> Uctumi: el mismo que tengo grabado en tu hd
+<darkman__> koza: ahahasissi
+<koza> Uctumi: esa motivacion era el exacto objetivo de la party
+<Uctumi> koza: ahh :) pero yo no lo lei
+<darkman__> che, el sabado 16 podriamos hacer la meet para organizar esta 
+   party..
+<koza> uc: todavia no lo termine
+<Uctumi> koza: y bueno, la next party ruleara y se acabo!
+<darkman__> sabado 16.. 
+<darkman__> sabado 16.. 
+<Uctumi> si, tiene razon Dark
+<Spektor> che
+<Spektor> lo único que saqué en claro es que alguien se lavó las manos
+<Uctumi> sabado 16 dosmeel 6cientos party organizing!!! (larvas not allowed)
+<Spektor> no quiero k decir o quien z es a
+<darkman__> spek: !?
+<koza> haha
+<koza> para spk
+<Uctumi> spek: haha
+<Spektor> aaaaaa......aaaaaaaaaa.......aaaaaaaaaachuuuuuuuuuuuuuuuuuuu(koza
+   )uuuuuuuuuuuuuuuu
+<Uctumi> "lee entre lineas" (c) spektor
+<koza> yo posta que no voy a tener tiempo.. tengo casi 6hs de catedra por dia.. 
+   teoricamente ahora pego laburo que son 8hs por dia... ademas quiero hacer un 
+   demo.. 
+<koza> spk: y aparte voy a tener que estudiar aparte del tiempo ke estoy adentro 
+   de la facultad
+<koza> y ademas.. si puedo.. me voy a ir a vivir alone..
+<Spektor> koza. ya se nerd
+<koza> algo mas? :)
+<Spektor> koza. con vos jodo, con los demas no
+<Spektor> bah, con arlequin jodo
+<darkman__> arl: sabado 16?!?!?!
+<koza> nah.. jodamos con el colo
+<Uctumi> darkman: decile a biomemo que updatee la pagina, que no se pajee
+<darkman__> uctumi: yo ni le hablo a biomemo, supuestamente esta todo mal con 
+   el..
+<Spektor> <Colo> y además no dejo el arte de lado 
+<Arlequin> sabado 16 cuando es?
+<Uctumi> hahahhahh
+<koza> el arte del helado ?
+<Spektor> ahahaha
+<Uctumi> hoy es 8?
+<fugitivo> che, porque joden a gente que dice cosas coherentes (?)
+<Spektor> les armo el quilombo con la maga
+<darkman__> <Arlequin> sabado 16 cuando es? <-- que!?
+<darkman__> es enero :)
+<Uctumi> arlequin: este sabado no, el otro
+<Arlequin> ok
+<Arlequin> denle
+<fugitivo> darkman__: hahahaha =)
+<Arlequin> yo pongo mi quinta.. (antes que la rematen?) :)
+<Uctumi> LiSTO
+<Uctumi> hah
+<fugitivo> Arlequin: tenes una quinta?!
+<Uctumi> arl: yo pensaba en san jose 05, pero si hay otro lugar mejor!
+<darkman__> fug: si, en la alacena.. te acordas? :)
+<fugitivo> hahaah
+<fugitivo> =)
+<koza> Arlequin: tenes kinta ????.. tiene pileta???.. la estan por rematar???.. 
+   vamos a aprovechar lo ke le kede :)
+<koza> uuuuuhhhh
+<Arlequin> ahaha
+<Uctumi> koza organiza entonces :)
+<koza> ya se de quien me hablabas spk.. cuqui es la shika con pileta.. no? :).. 
+   bueh..  la invitamos a la casa de arleka
+<Uctumi> hahah
+<darkman__> se hace o no la meet!?.. ho-la?..
+<Uctumi> si
+<Uctumi> dale
+<Spektor> koza. y si
+<Uctumi> SATURDAY 16        19 HORAS       ARLEQUIN'S GROOVY PLACE
+<Uctumi> gran estreno
+<Arlequin> para..
+<fugitivo> heeh
+<Arlequin> va a ser una noche.. o un dia?
+<Uctumi> nose, como quieras vos
+<koza> flaaaaaaaaaaaaashhhhhhhhhhh
+<Arlequin> es en la loma del orto .. y mas los que viven en el sur o en capital
+<koza> flaaaaaaaaaaaashhhhhhhh
+<koza> volvio el ratoooooooN!
+<Arlequin> ajajaa
+<koza> recien lo vi de vuelta!
+<darkman__> arl: con eso no hay problema..
+<Arlequin> aahahaha me muero
+<koza> hay ruiditos again!
+<darkman__> koza: ahhahahaha
+<Uctumi> koza: hahaha
+<Spektor> uy
+<Spektor> uy uy uy
+<Uctumi> todo mal
+<Spektor> mi maquina hace ruido
+<Arlequin> otra vez..
+<Spektor> uy uy uy uy uy uy uy uy uy uy uy uy 
+<Uctumi> koza muere de fiebre ratona
+<Spektor> ruido a fuego
+<koza> y ahora me pican los mosquitos!
+<Uctumi> ruido a fuego?
+<Uctumi> OWOWOWOw
+<Arlequin> la fuente!
+<koza> es el gnomo que la habita que esta phumando
+<Arlequin> ahaha
+<Uctumi> jAJAJJAJA
+<Spektor> uhmf
+<Spektor> para
+<Uctumi> che arlequin posta, chismes de la scene de cabeza
+<Spektor> le hago una flying kick?
+<Arlequin> uct: te recolectas un par para la magazine?
+<darkman__> aghaha
+<Uctumi> spektor: compartan la phumata
+<koza> Arlequin: despues te digo un par de ideas que tengo para el disenio
+<Uctumi> arlequin: si, no hay muchos pero...
+<Arlequin> la quiero sacar la magazine, cuando koza y spektor me den sus notas
+<Arlequin> ok koza
+<Spektor> tenemos una relacion saadi-masachessi con mi macihne
+<Spektor> yo voy a putear a todos
+<Arlequin> yo ya tengo uno ascii. .pero si hay mejor..
+<darkman__> arl: y el tutorial? remember? =)
+<Uctumi> ojala el phono fuera gratis, asi yo estaria aca tranquilo
+<Arlequin> la quiero sacar la magazine, cuando 3,1 spektor 1,1 me den sus notas
+<Arlequin> me den sus nota 
+<Spektor> <Colo> El gobierno de Colombia y tiro fijo se reunieron hoy para dialogar 
+   despues de años de lucha terrorista ... aprendieron que es mejor hablar por la 
+   vida a tirar por la muerte.
+<Arlequin> dm: dale.. lo hacemos?
+<Spektor> imbecil
+<Arlequin> pero no se me ocurre como..
+<Arlequin> ahaha
+<Arlequin> quien es colo??
+<darkman__> arl: a full.. decime como y cuando.. 
+<fugitivo> Spektor: por que imbecil?
+<darkman__> arl: sugiero un font.. 
+<Arlequin> dm: okee, hecho
+<Arlequin> fugitivo es el factor equilibrante
+<darkman__> arl: por?
+<Arlequin> quien empieza el phont?
+<Spektor> <KerplunK_> ..che, sabes algo de tresequis ?
+<Spektor> <Spektor> si, estoy saliendo con ella
+<koza> haha
+<Spektor> <KerplunK_> ..si?
+<Spektor> <KerplunK_> ..como anda
+<Spektor> <Spektor> bien
+<fugitivo> Arlequin: que raro ese arte de artev
+<Arlequin> dm: siempre tiene hacia el medio
+<koza> que cortamambo este spk :)
+14__[5crEEd14_)1: current netsplit from irc.ais.net irc.cs.cmu.edu
+14__[5quit14_)1: Minmei has quit IRC (irc.ais.net irc.cs.cmu.edu)
+<Arlequin> fug: ese teoricamente venia a la partee..
+<Arlequin> es re nose.. surrealista
+<Spektor> <KerplunK_> ..hará como 1 año q ni hablo
+<Spektor> <KerplunK_> ..le mandas saludos mios ?
+<Spektor> <Spektor> y.....
+<Arlequin> quien es kerplunk? de donde salieron esos?
+<fugitivo> no se
+<darkman__> ni idea
+<fugitivo> spektor lo conoce =)
+<Spektor> es mi hermano
+<darkman__> arl: bueno eso lo arreglamos en la meet.. tambien..
+<fugitivo> pero entro hace dias y cuando le preguntaba quien era no contestaba
+<koza> che...
+<koza> lamaga es lame? :)
+14__[5join14_)1: Minmei has joined channel #scene.ar.
+*** PiBeRombo sets mode: +o Minmei
+<Spektor> <KerplunK_> ..mm
+*** PiChan sets mode: +o Minmei
+<Spektor> <KerplunK_> ..celoso acaso ?
+*** StoneGirl sets mode: +o Minmei
+*** happosai sets mode: +o Minmei
+<koza> hahaha.. spektor esta violento!
+<darkman__> lamaga es male o female?
+<Spektor> aaaaahahah
+<Spektor> <Spektor> ni ahi man, llamala mañana, pero mira que esta haciendo un 
+   curso
+<Spektor> <Spektor> llamala a eso de las 18
+<Arlequin> che, quien acudiria a la meet?
+<Spektor> <KerplunK_> ..ok, gracias
+<Spektor> <KerplunK_> ..quien me banneo che ?
+<fugitivo> Arlequin: esta bueno dentro de todo ese arte
+<Spektor> me amo cuando verdureo
+<darkman__> arl: yoyo!
+<darkman__> arl: uctumi, tambien :)
+<darkman__> todos
+<darkman__> arl: lo llamo al senior acidbrain.. a biomemo para le tiren de las bolas 
+   que arregle toda la mierda de las paginas
+<darkman__> vamos con fug.. 
+<Arlequin> koza: que usastes para hacer pr1?
+<fugitivo> a donde?
+<darkman__> fug: a la meet, of coz..
+<Arlequin> eso, que bm se ocupe de la pagina.. lo necesitamos para eso 
+  exclusivamente
+<fugitivo> cuando es?
+<darkman__> SABADO 16!
+<darkman__> :)
+<koza> Arlequin: ah?
+<Uctumi> che, todo mal con RED, no me puso en su email, FUE
+<darkman__> arl: a que hora?
+<fugitivo> no creo que pueda, me voy el 17 a la tarde
+<Uctumi> listo, REd is DEAD
+<darkman__> uctumi: a mi tampoco :)
+<darkman__> fug: a donde?
+<koza> Arlequin: ah.. use el composer que viene con el communicator
+<Arlequin> viene con el comunicator. okee
+<darkman__> fug: mentira, lo decis para no prestarme el libro ;))
+<Arlequin> news: <ReDuz> che.. hay homepage de synthesis? quien es colo?
+<Spektor> cht
+<fugitivo> darkman__: uh, si queres nos encontramos antes y te lo paso =)
+<darkman__> ahaha..
+<darkman__> bueno
+<darkman__> la hora..
+<Arlequin> para para..
+<Arlequin> donde la hacemos entonces? en mi quinta? sugiero.. ir a la maniana
+<Spektor> en mi casa
+<Arlequin> tipo.. 9hs.. y volver a eso de la noche.. 8..
+<Spektor> vengan a mi casa que nunca vinieron
+<koza> che.. les queria decir algo.. vi los titulares de la revista que editan los de 
+   cronica.. y realmente.. realmente.. no puedo describirlos
+<darkman__> arl: y morfar en tu casa al mediodia, decis vos?..
+<Arlequin> bueno... como quieran.. = quinta, u casa de spektor. en capital
+<Arlequin> dm: clah
+<Spektor> che
+<Spektor> arl = too far away
+<koza> uno decia "Pibe mata una vieja y despues la toquetea con gusto" <--- esto 
+   es _posta_ 
+<Spektor> yo, en cambio, soy omnipresente
+<Arlequin> koza: ahjhaha
+<Spektor> koza. daaaaaaaaaaale
+<fugitivo> koza: hahaha
+<koza> Spektor: lo juro
+<Uctumi> arlequin: a la mañana?
+<Uctumi> arl: mmmmmmm
+<Uctumi> arl: ok
+<darkman__> koza: 8vo!
+<koza> Spektor: es una revista que no viene con el diario.. pero se tiene algo asi 
+   como la seleccion de las mejores fotos de cronica.. o algo asi
+<koza> dm: :)
+<Uctumi> arl: voy a estar re dorimido, pero ok
+<Arlequin> bueno.. como quieran... ahi esta la oferta de spektor, el que nunca 
+  quiere viajar :)
+<koza> che arl
+<darkman__> arl: tiene razon uctumi
+<koza> donde es tu quinta-escencia ?
+<Arlequin> an francisco alvarez..
+<koza> y eso?
+<Arlequin> pasando una estacion lareja
+<koza> con que se come?
+<koza> donde es?
+<koza> ahh..
+<Arlequin> moreno-la reja - francisco alvarez
+<koza> para el lado de moreno.. no?
+<Arlequin> claro, mas al campo que tu casa :)
+<koza> ah.. listo
+<koza> ya se
+<Spektor> che no me consulten
+<Spektor> eh
+<Spektor> putos de mierda
+<koza> y de la estacion a cuanto queda? :)
+<Arlequin> 1 cuadra y media
+<Spektor> yo los invito a comer gratis, no me hagan ir hasta el 656
+<Arlequin> ahha spektor, es mas lejos que ramos.. bastante mas :)
+<koza> Arlequin: 1 cuadra y media nomaaaaaaaas???
+<darkman__> por donde vivis spek?¿
+<Spektor> que localidad es?
+<Spektor> darkman. cerca tuyo, y de todos
+<koza> Arlequin: bolo.. es grande la quinta??.. posta podemos hacer la 
+   _re_phiesta_.. cada uno se compromete a llevar 2 minitas.. skabio.. y la pasamos 
+   re bomba
+<koza> y despues.. de postre.. a los yuyo :)
+<Arlequin> es.. si.. da.. pero no da para hacer quilombo :)
+<Spektor> loco
+<darkman__> koza: claro, de paso hacemos la flashparty ahi
+<Spektor> vengan a mi casa y si quieren la rompen
+<koza> Arlequin: como ke no da para quilombear?
+<Spektor> les tiro al catre a mi hermana
+<Arlequin> koza: segun a qe terefris..
+<darkman__> spektor: cerca de mi casa no creo.. yo vivo demasiado lejos del 
+   mundo real
+<koza> Spektor: para que estamos hablando de una quinta :).. eso ninguna de 
+   nuestras casa puede competi
+<Arlequin> haha spek
+<Spektor> mi palacete
+<Spektor> no mi casa
+<Arlequin> ehh.. bueno.. no es una granja.. es digamos una casa de fin de semana
+<Arlequin> pero con parque grande. quincho etc
+<Spektor> arl . que localidad?
+<koza> Arlequin: listo.. joya..
+<koza> Arlequin: ya me invite
+<koza> Arlequin: queres venir?
+<Arlequin> moreno-la reja - francisco alvarez <<<
+<Arlequin> hahaha
+<fugitivo> y eso donde es?
+<koza> Spektor: te tomas el sarmiento.. y llegas re bien.. 
+<Spektor> arl . que localidad?
+<Spektor> arl . que localidad?
+<Arlequin> spek: tipo, te tomas la luJanera.. 
+<fugitivo> como se llega mejor dicho
+<Spektor> ahhhh
+<Arlequin> miRda.. AhahAHAa que flashhh hh el shift anda SOlo!!!
+<Spektor> ese ... dia .. yooooo.. tra
+<Spektor> bajooo.. por 
+<Spektor> ahi....
+<koza> Arlequin: pero podes tomarte el sarmiento y despues tomarte la chanchita
+<darkman__> arl: dale un golpe
+<Spektor> y la cotorra
+<Spektor> cotorra = 5o1
+<Arlequin> koza: ha eS verdaD.. PerO nO viene mAs ese treNcito
+<Uctumi> la puputopa!
+<koza> Spektor: no te burles de nuestros trenes del campo
+<koza> Arlequin: como que no viene mas?
+<Spektor> cotorra = 5o1 !!!!!!!!!!!!!!
+<Spektor> no me burlo
+<Spektor> el 501 de pilar
+<darkman__> aahha
+<Arlequin> nHaaahahaa dEja de flashear spektor
+<koza> Arlequin: mmmmm... la chanchita sigue yendo
+<Spektor> arl. oriantpuntozip?
+<darkman__> el que me lleva a haedo le dicen la changa
+<darkman__> changa = chancha
+<Arlequin> spektor: miralo maniana, con sonido,... es la mole
+<koza> che arl
+<koza> que pasa con la chanchita?
+<koza> va o no va?
+<darkman__> hah
+<Arlequin> sisi va
+<Arlequin> pero tarda bocha en salir creo
+<koza> Arlequin: y bueno.. teniendo los horarios la podemos pilotear re bien
+<darkman__> la chancha pasa por aca a 2 cuadras..
+<Arlequin> recomiendo el 52, pero es muy caro.. tipo.. de ramos mejia hasta halla 
+  sale 2,25$
+<Arlequin> dm: no es esa :)
+<Arlequin> ok.. 
+<koza> que masa
+<darkman__> arl: decime la direccion de la 5ta..
+<koza> fac puso pilas zine
+<Arlequin> como hacemos? spektor o quinta? de ultima.. lo de la quinta lo podemos 
+  dejar para cuando sea. no hay prob con eso.. mientras no seamos un toco...
+<Arlequin> koza: pilas zine??
+<Spektor> hahahah soy RE importante!!!!!!
+<Arlequin> dm: San Francisco Alvarez
+*** Spektor is now known as elmesias
+<koza> Arlequin: nada
+<elmesias> mueran!
+<elmesias> putos!
+<darkman__> parapara
+<koza> spektor on anfeta
+<darkman__> spek: en donde vives?
+*** elmesias is now known as Spektor
+<Spektor> en
+<Spektor> el ...... 
+<Spektor> lugar de ah
+<Spektor> buehb ueh
+<Spektor> parque patricios
+<Spektor> donde baje del 65
+<darkman__> koza: no me lo ofendas al fac.. a ver si no participa en la 99 :)
+<koza> hahaha.. no pasa nada
+<Spektor> 99 ?
+<koza> despues nos tomamos un tekila y todo bien
+<Spektor> va a haber?
+<darkman__> yeah
+<darkman__> spek: agreta
+<Arlequin> spek: si hacemos la reunion
+<koza> che loco
+<koza> miren
+<koza> tuve una idea
+<fugitivo> argh
+<fugitivo> arl
+<Arlequin> e invitamos a red
+<Spektor> ultimamente estoy re suceptible con lo de la party
+<fugitivo> termino de mandar?
+<Spektor> me dicen algo y tengo ganas de pelear
+<Arlequin> DCC Send of oriant.zip to fugitivo completed (01:26:14 482cps)
+<Arlequin> -
+<Arlequin> DCC Send of oriant.zip to Spektor completed (01:30:24 780cps)
+<Arlequin> -
+<Spektor> ahora tengo ganas de boxearme a darkman
+<darkman__> koza: que se te ocurrio?
+<Arlequin> vegeta ansi lo defiende
+<darkman__> spek: ahaha
+<darkman__> ahah
+<koza> hagamos la bardo_party_private en esa quinta de la scene que no me 
+   acuerdo de quien era originalmente... llevamos minitas (yo llevo unas phumonas 
+   ke estan barbaras.. llevamos a ab ke lleva la materia prima :) .. .. y joya.. ke se 
+   yo.. onda.. para.. seguir larveando no.. como siempre
+<Spektor> yo lo traigo a sludge.. que se mete el obelisco en el culo.. en un 
+   minuuuuuuuuuto!
+<Spektor> y dale
+<Spektor> ya fue
+<Spektor> arl!
+<Spektor> pasame el doc del mexianoc
+<Spektor> pasame el doc del mexianoc
+<Spektor> pasame el doc del mexianoc
+<Spektor> arl!
+<Arlequin> no, bolo, no es un descampado mi quinta
+<Spektor> pasame el doc del mexianoc
+<koza> Arlequin: a mi too :)
+<Spektor> arl!
+<Spektor> pasame el doc del mexianoc
+<Spektor> baldío?
+<koza> Arlequin: que tiene que ver? :)
+<Spektor> lo yuyo man
+<Spektor> lo yuyo
+<koza> Arlequin: mejor.. nos turnamos en el cuarto
+<koza> y alguno prende juego el kinch0
+<Arlequin> ves :)
+<darkman__> yo digo.. la casa de spek.. 
+<koza> arl piensa: ("fuck.. me fui de boca.. les dije a estas larvas lo de mi kinta") :)
+<darkman__> porq' la quinta de arl nos queda leeejos..
+<Spektor> de ultima le decimos a sludge proxeneta que lleve unas shiiiiiiikas
+<koza> ehhehe
+<Uctumi> che estoy re solo aca, pinto el re bajon
+<koza> Spektor: cuquie!
+<Spektor> la cookie es mine
+<Spektor> borrate calavera
+<koza> Spektor: 3x phriends!
+<Spektor> upa
+<koza> Spektor: Laggaaaaaaattttaaa
+<Spektor> pinto 3x y la cuquie juntas!!!!!!!!!
+<Spektor> F L A S H !
+<darkman__> la gata! haha
+<Spektor> ahora si
+<Arlequin> koza: es que ahora seguramente van a querer hostear tf99 en la quinta 
+  :)
+<koza> "Kinta 3 .. orgia y sangre"
+<koza> Arlequin: noooo.. eso no :).. posta ke no
+<darkman__> koza: abre los ojos, hijo.. la gata es un gordo!
+<Spektor> dark. no
+<Spektor> dark. la gata es una diosa del sexo oral
+<koza> darkman__: ya fue.. gordo o no gordo.. le bajo la cania igual
+<darkman__> spek: ahaha.. 
+<darkman__> spek: para, lo haces flashiar a koza :)
+<Spektor> koza. a mi?
+<darkman__> aahaha
+<Spektor> che
+<Spektor> koza me kiere enphiestar
+<koza> spk: hahahhaa.. :)
+<Spektor> no puedo creer
+<Spektor> mañana trabajo
+<Spektor> me quiero morir
+<Spektor> ME QUIERO MORIR!
+<darkman__> estem.. 
+<koza> Spektor: la vida sigue yalalalalalaa
+<Uctumi> mañana es viernes?
+<Spektor> noooooo
+<Spektor> dios!
+<Arlequin> ya tengo el 1er quote para la revista
+<Arlequin> <Pruslas> Reina Reech tenia una muñeca satanica
+<darkman__> bueno, arreglemos lo de la meet, now..
+<Uctumi> hahahah
+<Arlequin> spektor, no te olvides de mirar oriant
+<Arlequin> eso
+<Arlequin> donde la hacemos?
+<darkman__> asi cuando se hace, onda q' no va nadie y arlequin se tiene que 
+   comer 20 patys el solo..
+<koza> nono
+<koza> la onda es ir
+<koza> pero no ir nosotros
+<Uctumi> donde la hacemos?
+<Arlequin> hahaa, una vez paso eso en la casa de hazzan.. al final nadie quiso ir, 
+  y quedaron el y el talo comiendose las cosas
+<koza> o sea.. si ir nosotros
+<koza> pero ir con la hermana de ab por ejemplo
+<darkman__> koza: ahhaha
+<koza> o sea.. podemos llamar esta la sisters_primas_party
+<darkman__> koza: she has a big pipa
+<Spektor> no
+<Spektor> ya se
+<Spektor> nos quedamos a dormir en lo de uctumi y hacemos una pijama party
+<Arlequin> fugitivo: chekea esto porfavorrrrrrrrrr DCC Send of aestes~2.zip to 
+  fugitivo completed (00:51:02 514cps)
+<Arlequin> ya nos hacemos la rave
+<Arlequin> ahaha un pijama party
+<Uctumi> jajajaj
+<Spektor> pijama rave at uctumi´s
+<Uctumi> hahaa pijama rave
+<Uctumi> lo de mi casa no rulea :)
+<darkman__> arl: me repetis la direccion de tu quinta entre que calle plZ?
+<fugitivo> arl: minimal configuration p200 32ram?!
+<Arlequin> dm: eso permanece en secreto hasta que se confirme :)
+<darkman__> arl
+<Arlequin> fug: yo la corro con mi 75mhz
+<darkman__> uh, estoy re lageado
+<Arlequin> buenooooooooooo
+<Arlequin> porfavorr
+<Arlequin> decidamos
+<Uctumi> arlequin: repeti la direccion
+<Uctumi> se hace el meet?
+<fugitivo> uy
+<fugitivo> que masa esto
+<Arlequin> eso si, si es fiesta.. entonces no es meet.. eso es seguro..
+<koza> rave?
+<Uctumi> JajAJAAJ
+<Arlequin> yo creo que tendriamos que ir re nerds a la meet
+<Arlequin> haha
+<Uctumi> rave rave rave!!
+<koza> rave es una ensalada?
+<Arlequin> fug: sarpadisimo.. pero nose si es obligatorio 3dfx.. y nose como sacas 
+  la pantalla completa para el projector
+14__[5quit14_)1: Uctumi has quit IRC (Leaving)
+<Spektor> koza. no, una especie de repollo
+<Spektor> repollo rave
+<darkman__> meet
+<darkman__> arl: tiene que ser meet para organizar toda la mierda..
+<fugitivo> Arlequin: esto es un flash
+<koza> un ave?
+<Arlequin> bueno
+<koza> Arlequin: pantalla completa === F4
+<Arlequin> basta :)
+<Arlequin> donde la hacemos?
+14__[5join14_)1: Uctumi has joined channel #scene.ar.
+<Uctumi> aprete alt f4 que boludo :)
+<Arlequin> donde la hacemos, votemo
+<fugitivo> Arlequin: en propierties
+<Arlequin> o nose
+<koza> Arlequin: para
+<Arlequin> fug: donde esta esa opcion?
+<Uctumi> arlequin: que lugares hay disponibles?
+<koza> Arlequin: de que estas hablando?
+<Arlequin> la MEET para hablar de tf99
+<fugitivo> Arlequin:  boton derecho
+<koza> ah
+<Uctumi> claro, rulea
+<Arlequin> where?
+<darkman__> uctumi: la sede se disputa entre..
+<Uctumi> mira, el lugar de la 2600 no se puede porque el sabado esta cerrado
+<koza> mmm
+<koza> KiNT4
+<Arlequin> no..
+<darkman__> pasar un dia en la quinta de arleco
+<Arlequin> el lugar es
+<darkman__> o ir a la casa de spek..
+<fugitivo> Arlequin: es buenisimo, pero con una maquina mas rapido va mejor
+<Arlequin> spektor rave house o quinta fiestera
+* Spektor ´s
+<Arlequin> hehe
+<Uctumi> casa de spektor
+<Arlequin> vos dm?
+<Uctumi> yo querer ir a casa de spektor
+<Uctumi> quedar mas cerca :)
+<Uctumi> es lo mas cercano para todos
+<Arlequin> que laravees que son :)
+<Arlequin> k
+<darkman__> mmh
+<Spektor> cuando?
+<darkman__> donde queda la casa de spek?
+<Arlequin> sabado 16?
+<Uctumi> arlequin: y vos sos RELaravee porque queres que vayamos para TU 
+   quinta :)
+<Arlequin> capital
+<darkman__> arl: lo de la quinta queda para otro dia, es mucho viaje :)
+<koza> kinta
+<Spektor> cuando es 16?
+<Spektor> ah
+<koza> kinta with phiesta
+<Spektor> si
+<Arlequin> ahaha pobre koza :)
+<koza> kinta with skabio & phiesta
+* Spektor vota por la quinta
+<Uctumi> ph13st4!!
+<koza> kinta with skabio, phista & minita
+<darkman__> posta lo de la quinta se tiene que hacer.. pero en otra ocacion :)
+<Arlequin> spek.. antes votavas por tu casa hehe
+<koza> kinta with skabio, phista & minita & lagata
+<koza> kinta with skabio, phista & minita & lagata & 3x phriends
+<Spektor> arl. CUANDOOOOOOOOOOO?!
+<koza> kinta with skabio, phista & minita & lagata & 3x phriends & sistas
+<Arlequin> el sabado 16!!!!!!!
+<Uctumi> haha
+<Uctumi> que depresaO!!
+<Arlequin> bueno?
+<Arlequin> si spektor da el si, hacemos la meet en su casa.. y la partee en la quinta
+<Arlequin> uh, deja vu doble
+<Uctumi> yo aca estao moito depresao
+<Uctumi> asi que hagao uma phiesta
+*** darkman__ changes topic to "SABADO 16 MEET org.flash99 - spekta's house"
+<Uctumi> ahi ta
+<darkman__> ah
+<darkman__> falta el horario
+<Uctumi> spektor, where do you live?
+<Uctumi> ah se vero
+Session Close: Fri Jan 08 02:03:34 1999
+
+Session Start: Fri Jan 08 02:18:52 1999
+* Logging #scene.ar to: [#scene_a.log]
+<Spektor> dale boludoo!
+<Uctumi> epa, la direccion en el topic?
+<Spektor> saca la direccion del topic!
+<Arlequin> pera
+<Spektor> :)
+<fugitivo> noooooo!
+<fugitivo> vos estas crazy =)
+*** darkman__ changes topic to "SABADO 16 MEET 14 hs  -  org.flash99"
+<fugitivo> cardeen todo y manden a esa dir!
+<Uctumi> dark: posta, zarpado
+<Arlequin> digo no la pongas porque despues vienen todo
+14__[5join14_)1: w0lfman has joined channel #scene.ar.
+<w0lfman> hi
+<Uctumi> fugitivo: HAHAHaHhaHAH
+<darkman__> w0lfman
+<Arlequin> digamos.. que vengan quienes tienen que venir.. biomemo is ok
+<darkman__> fug: ahaha
+<Arlequin> wolfman!!
+<fugitivo> hi wolfman
+<w0lfman> hi a todos
+<Uctumi> ALo wolFMaN
+<Arlequin> necesito un email no anonimo?
+<fugitivo> ah?
+<w0lfman> alo' paraguay
+<Uctumi> haha
+*** darkman__ changes topic to ".::."
+<Uctumi> haha
+<Arlequin> che posta colo es el profesor de quimica de pruslas?
+<Uctumi> dark: es re 3d!!
+<Uctumi> nidea
+<Uctumi> arl: conectado por sinectis...
+<darkman__> arl: como queda lo de los greets de circe?
+<Arlequin> nose.. fugitivo no me paso su parte :)
+<darkman__> arl: ho-la
+<darkman__> ah
+<fugitivo> uy
+<Uctumi> ho l a haha
+<fugitivo> me olvide
+<darkman__> fugitivo put the batteries :)
+<fugitivo> despues lo hago
+<Uctumi> ahaahah
+<Uctumi> che, yo posta me escribo una nota
+<Uctumi> che, no me gusta este windows 95
+<Arlequin> una nota para sudamerka?
+<Uctumi> me hace re malflashear y me siento triste por no usar mas 3.1
+<fugitivo> i'll put the varta
+<Uctumi> the varta hahah
+<darkman__> varta pila larva
+<Uctumi> arlequin: como no
+<Uctumi> En este momento la scene esta conmocionada
+<Uctumi> atravezando por momentos duros y reorganizaciones
+<Uctumi> Mientras se viven las espectativas de como sera la proxima party, The 
+   Flash 99
+<Uctumi> Acudira Menem?
+<Arlequin> siii dale dale, qu ya tenemos bochas de notas..
+<Spektor> cualquiera
+<Uctumi> Estara Casero?
+<Spektor> :)
+<koza> mataran a gringo ?
+<darkman__> cya
+<Uctumi> Spektor dejara de opinar al pedo?
+<Spektor> *si*
+<Uctumi> :)
+<Arlequin> spektor, laravee termina la nota
+<Spektor> uctumi. no tenes razón
+<Uctumi> HahaHhaha
+<Spektor> uctumi. vas a huir 2 meses antes de la party
+14__[5quit14_)1: darkman__ has quit IRC (Leaving)
+<Uctumi> spektor: di lo que quieras
+<Spektor> bububub
+<Uctumi> mmm nose
+<Uctumi> mi ganas are out
+<Uctumi> querer alegria ya
+<Arlequin> nota nota
+<koza> Uctumi: start drogarte
+14__[5join14_)1: Minmei has joined channel #scene.ar.
+<Arlequin> te mando alguna previu
+<Uctumi> koza: no way
+*** PiBeRombo sets mode: +o Minmei
+*** happosai sets mode: +o Minmei
+*** StoneGirl sets mode: +o Minmei
+<Uctumi> manda manda send
+<Arlequin> dale.. haganse las notas y sacamos la diskmag la proxima semana
+<koza> dios..
+<koza> que lama que es la gata
+<koza> "lama" ? :)
+<Uctumi> es un lama tibetano
+<koza> que flash
+<koza> que la gata fuese un lama tibetano
+<Spektor> dalaia lamae
+<Spektor> koza se le tira igual
+<Uctumi> haha
+<Uctumi> koza, tenes la re doble personalidad
+<Uctumi> go to the psiquiatra phumado
+<Arlequin> es erdad hehe
+<Uctumi> este es el canal de la cena argentina posta
+<Spektor> che
+<Spektor> hable muchas boludeces
+<Spektor> y ahora tengo ganas de llorar
+<koza> [SweetJC(jc@dynamic48.pm04.san-mateo.best.com)] argentina is a slave 
+   country
+<koza>           to England.
+<koza> nuke it
+<Spektor> ? ?
+<Spektor> que idiota
+<Uctumi> PUTO
+<koza> [msg(Sweetjc)] and u are a lammer slave of your masturbation-vice
+<Uctumi> INGLES DEL ORTO
+<koza> bueh
+<koza> no digas "ingles" del orto
+<Spektor> hehehe
+<koza> basta de nacionalistas plis
+<Spektor> es un yanqui
+<Spektor> y es un capo
+<Uctumi> bueno PERSONA DEL ORTO
+<Spektor> esclavo de tu masturbation device
+<Uctumi> hahah
+14__[5join14_)1: Eagle2 has joined channel #scene.ar.
+<Arlequin> eagle!!!
+<Eagle2> hi
+<koza> [SweetJC(jc@dynamic48.pm04.san-mateo.best.com)] all argentinies have 
+   a MAJOR
+<koza>           identity crisis. They are all ashamed of being latin, yet they know
+<koza>           that's EXACTLY what they are .. just like mexicans.
+<koza> ..
+<Eagle2> que pinta?
+<koza> eaaaaglllllleeeeeeeeeeeee
+<koza> vos so de dm ?
+<Eagle2> yep
+<koza> [SweetJC(jc@dynamic48.pm04.san-mateo.best.com)] and we all know 
+   how stupid
+<koza>           latinos are!!  hahaha  ooops [ardo me:  jajajajajaja
+<Uctumi> hola Eagle
+<Eagle2> ex BetaGroup, ahora DigitalMinds
+<Uctumi> koza: que guachin
+<Arlequin> eagle, podes porfavor re-mandarme el grafico conque competiste y 
+  laintro4k? porque lo tiene un chabon del staff.. pero no se que mierda pasa que 
+  no lo sube al ftp
+<koza> hoho
+<koza> me mandas sus rilises ?
+<Uctumi> eagle: ahh, uds. eran beta group?
+<Spektor> betagroup... xxx 
+<Eagle2> yep
+<Eagle2> xxx era de betagroup
+<Uctumi> eagle: hicieron temas?
+<Spektor> era ?
+<Eagle2> pero cambiamos el nombre cuando el se fue de vacaciones asi que no 
+   sabe nada todavia :)
+<Spektor> wow! traición 
+<Spektor> siguen sacando musica?
+<Uctumi> eagle: tienen muchos releases de modulos xm s3m it etc
+<Uctumi> eagle ?
+<Arlequin> el bbs ese 24hs esta online?
+<Arlequin> te estamos atiborrando de preguntas :)
+<Uctumi> eagle: hay un board? tira el fono
+<Eagle2> no, no hay board
+<Eagle2> habia
+<Uctumi> si, se nota que estamos al pedo
+<Eagle2> wasteland bbs
+<Spektor> era el board de xxx
+<Eagle2> de xxx
+<Uctumi> eagle: ahhh
+<Eagle2> pero cerro
+<koza> che loco
+<Eagle2> las producciones quedaron
+<koza> por favor
+<koza> nukeen a sweetjc
+<koza> de verdad
+<koza> me esta poniendo mal
+<Eagle2> tenemos mas de 20 modulos y algo mas
+<Arlequin> muy bueno.. DM, el mejor grupo de la party..
+<Spektor> era terrible la cantidad de modulos de gente de acá que tenía ese board
+<Uctumi> eagle: rulearia que dijeras de donde podemos bajar
+<Arlequin> koza: mostrale a rantes el lo hace..
+<Arlequin> koza: esta en una shell potente parece
+<Eagle2> ahora no se que paso en la competencia de mp3
+<Arlequin> eagle: podrias re-enviarme tu grafico.. y la intro?
+<Eagle2> no presentamos el tema a tiempo
+<Spektor> 3 temas nada mas
+<Arlequin> si..
+<Arlequin> creo que quedo 4to
+<Spektor> merecia el de bandido
+<Uctumi> eagle: el tuyo quedo cuarto
+<Eagle2> mmmmmmmmmmm
+<Spektor> bah, merecia el mío :)
+<Eagle2> si hubieran escuchado el a8 :)
+<Arlequin> a8?
+<Eagle2> es el nombre del tema
+<Eagle2>  "_)
+<Arlequin> eagle: podrias re-enviarme tu grafico.. y la intro? :)
+<Eagle2> ahi va
+<Arlequin> ahora, tenes email? vamos a lanzar una diskmag de la scene con 
+  cosas interesantes la proxima semana
+<Eagle2> lo que me interesaria es que dejen las producciones para bajarse en el 
+   site
+<Arlequin> eagle: check:
+<Eagle2> me interesa escuchar los modulos ganadores y los demas
+<Uctumi> eagle: es lo que intentamos hacer
+<Arlequin> http://members.xoom.com/phiesta1/
+<Uctumi> eSO
+<Eagle2> otra cosa
+<Uctumi> eagle; ahi estan todos los modulos
+<Eagle2> se equivocaron de alias 
+<Arlequin> endonde?
+<Uctumi> si?
+<Eagle2> en el txt de las producciones
+<Eagle2> dice claramente Shadow
+<Eagle2> los graficos dice shadow
+<Eagle2> y el mp3 decia Eagle
+<Eagle2> pusieron todo eagle :(
+<Eagle2> y le sacaron credito a mi hermano
+<Spektor> arlequin se hace cargoooooo!
+<Arlequin> hrmnnnn 10000x sorry 
+14__[5quit14_)1: Spektor has quit IRC (Leaving)
+<Eagle2> aclaremos now
+<Uctumi> eagle2: uhh
+<Eagle2> todas las fotos e intro de 4 k la hizo Shadow - Federico oro de DM
+<Uctumi> uhhhhh
+<Uctumi> mal
+<Eagle2> el tema MP3 lo hize yo (Eagle - Alejandro Oro ) y Shadow.
+<Arlequin> bien, ahora lo correjimos en el txt a distribuir
+<Eagle2> gracias :)
+<koza> ---
+<koza> [msg(SweetJC)] maybe do u know a little of history.. if we dont have 
+   rights..
+<Arlequin> aHI Ta, para que lo zipeo again
+<koza>                if becoz your country and the cia are oppressing us.... like
+<koza>                they and the police fuck u in your country... .. your country
+<koza>                produce the tv-crap.. all the commercial-media-crap .. u dont
+<koza>                have art.... u are a decadent country ... i sorry for u and ur
+<Uctumi> ESo koZA haha
+<Eagle2> y tienen planeado una proxima party?
+<Uctumi> bien koza!
+<koza>                friends
+<Eagle2> porque ni yo ni mi hermano pudimos ir en el momento de la competencia 
+   :((((
+<koza> Eagle2: claro.. nos ayudas a organizarla? :)
+<Eagle2> solo fue shadow a dejar las producciones el domingo
+<Eagle2> claro que si
+<Eagle2> me encantaria ser organizador
+<Uctumi> joya
+<Eagle2> o por lo menos ayudante ;)
+<Eagle2> che alguien tiene el tema ganador para pasarmelo
+<Eagle2> ?
+<Arlequin> koza: que respondio?
+<Eagle2> me gustaria escucharlo
+<Uctumi> eagle: MP3?
+<koza> [SweetJC(jc@dynamic48.pm04.san-mateo.best.com)] JAJAJAJAJAJA and 
+   all you
+<koza>           hypocriticals fuckers out there stay in lines and pay top dollars
+<koza>           for our 'crap'!!  you watch our trashy tv shows, and you buy our
+<koza>           products and you are ALL jealous of us.
+<koza> [msg(Sweetjc)] i dont watch tv
+<Eagle2> no
+<koza> [msg(Sweetjc)] u know Borges.. Che Guevara.. and all the good people of 
+   my
+<Eagle2> el de modulo
+<koza>                country ??.. u know nothing about my country.. and u are a
+<koza>                masturbating teenager
+<koza> [msg(Sweetjc)] u can write like borges ?
+<Uctumi> Eagle: bajalo de members.xoom.com/phiesta1/
+<Uctumi> eagle: bajate todos, no seas guacho :)
+<Uctumi> eagle: en gral la mayoria son buenas producciones
+<Eagle2> me bajo todos pero como se llama el que gano?
+<Eagle2> lo quiero escuchar antes de irme a dormir
+<Uctumi> ahh, estan por orden
+<Arlequin> hrmnm nose si conviene.. musicalmente no es el mejor..:) pero es el 
+  tf98-m01.zip
+<Uctumi> TF98-M01, TF98-M02, segun salieron
+<Uctumi> el musicalmente mejor es el 5TO
+<fugitivo> la de uct r0x
+<Eagle2> el 5to ?
+<Eagle2> quien salio 5to?
+<Arlequin> tf98-m05.zip   -- spektor
+<Arlequin> suenio gitano
+<Eagle2> otra cosa
+<Eagle2> con que criterio se seleccionaron los modulos?
+<Arlequin> no hubo seleccion..
+<Arlequin> solo votacion
+<Eagle2> ahora si
+<Uctumi> eagle: por eso te digo que no te dejes llevar por el orden :)
+<Eagle2> che arlequin vos conoces algun axel?
+<Uctumi> eagle: el mio salio 7mo y para mi es un modulo muy bueno
+<Arlequin> eagle: axel magnanini?
+<Eagle2> nope otro axel
+<Arlequin> hrrrnmm no, no recuerdo aho..
+<Arlequin> ra
+14__[5quit14_)1: koza has quit IRC (Ping timeout)
+<Eagle2> oka
+<Eagle2> a alguien le interesa la creacion de misiones para el Descent Freespace?
+<fugitivo> sisis, es una masa el de uct, no es repetitivo, linda melodia, y parece 
+   bien trabajado
+<Uctumi> gracias fugitivo, pasa por caja despues ;)
+<fugitivo> Uctumi: hahaha =)
+<Eagle2> niveles para el Unreal?
+<Eagle2> algo?>
+<Eagle2> bueno
+<Uctumi> haha
+<Eagle2> listo
+<Arlequin> heh, no somos muy juegueros aca
+<fugitivo> Eagle2: cuando tenga maquina para jugar a esos juegos tal vez me 
+   interese =)
+<Uctumi> eagle: nose, estaria
+<Uctumi> eagle: para el duke?
+<Eagle2> no es en serio
+<Uctumi> que cosa no es en serio?
+<Eagle2> me interesaria hacer una campania completa con animaciones y todo
+<Eagle2> se puede diseniar un juego completo nuevo con historia y todo
+<Uctumi> si
+<Eagle2> el Freespace aparte de ser el mejor simulador te da la posibilidad de 
+   modificar TODO
+<Eagle2> incluso crear una campania con animaciones, sonidos, historia, y 
+   misiones propias
+<Eagle2> seria bueno hacer algo asi
+<Eagle2> se puede vender incluso
+<fugitivo> apa
+<fugitivo> eso me gusto
+<fugitivo> que se necesita para hacer eso? =)
+<Eagle2> nada
+<Eagle2> solamente el juego
+<Arlequin> nah, olvidate de venderlo aca..
+<Eagle2> el mismo juego trae el editor
+<fugitivo> en que maquina corre?
+<Eagle2> es como diseniar una mision para el tie fighter
+<Uctumi> que mala onda arlekete!
+<Uctumi> no realismo spektoriano por favor
+<Uctumi> eagle: en que maquina corre?
+<Eagle2> pentium 166 con placa 3d o sino pentium 200 o algo asi
+<Arlequin> es que tengo que conservar a fugitivo para el video ;)
+<Eagle2> que maquina tienen?
+<fugitivo> uh
+<fugitivo> mori
+<Uctumi> eagle: 486DX2 8MB
+<fugitivo> p133 32ram, trident 1mb ;)
+<Eagle2> aaaaaaaaaaaaa
+<Uctumi> me va a andar un poco lento
+<Uctumi> CIRRUS LOGIC 1 MB
+14__[5join14_)1: koza has joined channel #scene.ar.
+<Eagle2> che no jodan en serio?
+<Eagle2> pero soy el unico enfermo que se gasta toda la guita en la pc? :(
+<Eagle2> no hay otro loco por ahi?
+<fugitivo> si
+<fugitivo> somos pobres
+<fugitivo> no
+<Uctumi> si yo tuviera la gastaria :)
+<fugitivo> es que si tuvieramos guita la gastariamos en pc =)
+<Uctumi> es mas, estoy tratando de conseguir guita para gastarla en la pc :)
+<Eagle2> claro 
+<Uctumi> che fugitivo, somos re clones :)
+<fugitivo> yo para comprarme un lindo scanner
+<koza> yo tambien..
+<Eagle2> bueno cuando tengan guita vendo un par de cosas
+<koza> me cardearia un par de minusas
+<Uctumi> eagle: ahh
+<koza> que vendes?
+<Eagle2> pentium II de 300 que anda a 333  $100
+<fugitivo> Eagle2: que vendes y a cuanto?
+<Uctumi> hohoh registre www.summer.co.uk y me quieren cobrar :) locos
+<Eagle2> Viper 330 PCI con salida TV y SuperVideo con manuales y todo $60
+<Uctumi> eso esta bueno
+<Uctumi> eagle: son cosas que descartaste?
+<Arlequin> que es eso???
+<Arlequin> super video?
+<Eagle2> Diammond Stealth II G460 (intel 740) AGP con 8 Megas $60
+<Arlequin> y la p2, hablas del micro?
+<Eagle2> el P2 es el Pentium2 de 300 el micro
+<Uctumi> eagle: pero por que queres vender un micro pentium II?
+<Arlequin> que es esa placa con supervideo que?
+<Eagle2> porque el mes que viene me compro el 450
+<Uctumi> ahhhh
+<Uctumi> claro, muy lento no?
+<Eagle2> es la NVIDIA RIVA 128 
+<Uctumi> un pII 333 no te sirve para nada
+<Uctumi> no podes teletransportarte en 3D
+<Eagle2> les dije que era un enfermo
+<Eagle2> me compre otra voodoo2
+<Arlequin> ahahahah
+<Eagle2> ahora tengo 2 voodoo2 SLI
+<Uctumi> no podes capturar holografias y animarlas
+<Eagle2> jajaj
+<fugitivo> me pierdo en toda esa mercaderia
+<Eagle2> ojala
+<Uctumi> con la 450 ya estamos un poco mejor
+<fugitivo> un scanner 3d
+<Arlequin> uh
+<Uctumi> yo 300 no quiero...menos de XEON II nada
+<Eagle2> a
+<Arlequin> no estan muy caros los scanners 3d
+<Eagle2> si alguien quiere una Gravis Ultrasound con 2 Meg Plug and Play la vendo 
+   tambien
+<Uctumi> lo que pasa es que si son chiquitos no te sirven para nada
+<Arlequin> tu uctumi
+<koza> a cuanto la vendes la gus ???
+<Uctumi> eagle: estem... yo querer
+<Eagle2> tiren ustedes el precio
+<Uctumi> eagle: a cuanto?
+<Uctumi> eagle: $40
+<Arlequin> 4$
+<Eagle2> digan
+<Arlequin> fuck
+<fugitivo> $20
+<Arlequin> uctumi b0ton :)
+<fugitivo> haha
+<fugitivo> te quedaste corto arl
+<fugitivo> si uct, te fuiste al carajo
+<Eagle2> me gusto el de uctumi
+<Uctumi> eagle: me iban a vender una 4 MB a $70, esta a $40 :)
+<Uctumi> precio justo
+<fugitivo> $45
+<fugitivo> ahi te gusto mas el mio
+<Uctumi> jajaj
+<Uctumi> $50
+<Uctumi> tomá!
+<Eagle2> oka listo
+<koza> Eagle2: para
+<Uctumi> $30 y una noche con mi hermana?
+<Eagle2> mmmmmmmm nope
+14__[5quit14_)1: StoneGirl has quit IRC (Ping timeout)
+<koza> uc: hdp.. eso iba a decir yO! :)
+<Eagle2> tengo novia
+<koza> Eagle2: $40 y una noche con la hermana de uctumi
+<Eagle2> y estoy contento
+<Uctumi> koza: pero.. la cuestion, yo tengo hermana de verdad!
+<fugitivo> $30 y una noche con tu novia
+<Eagle2> andaaaaaa
+<Uctumi> fug: haha
+<Eagle2> oka la voy a tener que regalar a un amigo
+<Uctumi> no, todo bien, una noche VOS con TU novia :)
+<Uctumi> eagle: eso no agradar
+<Uctumi> querer GUS
+<koza> una noche con uctumi.. y yo con tu novia :)
+<Eagle2> tengo tambien una SoundBlaster AWE32 con 8 Megas
+<fugitivo> hahaah
+<Uctumi> eagle: OPA, ahi se puso 1 pokeeto mas interesante
+<Eagle2> esa esta biena
+<Uctumi> eagle: donde conseguiste los megas para la AWE?
+<Eagle2> los compre a un amigo
+<Eagle2> no los conseguis mas
+<Uctumi> no, por eso
+<Eagle2> me costaron 90 pesos :(
+<Arlequin> para que los queres?
+<Uctumi> igual nose
+<Arlequin> che
+<Uctumi> arl: mixea por hardware
+<Eagle2> como para que los queres?
+<fugitivo> Eagle2: esa a $60
+<Uctumi> arlequin: grabas los samples y mixeas por hardware
+<Arlequin> yo estoy interesado la placa de video, si me explicarias que mierda es.. 
+<Eagle2> claro
+14__[5join14_)1: StoneGirl has joined channel #scene.ar.
+<Eagle2> es una placa de video como un trident
+<Eagle2> pero es de NVIDIA
+<Eagle2> es un chip de 128 bits con 4 Meg de SGRAM
+<Uctumi> ENVIDIA? si posta
+<Eagle2> trabajando a 4 gigas por seg/
+<Eagle2> PCI
+<Uctumi> si es por envidia voy a tu casa y te choreo todo posta :)
+<Arlequin> para, pero te hablo esa que tenia salida tv, y supervideo noseque?
+<Eagle2> aceleracion windows, DOS, VESA 3.0
+<Arlequin> tiene entrada de video?
+<Eagle2> salida tv
+<Eagle2> solo salida
+*** PiChan sets mode: +o StoneGirl
+<Eagle2> podes ver la PC en un proyector o televisor
+<Uctumi> eagle: NVIDIA es lo que nos estas generando ;)
+<Eagle2> ver el windows
+<Eagle2> el DOS
+<Eagle2> las demos
+<Eagle2> los juegos
+<Eagle2> todo en el televisor
+<Eagle2> entendes?
+<Arlequin> sisi..
+<Arlequin> pero no way.. me tendria que comprar una tv :)
+<Uctumi> que NVIDIA
+<Eagle2> fijate en www.nvidia.com
+<Uctumi> hahahahha
+<Uctumi> envidia
+<Uctumi> basta :)
+<Arlequin> ah
+<Arlequin> dale..
+<Arlequin> al final
+<Arlequin> pasame el grafico y la intro!! :)
+<Eagle2> oka
+<Eagle2> pera
+<Uctumi> che, pense que tenias maquina rapida ;)
+<w0lfman> bye a todos
+<Uctumi> adeux wolff!!
+<Arlequin> bye wolf!!
+<koza> che eagle
+<Arlequin> dale igli!
+<koza> tenes mothers 486 ?
+<Uctumi> igly haha
+14__[5quit14_)1: w0lfman has quit IRC (Leaving)
+14__[5quit14_)1: Eagle2 has quit IRC (Ping timeout)
+<Uctumi> ePa. se fue igl
+<koza> si
+<koza> se canso
+<koza> asi que el sweetjc me nukeo.. que reverendo hijo de puta.... me hizo 
+   malflashiar de veras
+<koza> ya se va a arrepentir.. muehyehehehe
+<Uctumi> MATALO
+<Uctumi> posta, viaja hasta alla con un chumbo y fue
+<koza> si
+<Arlequin> vistes
+<Arlequin> aveces dan ganas
+<koza> si tuviese guita para el pasaje lo haria
+<fugitivo> pone el ipfwadm =)
+<koza> o sea.. a mi me nukearon 2 veces
+<Uctumi> busquemos amigos pinguers
+<koza> 1 fue de prueba.. y la 2da me nukearon el linux..y eso si ke no me cabe
+<Uctumi> estoy preguntando el trax
+*** PiChan sets mode: +o Arlequin
+<Uctumi> koza: cual era el ip?
+<fugitivo> fue
+<fugitivo> no sirve el ping
+<Arlequin> che eagle
+<koza> Uctumi: ya fue
+<Arlequin> se fue??
+<fugitivo> fijate si le llegan primero
+<Arlequin> puta madre
+<Arlequin> no me dio las cosas!!
+<fugitivo> *** Eagle2 has quit IRC (Ping timeout)
+<Arlequin> <M1ngo> ka0z: mmm, yo no me cago de nada ni de nadie ;)
+<Arlequin> quien vota por bannearlo
+<Arlequin> aparte no quiere decir quien es
+<koza> todo el dia soy lame todo el dia soy lame
+<koza> arleca: dejate de joder
+<fugitivo> quien es ese?
+<Arlequin> nose quien mierda es pero me vuelve loco
+14__[5join14_)1: Eagle2 has joined channel #scene.ar.
+<Arlequin> eagle
+<Eagle2> se me pincho el windows
+<Arlequin> mandame las cosas antes de que te vayas again :)
+<Eagle2> no anda bien con 2 placas de video
+<Uctumi> che, no escuchen modulos con el modplug y eso
+<Uctumi> a mi ayer se me rompio el coche
+<Uctumi> no anda bien con engranajes de plata :)
+<Uctumi> eagle: no tomes a mal ;)
+<Arlequin> hee que?
+<Eagle2> como hago para pasartelo?
+<Eagle2> no ando en el mirc muy seguido :(
+<Arlequin> por dcc?
+<Arlequin> asi. w8
+<Arlequin> sobre mi nick, apretas el boton derecho, vas a la opcion dcc, luego dcc 
+  send
+<Arlequin> ahi selecionas lo que queres pasar
+<Eagle2> ahi lo puse
+<fugitivo> no sean larvas
+<fugitivo> pone /dcc send arlequin blablbla
+<Eagle2> ya esta
+<Eagle2> te lo mando pero no pasa nada
+<koza> che
+<koza> rata
+<koza> ruiditos de rata
+<koza> sombrita que se mueve
+<Uctumi> eagle: clickea en el nombre de arlequin con el boton derecho y navega 
+   por tu HD hasta encontrar el archivo
+<Arlequin> filmaaaaa
+<Arlequin> filmaaaaa
+<Eagle2> esta esperando que aceptes
+<Uctumi> ahh
+<koza> Arlequin: no tengooooo
+<koza> necesito una quickcam!
+<Arlequin> sisi acepte.. pero creo que tu mirc no anda el dcc :((
+<Arlequin> ahaha que flahs la rata
+<Uctumi> koza: haha
+<Uctumi> KOZA: SAMPLEA!
+<Uctumi> koza: samplea y anda mandando un stream con el winamp :)_
+<Uctumi> koza: asi nos enteramos :)
+<koza> hahaha
+<koza> pero nunca samplee con linux.. no se komo hacer
+<Arlequin> eagle: quemierda.. parece no andar...... fuck
+<Uctumi> eagle: podes subirlo a una cuenta de ftp?
+<Eagle2> es que no tenes ICQ?
+<Arlequin> ahhhh sisis
+<Arlequin> pera
+<Eagle2> dame tu UIN
+<Arlequin> un sec
+<Arlequin> 6644069
+<Uctumi> +
+<koza> ruiditos
+<Arlequin> que es ese zip eagle? ahi esta todo?
+<Arlequin> gracias..
+<Eagle2> sip
+<Eagle2> lo hizo shadow el ziup
+<Eagle2> ahi esta todo
+<Arlequin> joya
+<Eagle2> incluso estan los fuentes de los graficos, etc.
+<koza> che
+<koza> que ondas
+<koza> conocen algunos otros grupos uds?
+<Arlequin> pvm es un asco
+<Arlequin> osea, el bbs de gahan ya fue?
+<koza> apoyo a arleka :)
+<Arlequin> OIDIO MI SHIFT REBELDE!!
+<koza> hahaha.. SHIFT!: lucha contra el sistema arlekiano!
+<Eagle2> che en serio escucharon el tema Rain de Shadow?
+<Eagle2> el de MP3?
+<Uctumi> siii
+<Eagle2> les gusto?
+<Eagle2> o les gusta mas la onda techno?
+<Uctumi> eagle: mira, hubo el problema de que no se escuchaban muy bien los 
+   arreglos de los temas
+<Eagle2> oka 
+<Uctumi> eagle: nos gusto mas o menos, nos parecio un poco repetitivo
+<Uctumi> eagle: tendria que escucharlo mejor igualmente para decirte. pero no lo 
+   tengo
+<koza> conocen algunos otros grupos uds?
+14__[5part14_)1: Arlequin has left channel #scene.ar.
+Session Close: Fri Jan 08 03:43:40 1999
+
+Session Start: Fri Jan 08 03:45:19 1999
+* Logging #scenE.aR to: [#scenE_a.log]
+<Eagle2> yep
+<Eagle2> van a poner t1
+<koza> usas linux/algun unix?
+<Eagle2> pero por ahora solo modem
+<Eagle2> en mi maquina
+<Eagle2>  :)
+<fugitivo> koza: el isp ese que canio tiene?
+<Eagle2> asi que me pueden encontrar en ICQ durante el dia
+<koza> fugitivo: no se
+<Eagle2> solo Windows NT para toda la red
+<Eagle2> por supuesto que server
+<Eagle2> anda bastante bien
+<Eagle2> hasta ahora no se colgo
+<fugitivo> puaj
+<fugitivo> estuvo 2 dias no? ;)
+<koza> warez?
+<Eagle2> hace 1 anio que esta prendido :)
+<fugitivo> no lo apagaron nunca?
+<Eagle2> nope nunda
+<Eagle2> nunca
+<fugitivo> mira vos
+<Eagle2> esta con una UPS 
+<Eagle2> es un Pentium II 300 con 64 Meg.
+<fugitivo> no se colgo nunca!?
+<Uctumi> eso es bueno
+<Eagle2> nope
+<Eagle2> hasta ahora no lo vi colgarse
+<Uctumi> NAda mas?
+<Eagle2> el truco esta en el video ;)
+<Uctumi> eagle: cuantos usuarios tiene?
+<Uctumi> el truco esta en cerrar los ojos cuando se cuelga :)
+<Eagle2> por ahora esta logeados solamente 50
+<fugitivo> Uctumi: hahaha
+<Eagle2> pero el edificio tiene alrededor de 300 bocas
+<Eagle2> para fin de este mes calculamos que van a haber 150 usuarios logeados
+<fugitivo> no  puede ser que haya estado un anio sin colgarse
+<fugitivo> despues fijate bien cuanto tiempo esta up
+<Eagle2> porque?
+<Eagle2> es un servidor
+<fugitivo> no se, digo
+<Eagle2> no es una PC comun
+<fugitivo> me parece raro =)
+<Arlequin> si esta bien
+<Eagle2> el gabinete es de la NASA
+<Arlequin> eh?1
+<Eagle2> recontra refrigerado
+<fugitivo> pero tiene windows andando =)
+<Eagle2> y si
+<fugitivo> por eso lo digo
+<Eagle2> pero el Windows NT SERVER es una masa
+<Eagle2> no se cuelga
+<koza> yo vi colgarse tantos winnt :)
+<Uctumi> windows andando es potential danger :)
+<fugitivo> yo lei otras cosas =)
+<Eagle2> yo lo tengo en mi maquina y te digo que nunca se me colgo excepto 
+   cuando lo pincho a proposito
+<fugitivo> aparte es muy caro
+<Uctumi> onda, cuando pones start, una cosa asi?
+<Arlequin> che
+<Eagle2> jajaj
+<fugitivo> porque supongo que tienen una copia legal no?
+<Uctumi> eagle :))
+<fugitivo> Uctumi: ahaha =)
+<Eagle2> el windows NT con licencias costo alrededor de 5500 dolares
+<Eagle2> y ahora tienen que comprar mas licencias
+<Eagle2> asi que SI es original
+<fugitivo> Eagle2: eso es a lo que me refiero
+<fugitivo> linux es gratuito =)
+<Uctumi> eagle: que caro dios mio
+<Eagle2> claro que si
+<Uctumi> eagle: por que no linux?
+<fugitivo> que mal, tenia un txt con todos los precios del nt
+<koza> Eagle2: que tiene el server adentro??.. alguna base de datos??.e.tc'
+<Uctumi> el linux sirve igual creo
+<Uctumi> no me van a creer, pero, baje un .ZIP a 4.6k/s!
+14__[5join14_)1: Eagle3 has joined channel #scene.ar.
+<Eagle3> porque carajo se me corto!
+<Eagle3> no entiendo
+<fugitivo> suele pasar
+<Eagle3> porque no linux?
+<koza> que hijos de puta.. como cobran los libros los de cuspide
+14__[5quit14_)1: Eagle2 has quit IRC (Ping timeout)
+<Eagle3> porque son todas maquinas windows 
+* Pump DCC up to 9999 bytes
+<Arlequin> ha si cuspide
+<Eagle3> bueno che los dejo
+* Pump DCC up to 37337 bytes
+<koza>    O'REILLY PERL RESOURCE KIT UNIX EDITION $190 Info Carro
+* Pump DCC up to 31337 bytes
+<Eagle3> se me hizo tardisimo 
+<fugitivo> pero podes poner el server en linux
+<fugitivo> koza: a la mierda
+<fugitivo> koza: estas aprendiendo perl?!
+<Eagle3> mucho quilombo aprender todo eso
+<koza> fugitivo: la regla de oro de la administracion es "una vez qe anda.. no lo 
+   toques" :)
+<koza> fugitivo: ahap
+<Eagle3> aparte el sistema esta andando con millones de cosas
+<fugitivo> koza: que masa, yo habia empezado, tenes algun libro?
+<koza> alguien conoce alguna imprenta que les pueda dar un .postscript con 1275 
+   paginas y me devuelvan un libro... a un costo barato? 
+<koza> fugitivo: no.. me queria comprar ahora
+<koza> el de larry wall
+<Eagle3> seeya
+<Eagle3> bye
+<fugitivo> koza: en computation 98 habian varios de perl
+<Arlequin> l8r
+<fugitivo> Eagle3: saludos
+<Eagle3> 5
+<Eagle3> 4
+<Eagle3> 3
+<Eagle3> 2
+<Eagle3> 1
+<Eagle3> 0
+14__[5quit14_)1: Eagle3 has quit IRC (Leaving)
+<Uctumi> chauu
+<koza> tienen IVA los libros ??
+<Arlequin> fugeetivo, quiero el aestesis 98..
+<koza> ete kiero que alguien cardee y me lo regale para el cumpleanio:
+<Arlequin> si
+<koza>    WALL PROGRAMMING PERL $51 Info Carro
+<fugitivo> Arlequin: eh?
+<fugitivo> koza: si queres lo mando a tu casa
+<Arlequin> el imeil
+<koza> fugitivo: mmmm
+<koza> che
+<koza> hay qe cardear libros a full
+<koza> por favor..
+<fugitivo> ofreces tu casa?
+<koza> que alguien se arriesgue :)
+<koza> naa
+<fugitivo> y a donde los mandamos?
+<Arlequin> hehehe
+<Uctumi> que masa escuchar modulos con todo el 3d sound
+<fugitivo> a la quinta de arl
+<Uctumi> quieren?
+<koza> eso
+<koza> la quinta de arl :)
+<koza> igual ahora la rematan.. asi ke :)
+<koza> o sino.. podriamos tomar una casa
+<Arlequin> ha, si.. los fusilo si mandan algo
+<koza> y ordenar miles de kozas.. y quedarnos una semana en esa kasa
+<Uctumi> che, les voy a pasar unos .IT que hizo un chico de 15 años
+<Uctumi> y se van a querer suicidar, bah, yo por lo menos 
+<fugitivo> Arlequin: no llego, no se que paso
+<koza> que flash.. la rata hace ruido
+*** PiBeRombo sets mode: +o Arlequin
+*** PiChan sets mode: +o Arlequin
+<Arlequin> haha que flash esa rata koza..
+<fugitivo> por ahi se perdio por ahi?
+<fugitivo> Arlequin: mandales un email y que lo manden a otro email
+<Arlequin> tu crees?
+<fugitivo> si, va a ser mejor
+14__[5crEEd14_)1: you just received filename (huhner.it) from Uctumi
+<Arlequin> esperemos hasta maniana.. y sino si.. hacemos eso
+<Arlequin> que es eso uct
+<fugitivo> ok
+<Uctumi> arlequin: unos mod de un chabon que se llama beek, es increible lo 
+   bueno que es ese engendro
+<Uctumi> arl: tiene 15 años
+<koza> flash
+<koza> creo que bajo al piso
+<fugitivo> mandame!
+<koza> por las dudas subo las pata
+<fugitivo> adoptala
+<fugitivo> y ponele nombre
+<Arlequin> haha dale dale
+<Arlequin> talvez es un ratoncito
+<Uctumi> es un bestiaaa!!!!!
+<Uctumi> me suicido aca
+<koza> Arlequin: ya lo vi el otro dia :)
+<Arlequin> q paso
+<koza> Arlequin: es un ratoncito
+<koza> onda..
+<koza> no me da para matarlo
+<Arlequin> que groso!!
+<fugitivo> hacelo tu mascota
+<koza> me cayo simpatico
+<Arlequin> no sea aseseeno
+<koza> de ultima no lo mato yo.. sino la trampera :)
+<Arlequin> mira que trae esa enfermeda de os roedores que es mortal
+<Arlequin>  no sea turro
+<fugitivo> ponele 'larv0m' de nick
+<fugitivo> uh
+<fugitivo> posta
+14__[5crEEd14_)1: you just received filename (remember.mod) from Uctumi
+<fugitivo> el coso
+<Arlequin> hanta?
+<Arlequin> no
+<Arlequin> hehe
+<fugitivo> no
+<Uctumi> mis melodias suckean mal al lado del laburo de este chabon
+<fugitivo> el...
+<Uctumi> koza: lo mataste al raton?!!!
+<Arlequin> 3,1 3,2 3,3 3,4 3,5
+<Arlequin> 3,1 3,2 3,3 3,4 3,5 
+<Uctumi> que es eso arleka?
+<Uctumi> es una masa
+<koza> che.. todo mal.. el curso que mando uct para la zine ya estaba en otra 
+   zine(lame one) :)
+<Arlequin> 3,1 3,2 3,3 3,4 3,5 3,6 3,7 3,8
+<fugitivo> que feo cps =)
+<Arlequin> estoy testeando tu monitor
+<Uctumi> koza: hahah
+<Uctumi> arlequin: que buenas esas lineas
+<Arlequin> si.. pero esta es remasterizada digitalmente (?)
+<Uctumi> arl: ponete a hacer mIRC art
+<Arlequin> si.. eso pensaba
+<fugitivo> yo queria poner un bot con la carita que hicimos el otro dia con koza
+<fugitivo> un = unos
+<Uctumi> fugitivo: vos cortaste el file o fue de aca?
+<fugitivo> yo lo corte
+<Uctumi> fug: ok
+<Arlequin> ¶¶
+<fugitivo> porque el cps es terrible
+<Uctumi> fug: igualmente el que quedo es el mejor :)
+<Uctumi> tiene un manejo terrible
+<fugitivo> hehe
+<fugitivo> cool
+<Uctumi> una armonia
+<koza> que carita?
+<fugitivo> de donde es el chabon?
+<Uctumi> unos samples
+<Uctumi> fugitivo: nidea, usa?
+*** Arlequin is now known as __--__--
+<fugitivo> ah, ya estaba happy de que era argentino
+<__--__--> we are back
+<__--__--> bye
+<Uctumi> fugitivo:SAn Diego, California
+Session Close: Fri Jan 08 04:13:20 1999
+
+Session Start: Thu Jan 14 00:59:20 1999
+* Logging #scene.ar to: [#scene_a.log]
+14__[5join14_)1: AcidBrain has joined channel #scene.ar.
+*** AcidBrain is now known as secret_mi
+*** secret_mi is now known as scrt_meet
+<Arlequin> fug
+<Arlequin> estas hablando con red?
+*** PiBeRombo sets mode: +o scrt_meet
+<fugitivo> hahah, como lo cague a red
+<Arlequin> estas hablando con red?
+<Arlequin> estas hablando con red?
+<fugitivo> si
+<Arlequin> decile si va el domingo a la reunion de tf99 en un mcdonalds
+<fugitivo> dice que no
+14__[5join14_)1: uctumi has joined channel #scene.ar.
+<darkman__> fug: decile que tiene que ir SI o SI
+<fugitivo> creo que ya le gane
+<Arlequin> decile que no sea gar-k :)
+<darkman__> fug: decile que tiene que ir SI o SI
+<darkman__> fug: decile que tiene que ir SI o SI
+<uctumi> che, fug, arregla los bots en #pcboard!! :)
+<fugitivo> no, todavia no la puta madre
+<fugitivo> paren que estoy peleando a muerte al ajedrez con red
+<Arlequin> no seas laravee
+<darkman__> fug: flash99 es mas importante que un simple juego de ajedrez :))
+<Arlequin> no seas laravee
+<darkman__> esto es de vida o muerte
+<uctumi> fugitivo: script del mirc de ajedrez??
+<darkman__> (para la party)
+<uctumi> quien tiene que ir?
+<Arlequin> don capitalismo red
+<uctumi> ahhh
+<uctumi> si
+<fugitivo> uctumi: yahoo java games
+<fugitivo> uctumi: games.yahoo.com
+<darkman__> fug: y que dice?
+<darkman__> fug: convencelo
+<darkman__> fug: ahora
+<darkman__> fug: dale, no seas larva
+<Arlequin> no seas laravee fug, be elito
+<Arlequin> no seas laravee fug, be elito
+<darkman__> fug: decile que tiene que ir
+<darkman__> fug: no nos estas prestanto atencion :)
+*** scrt_meet is now known as un4bomb3r
+<darkman__> fug: que dice?
+<Arlequin> ub?
+<Arlequin> estas sludge ahi?!?!
+<un4bomb3r> perdon
+<fugitivo> el ajedrez es elite
+<un4bomb3r> pero no le podemos decir nada a nadie
+<Arlequin> ustedes estan todos del carajo hehe
+<un4bomb3r> Arlequin: si.. pero no te contamos nada
+<un4bomb3r> jajaaj
+<un4bomb3r> yo no fui
+<Arlequin> heeh; quemaron toda la plantacion
+14__[5join14_)1: biomemo has joined channel #scene.ar.
+<Arlequin> no seas laravee fug, be elito
+<Arlequin> no seas laravee fug, be elito
+<Arlequin> no seas laravee fug, be elito
+<Arlequin> red
+<darkman__> fug: y?
+*** PiBeRombo sets mode: +o biomemo
+<darkman__> fug: le hablaste?
+<fugitivo> shh
+<fugitivo> que no me dejan pensar
+<darkman__> fug: hay tiempo para hacer cada jugada en el ajedrez, no te podes 
+   detener!!?!@="!!!?!
+<Arlequin> haaaaaaaaaa
+<fugitivo> estoy en los momentos cruciales
+<biomemo> ceh fug estas jugando al chess?
+<fugitivo> si
+<biomemo> en yahoo?
+<fugitivo> si
+<Arlequin> dale fugitivo,ponete las pilas
+<biomemo> cool yo soy medio ahi... =]
+<darkman__> fug: le hablaste?
+<darkman__> fug: le hablaste?
+<darkman__> fug: le hablaste?
+<darkman__> fug: hay tiempo para hacer cada jugada en el ajedrez, no te podes 
+   detener!!?!@="!!!?!
+<darkman__> fug: y?
+<darkman__> fug: y?
+<fugitivo> biomemo: yo recien hoy empeze, estoy jugando con red =)
+<fugitivo> que quieren que haga?~
+<biomemo> hehe
+<darkman__> uctumi
+<darkman__> estas?
+<uctumi> sisis
+<darkman__> <un4bomb3r> esc: jme fui a la mierda
+<un4bomb3r> si
+<un4bomb3r> pero no pido perdon
+<darkman__> ub: grrr..
+14__[5join14_)1: bpAnther has joined channel #scene.ar.
+<uctumi> mira, todo bien, me chupa, pero no voy a estar en un canal mientras haya 
+   alguien que tire gente porque no le cae bien o lo que sea
+<un4bomb3r> ok
+<un4bomb3r> por mi volve
+<un4bomb3r> solo lo digo porque se que no vas a volver
+*** un4bomb3r is now known as [sludge]
+<Arlequin> no exageremos
+<Arlequin> fugitivo
+<Arlequin> f-u-g-i-t-i-v-o
+14__[5join14_)1: excess has joined channel #scene.ar.
+<biomemo> si la verda
+<uctumi> che fugitivo, arregla los bots en #pcboardd!
+<uctumi> fugitivo esta colgado jugando al ajedrez con the_red
+<biomemo> jeje
+<biomemo> me too
+<biomemo> fujitivo
+14__[5join14_)1: Vikingo has joined channel #scene.ar.
+<darkman__> don vikingo
+<Vikingo> hola
+<uctumi> kc vikingo
+<uctumi> vos me suena que sos amigo de The_dr puede ser?
+<Vikingo> si
+<bpAnther> vikingo vos sos medio gordito?
+<[sludge]> ahhaahha
+<uctumi> vikingo: nunca hablamos nosotros, que onda? seguis haciendo ansis?
+<Vikingo> noooooo
+<Vikingo> jajajaj
+<Vikingo> naaaaaaaah
+*** bpAnther is now known as bpZzzzZz
+*** [sludge] is now known as AcidBrain
+<uctumi> vikingo: no haces mas ansis?
+<Vikingo> no
+<uctumi> vikingo: haces algun arte? algo?
+<uctumi> vikingo: como te enteraste del canal? algun release?
+<Vikingo> no
+<Vikingo> nada!
+<uctumi> bueno ok
+<Arlequin> jaa
+<uctumi> vikingo: haces algun deporte?
+<darkman__> ahahaha
+<uctumi> pregunta colgada al pedo :)
+<bpZzzzZz> vikingo: sos guerrero?
+<bpZzzzZz> vikingo: sos el rey del oceano?
+<bpZzzzZz> vikingo: bye me voy a dormir
+<darkman__> cya bp
+<bpZzzzZz> bye all
+<uctumi> zleep güell
+<uctumi> vikingo: vas al colegio? que estudias?
+<uctumi> vikingo: laburas?
+<uctumi> vikingo: sos adorador de satan?
+<Arlequin> vikingo: jugas al pato?
+<uctumi> hahahah
+<uctumi> hahahhaha
+<AcidBrain> Vikingo: pintas?
+<bpZzzzZz> hahah
+<AcidBrain> dibujas arcoiris psicodelicos?
+<uctumi> vikingo: sos coprofago?
+<bpZzzzZz> quien es el rey del mar?
+<bpZzzzZz> tu y solo tu vikingo
+<biomemo> quien sos vikingo?
+<uctumi> hahhaha
+<uctumi> el broche de oro
+<AcidBrain> bueh
+<AcidBrain> adios
+<darkman__> cya ab
+<bpZzzzZz> acidb: SALUDALO AL MASTER
+<AcidBrain> chao gente
+<AcidBrain> bp: a quien?
+<bpZzzzZz> sos gil? :)
+<AcidBrain> bp: no, vos? :)
+<bpZzzzZz> dame un V
+<uctumi> Veso?
+<bpZzzzZz> canten con migo!!!!!1
+<bpZzzzZz> dame un V
+<AcidBrain> bueh
+<AcidBrain> adis
+<AcidBrain> adios
+14__[5quit14_)1: AcidBrain has quit IRC (lordacid has no reason)
+<darkman__> bp: un +v?
+<bpZzzzZz> noooooo
+<bpZzzzZz> no
+<darkman__> adiu ab
+<bpZzzzZz> una letra V
+<uctumi> bp: si queres te doy un C
+<bpZzzzZz> dame una V te doy una V
+<uctumi> bp: un C largo asi afinas
+<bpZzzzZz> dame una i te doy una i
+<bpZzzzZz> dame un k te doy una k
+<bpZzzzZz> dame una i te doy una i
+<Arlequin> bueh
+<bpZzzzZz> dame una n te doy una n
+<bpZzzzZz> dame una g to doy una g
+<uctumi> owowoowowwWHwOWhwOHwhwWhwOWHOhwOW
+<bpZzzzZz> dame una o te doy una o
+<uctumi> te cague :)
+<bpZzzzZz> que se formo?
+<uctumi> todo cortado pero llego
+<darkman__> vikingo?
+<Vikingo> ke
+<bpZzzzZz> hahaahahaha
+<bpZzzzZz> master hablaste
+<Arlequin> viking: esytan todos drogados hoy, sorry
+<bpZzzzZz> hahaha
+<bpZzzzZz> EL VIKIIINGOOOO
+<darkman__> posta
+<bpZzzzZz> *vikingo* PING
+<bpZzzzZz> [Vikingo PING Response]: 4 seconds
+<darkman__> esto es decadente.. 
+<fugitivo> uh
+<fugitivo> al final termino en un empate
+<Arlequin> black panther, YA Fue
+<darkman__> fug: empate en un ajedrez!?!?
+<bpZzzzZz> no fue
+<uctumi> fugitivo sos una larva como the red :)
+<bpZzzzZz> me divierte ese nombre pallaso
+<uctumi> fug: nah
+<bpZzzzZz> me saco el sueño
+<Arlequin> bueno, reite a solas.
+14__[5quit14_)1: Vikingo has quit IRC (Leaving)
+<bpZzzzZz> nooooooo
+<bpZzzzZz> fuck
+<uctumi> hahahah
+<darkman__> posta, el chabon es un amigo..
+<darkman__> y ahora no va a querer venir mas..
+<bpZzzzZz> darkman: :)
+<darkman__> simplemente porq' tiene nombre de payaso
+<uctumi> que loco
+<darkman__> entramos en la decadencia
+<uctumi> el chabon ni bola daba al canal
+<bpZzzzZz> hahah no hables por los demas
+<Arlequin> mentira
+<Arlequin> no hablaba porque lo bardeamo
+<darkman__> uctumi: mas vale.. que no daba bola, mira si va a contestar todas 
+   esas preguntas boludas?..
+<uctumi> nahh
+<bpZzzzZz> quien mierda conoce a vikingo?
+<darkman__> yo
+<uctumi> dark: se lo podria tomar con buen humor :)
+<Arlequin> es conocido si
+<bpZzzzZz> darkman:good es muy amigo tuyo?
+<darkman__> bp: es amigo, si..
+<bpZzzzZz> arl: conocido nunca supe que hizo naa
+<darkman__> bp: o sea no es conocido ni super elite..
+<uctumi> ustedes estan seguros de que se ofendio?
+<bpZzzzZz> darkman: si bardean a un amigo mio yo salto al toque,que raro que no 
+   saltaste
+<darkman__> bp: al principio pense que el chabon tambien lo tomo en joda
+<bpZzzzZz> hahahahahhaha estoy como drogado me estoy cagando de la risa 
+   solo aca...
+<bpZzzzZz> nooooo que mal que estoy
+<darkman__> pero me mando un private y se re fue al carajo..
+<bpZzzzZz> se me vieran...
+<bpZzzzZz> hahahahaahah
+<darkman__> :)
+<bpZzzzZz> bueno ahora si a dormir me voy bye bye vikingoS!
+<bpZzzzZz> :)
+<darkman__> cya bp
+<uctumi> hhahaah
+<uctumi> bye blackpanther
+<Arlequin> che dm
+<Arlequin> hay una discordansia
+<darkman__> en que sentido, leo?
+<Arlequin> thered no puede fin de semana usualmente, pero dia de semana si
+<darkman__> uh
+<Arlequin> en cambio, koza y spektor no creo que puedan dia de semana.. ah si
+<darkman__> este chabon _SIEMPRE_ encontra de todo =)
+<Arlequin> spektor despues de la 1 si, pero koza no
+<darkman__> o sea tiene que ser fin de semana..
+<darkman__> hay q' convencerlo a thered..
+<darkman__> koza y spektor son fundamentales..
+<Arlequin> q le hable fugitivo kabron
+<darkman__> fugitivoo wake up now!
+14__[5quit14_)1: PiChan has quit IRC (Ping timeout)
+<uctumi> hay una inarmonia
+<Arlequin> eso si es hard
+14__[5quit14_)1: excess has quit IRC (Ping timeout)
+<uctumi> hahah
+<Arlequin> <darkman__> hay q' convencerlo a thered..
+<Arlequin> <darkman__> koza y spektor son fundamentales..
+<Arlequin> <Arlequin> q le hable fugitivo kabron
+<darkman__> arl: ? :)
+14__[5part14_)1: Arlequin has left channel #scene.ar.
+Session Close: Thu Jan 14 02:03:42 1999
+
+Session Start: Thu Jan 21 23:23:59 1999
+* Logging #scene.ar to: [#scene_a.log]
+14__[5quit14_)1: [FeaR] has quit IRC (Pingdonga timeout)
+<koza> si
+<koza> desde hace mucho tiempo
+<koza> pero antes necesito 6 meses de preparacion
+<_|`````|_> haa
+<un4bomb3r> para?
+<_|`````|_> nose, 
+<_|`````|_> pero a mi me dijieron que es Muy sarpado
+<un4bomb3r> koza: lo que dicen alla es que tenes que estar preparado
+<_|`````|_> tipo, muchisimo mas que cualquier acido
+<un4bomb3r> que no es joda.. 
+<_|`````|_> te limara mucho?
+*** _|`````|_ is now known as Arlequin
+<koza> por eso mismo
+<koza> necesito mucho tiempo de preparacion
+<Arlequin> clah, tipo 1/4 lsd cada 2 dias 
+<koza> in fact.. me hice la promesa de volver a los toxicos dentro de 10 anios
+<Arlequin> reallY?
+<koza> naaa
+<koza> ahap.. 
+<Arlequin> tipo, hasta qe consigas guita , te hags burgueson y ahi empezas a 
+  sostenerte el vicio?
+<uctumi> hahah
+<koza> no.. cualquiera
+<uctumi> arleka, cuidado con el ambiente veejay
+<koza> no tiene nada que ver con la guita
+<Arlequin> no jodash :)
+<Arlequin> koza: era un chiste bolo
+<koza> lo unico que hay que proteger en el ambiente veegay es el traste
+<uctumi> haha
+<Arlequin> koza: pero no me agrado eso de 'toxicos'
+<koza> bueno..
+<Arlequin> nah, tenes que cuidarte de no terminar como la mayoria en ese 
+  ambiente
+<koza> substancias psicotropicas si lo preferis asi
+<uctumi> koza: substancias psicotropicas suaves o fuertes?
+<Arlequin> bah, hay toxicos y toxicos
+<Arlequin> eso
+<ThE_rED> fuertes!
+<ThE_rED> sino no vale la pena
+<Arlequin> thered morfinamo
+<koza> ehhhrmm.. pienso que las que vos le llamas fuertes
+<uctumi> no, the_red es opiomano
+<Arlequin> eh koza, a eso me referia
+<uctumi> hay prubeas
+<ThE_rED> haha, yo bebo jarabe de opio
+<Arlequin> haa, tipo poe :)
+<uctumi> pruebas
+<koza> red: oooooho
+<koza> si.. o sea.. peyote+datura+ verdaderas dosis de lsd+ etc
+<ThE_rED> y terminas peor que timothy leary
+<Arlequin> como se decia 'llevado a cabo' = helded?
+<ThE_rED> ves la luz
+<ThE_rED> done
+<Arlequin> koza: ahi create una buena demo eh
+<koza> red; porque decis que timothy leary termino mal?
+<ThE_rED> haces una coneccion virtual al cerebro, re alita
+<Arlequin> como se decia 'llevado a cabo' = helded?
+<Arlequin> como se decia 'llevado a cabo' = helded?
+<Arlequin> como se decia 'llevado a cabo' = helded?
+<Arlequin> o que era  held?
+<ThE_rED> Arlequin: Done
+<koza> jajaja.. un par de veces se me ocurrio eso. la filmadora de 
+   percepciones/pensamientos.. seria el wildemo mas flashero ke pudiesen ver
+<ThE_rED> heheh
+<Arlequin> q mal
+<Arlequin> la otra vez sonie que na7as trabajaba haciendo tatuejes y me hacia uno
+<Arlequin> despues queria sacarmelo porque no me gustaba
+<Arlequin> sera por el tatuaje ese del sol en el brazo que me mostro
+<koza> jajja
+<koza> che loco
+<uctumi> arlequin: WOHwOHW
+<uctumi> es increible lo que puede divagar la mente en un sueño
+<koza> algo flashero debe ser tatuarse un oldscul.. estaria buenisimo... no creo 
+   que nadie llo haya hecho.. seria eleet :)
+<koza> uctumi:  y  un suenio con 200mg de lsd ni te cuento :)
+<uctumi> un oldschool
+<Arlequin> si
+<Arlequin> te haces mierda
+<koza> no..
+<koza> eso es misinformation
+<uctumi> koza: nunca probe
+<Arlequin> ha, que pasaria si te tomas 5 lsd's de una?
+<Arlequin> koza: ok no; pero toma 200mg lsd cada semana durante 3 anios
+<koza> y..
+<koza> conozco gente ke hizo algo parecido :)
+<Arlequin> estarias en constante flash drante un mes?
+<koza> el sintoma mas visible es que son re paranoicos..
+<uctumi> koza: lo de #pvm todo en joda
+<koza> jajajja
+<koza> joda una mierda
+<uctumi> koza: bah, no, de verdad
+<koza> ahora te cago a palos
+<Arlequin> koza: a que te referis paranoicos?
+<ThE_rED> hahah
+<uctumi> vas a morir
+<koza> jajajaa
+<Arlequin> ahha que flashero slush :)
+<Arlequin> hoy esta re tajante :)
+<koza> jajaja.. se malflaseo enserio :)
+<koza> jjoojo
+<koza> arl: desbaniame :)
+<Arlequin> para que le digo
+<uctumi> che
+<uctumi> haha
+<koza> o sea.. poneme mugre
+<uctumi> no
+<uctumi> koza: es de enserio
+<koza> joojoj
+<koza> que cosa es de enserio?
+<uctumi> koza: lo mio va enserio, la proxima 2600 no vayas porque vas a pagar 
+   por haberme hecho flashear
+<koza> jajjaa
+<Arlequin> uct: tengo una doble canio que roxea
+<koza> como te vas a comer esa :)
+<uctumi> arlequin: no, deja, tengo una bazooka
+<koza> que te iba a regalar una mother de p2 solo porke la fecha andaba mal :)
+<uctumi> bazooka de phrutilla
+<koza> jojo
+<Arlequin> che dejalo a slush en paz porque se complica y se violentizan todos
+<koza> esta paranoico slush :)
+<ThE_rED> de una ;)
+<ThE_rED> dejalo, ta en uno de esos dias..
+14__[5join14_)1: Pruslas has joined channel #scene.ar.
+<ThE_rED> uenas don pruslas!
+<un4bomb3r> koza> no bardees mas
+<uctumi> listo
+<uctumi> modero
+<koza> ub: bolooo
+<koza> estaba jodiendo
+<koza> dios.. no identifican una _joda_
+<ThE_rED> koza: Lo mismo dijeron de mi.
+<un4bomb3r> parece HACK.AR
+<un4bomb3r> BASTA
+<un4bomb3r> PAREN
+<uctumi> koza: fuera de joda, me has herido mal
+<ThE_rED> Koza: Supongo que me entendes ahora. Hay gente hipernerviosisimase
+   nsible.
+<koza> jajajaa
+<Arlequin> red hehe
+<Arlequin> pero koza.
+<koza> naa.. estan duros
+<Arlequin> anyway
+<uctumi> koza: nunca mas te voy a hablar
+<Arlequin> cuando ves que alguien esta asi
+<Arlequin> lo mejor es callarse
+<koza> uctumi: ahi me hablaste :)
+<uctumi> koza: no, no te hable
+<uctumi> koza: te escribí
+<Arlequin> heheheheeeee
+<koza> arl: bueh.. tantas veces estabamos jodiendo y el me kickeo :)
+<koza> no se loco.. aca el malflashero no soy justamente yo :)
+<uctumi> koza: hasta que me regales una p200 no te voy a volver a hablar (buen 
+   metodo, eh?)
+<koza> onda.. que fue lo que dije?
+<uctumi> me voy a cagar de hambre si pienso conseguir una maquina asi
+<uctumi> koza: lo de mierdas se calento slush
+<ThE_rED> uctumi: hehe, no estas conforme con una dx2 vos? siempre queres 
+   mas vos? sos un adicto, para un poco! ;) hehehe
+<Pruslas> aahahah
+<Arlequin> koz: no dije eso.. dije que podrias haber aplicado tu sensibilidad si el 
+  otro no la aplico
+<Pruslas> koza, tan todos susceptibles!
+<Arlequin> debe ser el dia..
+<koza> naaa.. pero es obvio que si decis "Todos son una mierda" estas jodiendo.. 
+   cuando le tenes bronca a alguien decis "X es una mierda".. pero nunca "todos 
+   son una mierda" :).. es :_obvio:_ que es una joda :).. y todos saben ke no tengo 
+   nada en contra de nadie :)
+<ThE_rED> Pruslas: Si, quelevamohace...
+<Arlequin> koza: de nuevo, yo lo note que es una joda
+<uctumi> The_red: si, tenes razon! no se que me pasa! no me conformo con una 
+   poderosa 486 dx2 66mhz, no se que me pasa
+<Arlequin> pero si sabes que el otro no..
+<Arlequin> uct: mira los africanos ni para comer y vos gastas plata en esas cosas
+<uctumi> red: el detalle con esa 486 es que la voy a tener que devolver :)
+<ThE_rED> Koza: vayamos a hack.ar a seguir asimilando siervos al gran señorio 
+   de Zoltrix y Soulshot.
+<koza> arl: no sabia
+<koza> arl: pense ke me habia kickeado en joda
+<ThE_rED> uc: si, pero tenes hasta marzo!! no drama!
+<uctumi> red: marzo? no era abril!?
+<koza> red: no puedo. ahora tengo ke ir a apoliyar.. maniana tengo ke levantar 
+   temprano
+<uctumi> red: OOPS!
+<Arlequin> que flash
+<ThE_rED> uc: tenes razon, abril
+<Arlequin> ahhaha
+<Arlequin> alguien vino con un auto
+<Arlequin> y tiro una caja en mi casa
+<ThE_rED> uc: me olvide que facultad empieza en abril :P
+<ThE_rED> un bebe seguramente
+<Arlequin> nose
+<Arlequin> todo mal..
+<Arlequin> le grite : conchi tu ma
+<uctumi> arlequin: si, es una barbaridad que yo coma todos los dias, habiendo 
+   chicos que no tienen para comer en uganda, mejor me mato de inanición
+<ThE_rED> o unos gatitos
+<Arlequin> pero se fue
+<uctumi> the_red: ah, joshha
+<uctumi> cruzada por los niños de Uganda!! No coma mas
+<ThE_rED> kozA: seguis buscando departamento por la zona?
+<Arlequin> uct: hahaha
+<Arlequin> che
+<Arlequin> pinta
+<ThE_rED> cruzada por los niños de uganda, enseñeles a cardear
+<uctumi> Siente culpa por tener tanto y otros tan pocos? únase a nosotros!
+<Arlequin> que empezaron las clases y se borran todos
+<Arlequin> ahah
+<koza> creo que slush me tomo bronca desde que lo patee en las costillas en la 
+   party mientras dormia y lo despertaba a cada rato en la ultima noche.. bah.. pero 
+   eso no amerita que se enoje nadie :)
+<Arlequin> se cardean un ejercito y takeoverean el mundo
+<koza> red: todavia no empeze a buscar.. pero si conoces algo decime
+<ThE_rED> koza: alquila con alguien mas
+<uctumi> red: estaría enseñarles a cardear, pero primero hay que conseguirles 
+   maquina :)
+*** Arlequin sets mode: +o Pruslas
+<Arlequin> si
+<uctumi> <Arlequin> se cardean un ejercito y takeoverean el mundo <-- hahaha
+<Arlequin> con octavo me dijo
+<uctumi> uganda powa?
+<koza> ya fue.. dejo la scene
+<ThE_rED> koza: hagamos el proyecto ese que hablamos la otra vez y se lo 
+   vendemos a Clarin y nos llenamos de plata :P
+<ThE_rED> koza: ahh no, se la damos mejor a los niños de uganda
+<koza> red: proyecto3d o proyectorpginet?
+<Arlequin> koza: malphlash again?
+<ThE_rED> koza: rpginet :)
+<koza> me voy loco
+<uctumi> koza: dejo la scene? ta bien
+<koza> hay decadencia.. mala onda
+<koza> para que estar?
+<uctumi> koza: no me importa
+<uctumi> koza: andate
+<Pruslas> koza, eso es algo dudoso, Yo se que cuando tenías 6 años, le 
+   "cagaste" una figurita del Chavo a un vecinito tuyo
+<uctumi> koza: nadie te quiere/necesita
+<Pruslas> eso NO es tener BRONCA? :)
+<uctumi> pruslas: uh! hhaha
+<ThE_rED> hehe
+<koza> cuando pienso que podria estar culeandome a lagata en vez de hacer esta 
+   vida nerd..
+<uctumi> koza: ahora sos un yuppie askeroso, y nos caes mal
+<uctumi> koza: deja la escena y hacenos felices
+<koza> i left the scene to the yuppie life
+<Pruslas> uctumi, no te quejes, mi maquina es TAN rapida que puedo contar sus 
+   ciclos de reloj!
+<uctumi> pruslas: hahaha
+<ThE_rED> he
+<koza> y bueno..
+<ThE_rED> koza: no entremo mas a pvm, entremo a scene.ar
+<uctumi> che, hice pruslas ping y no response
+<uctumi> tiene un laguito grande
+<koza> no se... 
+<koza> no entro mas a ningun lado
+<uctumi> koza: andate
+<ThE_rED> buena idea
+14__[5part14_)1: ThE_rED has left channel #scene.ar.
+<koza> pero antes le pego un palazo en la cabeza a uctumi
+14__[5join14_)1: ThE_rED has joined channel #scene.ar.
+<ThE_rED> bah
+<uctumi> koza: que esperas?
+<uctumi> heheeh
+<uctumi> estemmm
+<uctumi> <downward> i've retired from being sober :)
+<uctumi> que loco no?
+<ThE_rED> haha
+14__[5quit14_)1: un4bomb3r has quit IRC (Connection reset by peer)
+*** uctumi sets mode: +o ThE_rED
+<koza> <La_Gata> koza.. te invito esta noche a mi casa
+<Arlequin> es del fbi
+<uctumi> koza: uhh! por que no te vas alla asi te dejas de joder aca?
+<Arlequin> ucto incredulo :))
+<uctumi> arlequin: al contrario, fui muy credulo
+<Pruslas> me leen?!
+<ThE_rED> koza: Dediquemonos al coding comercial freelance pa' ganar guita y a 
+   la mierda la scene >:)
+<uctumi> pruslas: estas RE LAGEADO
+<koza> <La_Gata> quiero que me rompas el orto... 
+<uctumi> haha
+<koza> che loco
+<koza> una cosa
+<uctumi> red: blasfemo
+<Arlequin> thered con su idea de toda a vida :))
+<koza> si alguien logueo lo que yo dije en pvm.. por favor mandenmelo.. porque no 
+   entiendo que dije para ke slush se ofendiera
+<uctumi> red: hereje, sacrilego, ermm.. nose, infame
+<Arlequin> koza:
+<Arlequin> no fue nada..
+<Arlequin> pasa
+<Arlequin> que slush debe estar trascendido
+<Arlequin> voy a buscar el te
+<uctumi> <Arlequin> slush: es conveniente para la salud canalistica  <--- hahaha
+<Pruslas> hahaha, koza, hahahahah
+<koza> posta.. lo digo de verdad.. si alguien tiene el log pasemelo
+<uctumi> pruslas: te llega todo mas tarde de lo que lo decimos, cambia de servidor
+<koza> naa.. no pasa un carajo.. nunka me habia peleado con nadie
+<uctumi> hahha
+<uctumi> el te?
+<Arlequin> koza: tengo un log de 1mb que es priv8..
+<uctumi> 1 mb?!
+<ThE_rED> y digo yo, que tiene de malo dedicarse al coding comercial y hacer 
+   guita?
+<uctumi> red: no por eso, o sea
+<uctumi> red: todo bien, yo no puedo hablar, no soy coder
+<koza> arl: solo quiero la parte en donde hable yo
+<uctumi> red: pero lass demos son mucho mejores a mi criterio :)
+<ThE_rED> y despues viajar por el mundo, comprarse un buen auto, una buena 
+   casa con pileta en belgrano, una sgi,etc!
+<koza> jaja
+<koza> alquilarse unas turras
+<uctumi> red: no me motiva
+<koza> ce
+<koza> che
+<Pruslas> AHHHHHHHHHHHHHHHHH
+<Pruslas> No puedo creerlo!!!!!!
+<Pruslas> estos pibes TAN elites dandome OP a mi, un simple y vulgar lamo!
+<Pruslas> :)
+<koza> nadie puede ir al mirc y hacer un save buffer y darmelo? 
+<ThE_rED> no, mas aun, ir a estados unidos, derrocar a bill gates.. y hacer un 
+   nuevo sistema operativo basado en interface grafica con opensource.
+<uctumi> pruslas: bueno, como gustes
+*** uctumi sets mode: -o Pruslas
+<koza> no
+*** ThE_rED sets mode: +o Pruslas
+<koza> nuevo un carajo
+<uctumi> hehehe
+<koza> linux a full
+<ThE_rED> no me gusta el modo texto :P
+<koza> y ayudamos a gnome
+<ThE_rED> bueno, rehago el linux para que sea todo en modo grafico y ya fue
+<uctumi> ah, dale
+*** Pruslas changes topic to "El 10% de los seres humanos que se pierde bajo la 
+superficie terrestre es conver"
+<ThE_rED> con un registro de configuracion en vez de archivos tirados por todos 
+   lados
+<uctumi> pruslas: conver...?
+<koza> cualquiera
+<uctumi> convertido en petroleo?
+<koza> jamas seras un unix geek red
+<koza> o sea.. 
+<koza> todavia no penetro en vos la filosofia unix.. 
+<uctumi> hhehe
+<ThE_rED> no, tomo el lugar de bill gates, hago windows opensource y ya fue
+<Arlequin> volvido
+<koza> jajaja
+<uctumi> hahah
+<ThE_rED> y domino el mundo
+<uctumi> red: ah, listo
+<uctumi> red: crea un mundo rojo :)
+<koza> che red
+<uctumi> red: con posters tuyos por todos lados
+<koza> que tipo de comida hay en tu casa a las 17 s?
+<ThE_rED> y lo rijo con mano de hierro
+<uctumi> haha
+<ThE_rED> koza: uhm.. galletitas desayuno en una lata?
+<uctumi> kebab?
+<koza> jajja
+<koza> prefiero el lomito de tu abuela :)
+<uctumi> epa!
+<uctumi> double sense detected
+<ThE_rED> si, a la strogonoff?
+<koza> exactamente
+<koza> uctumi: si por lo menos la conociera :)
+<ThE_rED> ho, eso lo hacen una vez cada fin de anio
+<koza> uh.. avisame
+<uctumi> koza: yo con vos no hablo
+<ThE_rED> koza: sacate de una vez de la cabeza la idea de ser taxi boy de 
+   ancianas
+<ThE_rED> ;)
+* koza probo y le gusto
+<ThE_rED> uh
+<Arlequin> aahahah
+<koza> el lomito strogonoff me refiero
+<uctumi> que lindo! el lomito de la abuela de the_red!!
+<ThE_rED> ..
+<koza> me deprimieron loco
+<koza> todo mal
+<koza> me obligan a volver al poxiran
+<uctumi> koza: vos me deprimis a mi, sos un desastre
+<ThE_rED> dedicate al coding comercial, gana plata, comprate un isp, hacete un 
+   server de efnet, y klinea a todos
+<koza> banquen que me suicido
+<Pruslas> <[sludge]> y vos que ondas?, yo te dije algo?, no, so, dejame
+<Pruslas> uhhhhhhhh
+<Pruslas> este pibe se desquicio!
+<Arlequin> haha red
+<koza> chhe.. ondas.. esta en un maldia o algo slush??.. o es bronca verdadera?
+<uctumi> arl: detecte un quote
+<ThE_rED> koza: vos sabes como es sluch, tiene una manera de pensar 
+   demasiado retorcida
+<koza> naaa.. cualquiera
+<Arlequin> ucto: manda!!
+<Arlequin> maldia de slush
+<Arlequin> en mi casa too, btw
+<koza> ok
+<koza> me callo y espero que le pase.. vos despues convencelo de ke soy bueno 
+   arl :)
+14__[5crEEd14_)1: current netsplit from irc.ais.net ircd.erols.com
+14__[5quit14_)1: Pruslas has quit IRC (irc.ais.net ircd.erols.com)
+14__[5quit14_)1: Angra has quit IRC (irc.ais.net ircd.erols.com)
+<Arlequin> ya sabe bolo..
+<koza> jajaja
+<koza> ya se 
+<koza> ya se!!!
+<koza> ya se!!!
+<Arlequin> si yo le hubiese dicho eso
+<ThE_rED> Que masa como revivio la scene en inet con los pixelados,demos,trax,e
+   tc..
+<Arlequin> me baneaba a mi too seguro
+<koza> hhoy nos llego a todo la phone bill ...  es eso!!!!
+<koza> sii!
+<koza> era eso? :)
+<ThE_rED> phone bill? hace mucho solia leer eso para ver cuanto gastaba de inet..
+<uctumi> a mi no me llegó. o mi vieja la habra tirado
+<koza> guau
+<koza> tu vieja lucha contra el sistema
+*** happosai sets mode: -bbb *!*@freddy.realise.com hard2kill!*@* 
+*!venom@195.188.8.191
+*** StoneGirl sets mode: -bbb *!*@freddy.realise.com hard2kill!*@* 
+*!venom@195.188.8.191
+<Arlequin> ajajaj
+<uctumi> koza: a vos no te hablé
+<Arlequin> y pruslas?
+<ThE_rED> uc: yo tengo un mother de pentium
+<ThE_rED> uc: pero no anda el cache
+<koza> todo bien uct
+<koza> en cuanto tenga un p2 te lo regalo :)              (mentiraaaaaaaaaa :)
+<Arlequin> ah yo tambien
+<uctumi> red: vos tambien?!
+<koza> dentro de 50 anios les regalo p2 a todos
+<Arlequin> tengo uno de ocavo que lo tome en concepto por el micro dx4 que me 
+  quemo
+<uctumi> los voy a matar a los 2
+<uctumi> koza: dentro de 50 anios, las calculadoras van a ser p2
+<ThE_rED> uc: si, pero lo mio es posta, si queres te lo doy, pero no banca amd :~(
+<uctumi> red: que no le anda el cache es algo un poco feo :)
+<ThE_rED> uc: si
+<uctumi> red: espera que veo que me puedo comprar mejor, sino te lo pido
+<koza> malditos
+<koza> ucranianos
+<Arlequin> loko
+<Arlequin> loko
+<Arlequin> loko
+<Arlequin> hablemos de la party
+<Arlequin> que no me cotaron que hablaron
+<Arlequin> acabo de mandar un email al sitio hungaro para que nos hosteen
+<ThE_rED> 170 pesos te sale mother+micro k6-300
+<uctumi> la arregló
+<ThE_rED> mother SoYo
+<uctumi> red: por ahi me compro un micro un poco mas modesto :)
+<ThE_rED> 150 con un txpro
+<ThE_rED> uc: si conseguis..
+<uctumi> arlequin: sitio hungaro?
+<Arlequin> ftp://demo.cat.hu
+<Arlequin> tienen de todo!!
+<Arlequin> hay untoco de wildemos de 60mb
+<uctumi> arlequin: uh, joya
+<Arlequin> che
+<Arlequin> aproposito
+<uctumi> fueron al link ese de hornet, PC DEMO FAN CLUB?
+<Arlequin> ustedes decian de la nacion
+<Arlequin> encontre un folleto tirado de la nacion aca que se llama
+<Arlequin> "estas virtualmente invitado a disfrutar del ARTE"
+<uctumi> uh, disculpen mi comentario colgado, olvidenlo :)
+<Arlequin> y hay un par de paginas color mostrando todo lo de arte de su web
+<Arlequin> que tienen direcciones, 'calendario' con exposiciones, etc
+<uctumi> arlequin: arte en que sentido?
+<uctumi> arlequin: opa, parece interesante
+<uctumi> arlequin: podriamos mandar una carta
+<uctumi> no e-mail
+<Arlequin> a ver
+<Arlequin> si tiene
+14__[5join14_)1: Angra has joined channel #scene.ar.
+14__[5join14_)1: hard2kill has joined channel #scene.ar.
+*** happosai sets mode: +b *!*@freddy.realise.com
+*** hard2kill was kicked by happosai (banned: requested)
+*** happosai sets mode: +b hard2kill!*@*
+<ThE_rED> Arl: hablamos de que tenemos que escribir una carta superultrabien 
+   redactada a la nacion, verseando que somos un enorme grupo de jovenes 
+   artistas digitales interesados en acercar a la gente a contemplar este maravilloso 
+   arte de la mano de un diario que aporta como ningun otro al progreso 
+   cybernautico nacional y etc,etc
+14__[5join14_)1: Pruslas has joined channel #scene.ar.
+14__[5quit14_)1: Pruslas has quit IRC (0,0··15,15·14,14·15,1 I R c a p 14,14·15,15·1,84http://1ircap.hyperm)
+14__[5part14_)1: Angra has left channel #scene.ar.
+14__[5join14_)1: Angra has joined channel #scene.ar.
+<Arlequin> ha red
+<Arlequin> eso suena bien
+<Arlequin> ya con koza habiamos hecho algo de eso
+<Arlequin> para manian lo busco y se los mando
+<ThE_rED> hehe, okas!
+14__[5part14_)1: Angra has left channel #scene.ar.
+14__[5join14_)1: Angra has joined channel #scene.ar.
+<Arlequin> pasa que es jodido
+14__[5crEEd14_)1: current netsplit from irc.exodus.net ircd.erols.com
+14__[5quit14_)1: Angra has quit IRC (irc.exodus.net ircd.erols.com)
+<uctumi> claro
+<Arlequin> nadie absolutamente nadie va a poner plata sin un fin comercial
+<ThE_rED> entre todos nos encargamos de darle forma :)
+<Arlequin> okee joya
+<uctumi> arlequin: si
+<Arlequin> la otra parte importante es los sponsors
+<uctumi> arlequin: pero la nacion puede hacer publicidad y tiene una noticia
+<Arlequin> uct: aham..
+*** koza changes topic to "yuppiemodeon: Ojala todos los pecadores ardan en el 
+infierno de yahove"
+<Arlequin> pero como vamos a manejar
+<Arlequin> el hecho de juntar scene con gente comun?
+<ThE_rED> arl: una vez que tenes el apoyo de la nacion es mucho mas facil 
+   conseguir sponsors grosos
+<Arlequin> la gente comn no va  atraer maquinas..
+14__[5quit14_)1: happosai has quit IRC (Read error: 0 (Undefined error: 0))
+<Arlequin> red: okee, tonces dediquemonos a la nacion first
+<koza> che
+<ThE_rED> conseguimos empresas grosas onda compaq , acer,etc y les decimos 
+   que las muestras de van a hacer en maquinas de ellos, lo cual les ofrece una 
+   publicidad mas que excelente
+<koza> yo el otro dia pase por una tal "centro cultural artistico de expresion 
+   peronista" (posta.. era una unidad basica reformada para ser centro cultural)
+<uctumi> red: imaginate si se cuelgan!?
+<Arlequin> red: sabes que todo eso lo planeamos para la 98 :)
+<uctumi> claro
+<Arlequin> pero: la empresas ni respondian o no hablabamos porque solo koza 
+  chamuyaba :)
+<uctumi> seguramente ya todo se pensó
+<ThE_rED> Pero la idea es hacer todo en un orden
+<Arlequin> pero bueno
+<uctumi> me senti re larva ayer cuando no me anime a llamar a Acer
+<Arlequin> red: creeme que la 98 no estaba planeada asi.. pereo buah
+<Arlequin> en fin, ocn intentar no perdemos nada
+<ThE_rED> consigamos primero un buen contacto con la nacion, si no es la nacion 
+   tal vez otro diario.. pagina12, queseyo.. pero que sea algo que llega a las masas
+<koza> uctumi: tenes que tener preparado el chamuyo.. no podes llamar asi como 
+   asi
+<koza> no se..
+<uctumi> koza: si, o sea, no hace falta chamullo
+<koza> yo me sigo inclinando por el centro cultural peronista
+<Arlequin> ahha koza
+<Arlequin> estaba bueno eso?
+<ThE_rED> uc: no, al pedo llamarlos sin tener una base
+<Arlequin> el lugar
+<uctumi> koza; nahh
+<uctumi> cronica rulea
+<koza> arl: desde afuera si
+<Arlequin> cronica olvidate hasta ultimo momento
+<Arlequin> koza: direccion/phono?
+<uctumi> the_red: no hace falta yamuyo, les decis la verdad y listo
+<Arlequin> lo podes conseguir?
+<Arlequin> uct: no!
+<koza> uctumi: DECIS LA VERDAD ???????????????????
+<Arlequin> eso nunca
+<koza> arl: posiblemente.. tendria ke entrar.. dar un vistazo.. y pedir el fono
+<Arlequin> koza: direccion
+<koza> arl: ahora no la tengo.. es por palermo
+<Arlequin> uct: las empreas son re burocraticas.. por lo tanto si entre ellas se 
+  dicen algo, saben que el 90% es mentira
+<koza> dios
+<koza> es tardisimo
+<koza> me voyg
+<koza> dejo la scene
+<koza> chau
+<Arlequin> chau
+<Arlequin> no flashies
+<Arlequin> http://www.lanacion.com/suples/indice/98/indexasp.htm
+<koza> mis disculpas a slush y atodos los ke pude haber ofendido con mi lenguaje 
+   larva
+<koza> me voy
+<koza> adios
+<koza> extranienme
+<koza> cya
+<uctumi> koza: haha
+<koza> arrivederchi
+<koza> or ua
+<uctumi> arlequin: ah, listo
+<Arlequin> cosneguime la direccion
+<koza> bon voyage ?
+<Arlequin> cosneguime la direccion
+<koza> ok..
+<Arlequin> y si es posible el tel
+<Arlequin> salu2
+<Arlequin> be elite
+<uctumi> koza: no te olvides, la proxima 2600 lleva chaleco antibalas
+<koza> arl: re flashero.. theflash 99 peronista :)
+<koza> arl: voy a ver si puedo entrar
+<koza> soy elite :)
+<koza> es mas
+<koza> ahora me voy a suicidar
+<koza> pero bueno
+<koza> no pasa nada
+<koza> chau
+<koza> dejo la scene de la vida
+<koza> no se olviden de mi
+<Arlequin> no seas idiota
+<koza> y hagan todo lo ke les diga el general
+<koza> volvere y sere millones!
+* koza es pacifista
+* koza es eva peron
+<Arlequin> eva roxx
+<koza> adios mis descamisados!
+<koza> adios!
+<koza> (me re colgue)
+<koza> cya
+14__[5quit14_)1: koza has quit IRC (Leaving)
+<Arlequin> ajaja
+<uctumi> hahh
+<uctumi> mis descamisados
+<uctumi> hehe
+<Arlequin> k chabon loco
+<ThE_rED> creo que trabajar le hace mal
+<Arlequin> ahora dudo de que va a volver a los toxicos en 10 anios nos hizo 
+  malflashear o no
+<Arlequin> haha que flash deber habers ido verlo en corbata
+<ThE_rED> te lo puedo asegurar
+<uctumi> arl: ese ftp hungaro rulea, 3.6k :)
+<Arlequin> yo bajo a 1.3k
+<ThE_rED> volver a los toxicos? nunca estuvo :)
+<Arlequin> nose si es el mode, la lniea oque
+<uctumi> arlequin: koza tiene pinta de lo que quieras menos de falopero :)
+<Arlequin> pero eso parecio de enserio :)
+<uctumi> arlequin: es el modem?
+<uctumi> arlequin: mira, no creo, pero nose
+<Arlequin> dunno, como puedo saber?
+<uctumi> arlequin: ponele otro y fijate a cuanto bajas :)
+<Arlequin> verda :)
+<uctumi> arlequin: o lleva tu modem a otro barrio
+<Arlequin> cuanto esta un 56k?
+<uctumi> nose
+<uctumi> pero
+<uctumi> si te rompes el culo creo que lo podes conseguir barato
+<Arlequin> tipo? 50$?
+<uctumi> o sea, 56k full zoltrix por 70 o 60 pesos
+<Arlequin> ah okee
+<uctumi> pero, tenes que revisar creo
+<uctumi> yo en mi barrio de mierda apuesto a que si me compro un 56k me va a 
+   andar re mal
+<Arlequin> uhrm, debe ser mi cable.. queseio
+<uctumi> rulea tener el que tiene biomemo, ese tiene que andar bien en todos lados 
+   :)
+<Arlequin> es increible como comprimen estos modems
+<uctumi> puede ser
+<Arlequin> cual tiene?
+<uctumi> arlequin: us robotics externo 56k
+<uctumi> arlequin: es una masa, yo a veces con este nuevo bajo de los bbs a 
+   3800/3700 :)
+<Arlequin> posta?
+<Arlequin> debe estar jodiendo
+<uctumi> arlequin: no, si fui a la casa
+<Arlequin> es un loco
+<ThE_rED> che uc, entramo a la groovycompo?
+<Arlequin> al pedo externo y te sale bocha mas..
+<uctumi> arlequin: si, eso es re verdad
+<uctumi> red: la que te da 1 semana de tiempo?
+<uctumi> red: mejor entremos al MC6 :)
+14__[5join14_)1: happosai has joined channel #scene.ar.
+*** StoneGirl sets mode: +o happosai
+<Arlequin> si entren a mc6!!
+*** ThE_rED sets mode: +o happosai
+<ThE_rED> al pedo un carajo, un slot menos usado, :)
+<Arlequin> pero en que categoria?
+<uctumi> arlequin: habia un negocio que vendian cyrrus 33,6 a 35 pesos
+<Arlequin> pero yo tengo un 33.6k usr
+<ThE_rED> Advanced por supuesto
+<uctumi> red: ahhhh, hablo el señorito con muchas placas! ;)
+<Arlequin> y asi anda..
+<ThE_rED> >:)
+<uctumi> red: VEteran00X :)
+<Arlequin> red: de onda.. te hacen mierda :)
+<uctumi> veterANO
+<Arlequin> heh
+<uctumi> si, tiene razon arlequin
+<uctumi> pero yo me tiro el lance igual
+<ThE_rED> hehhe
+14__[5join14_)1: fac_DLB has joined channel #scene.ar.
+<ThE_rED> Fac!!!
+<fac_DLB> hola?
+<uctumi> FAc!
+<ThE_rED> que tal tanto tiempo?
+<uctumi> como anda? tan temprano
+*** Arlequin sets mode: +o fac_DLB
+<uctumi> hehe
+<ThE_rED> uc: nah, les hacemo el orto a todos >:)
+<ThE_rED> uc: no, en realidad es al pedo
+<fac_DLB> aparece algo de lo que escribo en #pvm ???
+<uctumi> arl: un usr 33,6, es un canio eso :)
+<uctumi> fac: nop
+<Arlequin> fac: no
+<fac_DLB> no puedo escribir en #pvm
+<ThE_rED> uc: no van a votar si tu tema esta bueno o no, van a ver como esta 
+   trackeado tecnicamente y te van a dar tu nota del 1 al 10
+<uctumi> red: no te creas :)
+<fac_DLB> #pvm :Cannot send to channel
+<uctumi> red: si?
+<uctumi> red: no creo
+<fac_DLB> arlequin: mandame lo de ayer
+<uctumi> red: influye si el tema es bueno, todo
+<ThE_rED> uc: ademas son chabones que tienen gustos musicales re raros
+<Arlequin> fac
+<Arlequin> preoba hora
+<uctumi> red: haha
+<uctumi> red: que sabes? :)
+<ThE_rED> en la anterior groovycompo el tema de kyp me parecio el mejor y salio 
+   7mo
+<uctumi> red: pero el Music Contest es _EL MUSIC CONTEST_
+<fac_DLB> creo que ya esta.... thnx arl
+<uctumi> red: por eso, ninguna groovy, el mc es mejor ;)
+14__[5join14_)1: Angra has joined channel #scene.ar.
+<ThE_rED> uc: justamente, en la mc6 es peor
+<uctumi> o sea, vos ganas el music contest categoria veteran y despues lo tenes 
+   a virt lamiendote los zapatos toda la vida
+<ThE_rED> ademas los chabones ya se conocen , se identifican los estilos y se 
+   votan por compromiso
+<uctumi> hehe, cualquiera
+<uctumi> red: que cortamambo que sos
+<uctumi> para
+<uctumi> lo que si
+<uctumi> no me gusta del music contest es que las entries que yo pude bajar eran 
+   todas anonimas
+<Arlequin> uct
+<Arlequin> eso es porque era para votar
+<uctumi> arlequin: seguro?
+<Arlequin> despues a lo ultimo lo hacen publicos
+<Arlequin> sisi
+<Arlequin> bajate del mc5
+<Arlequin> el de advance
+<Arlequin> el 2do
+<uctumi> mmmm, si me notan medio alterado hoy es porque tome un descongestivo 
+   que tiene efedrina
+<Arlequin> es un tema de necros
+<Arlequin> ahah
+<uctumi> arl: advance ?
+<Arlequin> nose
+<Arlequin> la mejor era
+<ThE_rED> Arl: de donde me lo bajo?
+<Arlequin> red
+<Arlequin> fijate en hornet.org que hay un link creo
+<Arlequin> o buscar dentro de hornet
+<uctumi> red:
+<uctumi> ntries are judged by the public. Anyone can register to vote.
+<uctumi> Songs are judged in five different categories: originality, form,
+<uctumi> technique, sample quality, and overall appeal. Scores for
+<uctumi> "overall appeal" count three times as much as other categories. 
+<uctumi> ahi estan los criterios de votacion
+<Arlequin> que es eso de overall appeal, nontendi
+<uctumi> arlequin: no entendi lo de "advance"
+<ThE_rED> apariencia general
+<uctumi> claaro
+<uctumi> lo que uno nota al escuchar un tema por primera vez
+<uctumi> pero, me van a hacer mierda en veteran, mejor intermediate
+<Arlequin> eso
+<Arlequin> veteran = enve de advance
+<uctumi> arl: o sea, me decis que me baje el que salio segundo en veteran?
+<Arlequin> aha
+<uctumi> ntries are judged by the public. Anyone can register to vote.
+<Arlequin> mc5
+<uctumi> Songs are judged in five different categories: originality, form,
+<uctumi> technique, sample quality, and overall appeal. Scores for
+<uctumi> "overall appeal" count three times as much as other categories. 
+<uctumi> 1
+<uctumi> May
+<uctumi> 1998
+<uctumi> Removed MOD and S3M formats as valid types to
+<uctumi> enter.
+<uctumi> opa
+<uctumi> removieron mod y s3m
+<uctumi> re mal :)
+<uctumi> 17
+<uctumi> May
+<uctumi> 1998
+<uctumi> Impulse Tracker v2.14 sample compression is not
+<uctumi> allowed.
+*** happosai sets mode: +o Angra
+<uctumi> ni eso
+*** StoneGirl sets mode: +o Angra
+*** StoneGirl sets mode: +o Angra
+<ThE_rED> uc: otra idea interesante seria bajarme temas y aprender estilos
+<ThE_rED> y hacer el tema con el estilo y tecnica de alguien conocido
+<fac_DLB> yo quiero hacer mi propia version del tema de axel foley..... ninguna de 
+   las que hay me gusta
+<uctumi> red: nose, a mi no me cabee eh
+<Arlequin> haha fac
+<uctumi> arlequin: donde se bajan los temas del contest?
+<Arlequin> tienen que estar en hornet.org
+<uctumi> che, que mal que saquen hornet la puta madre
+<uctumi> oki
+<uctumi> fac: que cuentas?
+<uctumi> fac: pusieron tu demo en gigante?
+<fac_DLB> uctumi: no mucho....... algo de trabajo..
+<fac_DLB> cual demo?
+<Arlequin> q demo?
+* Pump DCC up to 100000 bytes
+* Pump DCC up to 1000000 bytes
+<Arlequin> fac pone: /pdcc 1000000
+Session Close: Fri Jan 22 01:04:26 1999
+
+Session Start: Fri Feb 05 00:59:31 1999
+* Logging #scene.ar to: [#scene_a.log]
+<darkman_> oka
+<Arlequin> listop
+<darkman_> che arl
+<darkman_> vamos a ir a la casa de alguien despues de la 2600?
+<Arlequin> sipe
+<Arlequin> nose, estaria ir a lo de red
+<Arlequin> pero quein le pregunta?
+<darkman_> listo, llevo un hd con info y verduras :)
+<Arlequin> ahaha
+<darkman_> haha
+<darkman_> estem
+14__[5quit14_)1: Ab^Bio has quit IRC (Ping timeout)
+<darkman_> no esta online ahora?
+*** Retrieving #scene.ar channel info...
+*** Arlequin sets mode: -b m0l3!*@*
+<Arlequin> creo que no
+<Arlequin> a ver
+<Arlequin> nope
+14__[5join14_)1: m0l3 has joined channel #scene.ar.
+*** happosai sets mode: +b m0l3!*@*
+*** m0l3 was kicked by happosai (banned: requested)
+*** StoneGirl sets mode: -b m0l3!*@*
+<Arlequin> lo baneo fugo
+<Arlequin> noseqporque
+14__[5join14_)1: m0l3 has joined channel #scene.ar.
+14__[5join14_)1: Ab^Bio has joined channel #scene.ar.
+14__[5quit14_)1: darkman_ has quit IRC (brb)
+*** happosai sets mode: +o Ab^Bio
+14__[5join14_)1: darkman_ has joined channel #scene.ar.
+<darkman_> uh
+<darkman_> paginas doradas suckea mas que paginas amarillas
+<Arlequin> manda manda la info
+<darkman_> =)
+<darkman_> para que estoy buscando en doradas
+<darkman_> despues posteamo en la mailing list
+<darkman_> o llevo el hd despues de la 2.6k
+<Arlequin> joya haha
+<Arlequin> yo mando los faxes
+<darkman_> okee
+<m0l3> que buscas en p. doradas?
+<darkman_> m0l3: queremos cardear putas
+*** m0l3 is now known as orochi
+*** Ab^Bio is now known as AcidBrain
+<orochi> dark: que pajero...
+<orochi> ;)
+<darkman_> hah
+<darkman_> nah, bolo estamos buscando sponsores para tf9
+<darkman_> tf99
+<orochi> sponsors? para que?
+<orochi> los sponsors son los que ponen la guita..
+<darkman_> para td99
+<AcidBrain> macromedia parece que ya está
+<darkman_> tf99
+<darkman_> posta?.. 
+<darkman_> arl: aplique un fax ahi :)
+<darkman_> haha
+<darkman_> ah, hay que hacerle la carta.. 
+<darkman_> y la carta a la nacion
+<darkman_> (red)
+<Arlequin> si
+<Arlequin> loco
+<Arlequin> red nisiquiera contesta la mailing
+<Arlequin> ucto tampoco
+<darkman_> uctu si
+<darkman_> dijo lo de ciencia$ economica$
+<darkman_> o flashie
+<darkman_> aaaaaaaaaaaaaaaaarh
+<orochi> decidieron cuando va a ser la tfp?
+<darkman_> hm.. todaviano
+<AcidBrain> junio r0kearia
+<AcidBrain> digo
+<AcidBrain> julio
+<Arlequin> muy temprano me parece
+<AcidBrain> o cuando mierda sean las vacasiones de invierno
+<AcidBrain> pongamos fecha loco
+<AcidBrain> arl: ni a palos
+<AcidBrain> arl: queres hacerla otra vez en verano?
+<AcidBrain> arl: nos cagamos de calor pal, hagamosla en winter #)
+<orochi> en verano!!
+<orochi> en verano!!
+<AcidBrain> niapalo
+<darkman_> ab: mira si por ahi.. hay pocos laburos, toda la gente y los 
+   sponsors?
+<AcidBrain> verano suxx
+<darkman_> :)
+<orochi> llevamos un turbo..
+<darkman_> orochi: la otra vez llevamos
+<darkman_> bah, llevo vitro
+<AcidBrain> bueh
+<AcidBrain> anyways
+<orochi> llevamo 2 turbo!
+<AcidBrain> pongamos la fecha maniana loco
+<orochi> igual...
+<AcidBrain> asi se puede organizar decentemente #)
+<orochi> si el verano que viene va a ser como este... tendriamos que llevar 
+   buzo...
+<orochi> :)
+<darkman_> verano listo =)
+<darkman_> hahaa
+<darkman_> no
+<darkman_> la otra vez nos tocaron los dias mas calurosos del anio
+<orochi> verano.. maza...
+<Arlequin> todo mal haha
+<Arlequin> litros y litros de goacola
+<AcidBrain> seh, eso es verdad
+<AcidBrain> bueh
+<AcidBrain> yo llevo un almanake maniana si consigo 3)
+<Arlequin> hehe dale
+<AcidBrain> che
+<AcidBrain> piramos a ver demos
+<darkman_> ahha que larvas
+<Arlequin> adios che
+14__[5quit14_)1: AcidBrain has quit IRC (asdasdasdasd)
+<orochi> dark: quien es phidgetk?
+<darkman_> orochi: una pareja que vive en usa..
+<Arlequin> la esposa de rt
+<orochi> ah..
+<darkman_> <creator_> darkman!
+<darkman_> heh =)
+<orochi> era mas facil reconocerla cuando era mrs_rt :)
+<darkman_> che
+<darkman_> aca me dice un programa que cierree todas las ventanas
+<darkman_> pero.. no way! =)
+<darkman_> veamos windoze capacidad
+<orochi> que programa?
+<darkman_> un prg. de ftp
+14__[5quit14_)1: darkman_ has quit IRC (Leaving)
+14__[5join14_)1: darkman_ has joined channel #scene.ar.
+<orochi> seen happosai
+<StoneGirl> happosai is on the channel right now!
+<happosai> You found me, orochi!
+<orochi> happosai sucks
+<darkman_> haha
+<darkman_> mole hablandole a los botes

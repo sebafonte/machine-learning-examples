@@ -1,0 +1,627 @@
+Session Start: Tue Jan 05 11:52:27 1999
+<Arlequin> op HERESY1
+Session Close: Tue Jan 05 11:52:33 1999
+
+Session Start: Wed Jan 06 01:00:56 1999
+<Arlequin> op HERESY1
+Session Close: Wed Jan 06 01:01:02 1999
+
+Session Start: Wed Jan 20 10:23:34 1999
+<Arlekino> op HERESY1
+Session Close: Wed Jan 20 10:23:43 1999
+
+Session Start: Wed Jan 20 22:45:42 1999
+<Arlekino> op HERESY1
+Session Close: Wed Jan 20 22:45:50 1999
+
+Session Start: Sat Jan 23 03:15:33 1999
+<Arlequin> op HERESY1
+Session Close: Sat Jan 23 03:15:38 1999
+
+Session Start: Sat Jan 23 03:44:00 1999
+<Arlequin> op HERESY1
+Session Close: Sat Jan 23 03:44:08 1999
+
+Session Start: Sat Jan 23 03:45:43 1999
+<Arlequin> op  HERESY1
+Session Close: Sat Jan 23 03:45:50 1999
+
+Session Start: Sat Jan 23 04:18:18 1999
+Chat with StoneGirl
+Waiting for acknowledgement...
+DCC Chat connection established
+-
+<StoneGirl> Enter your password.
+<Arlequin> HERESY1
+<Arlequin> .bans all
+<StoneGirl> Connected to StoneGirl, running Eggdrop v1.3.8  (c)1997 Robey Pointer
+<StoneGirl> 
+<StoneGirl>     ____                __ 
+<StoneGirl>    / __/___ _ ___ _ ___/ /____ ___   ___ 
+<StoneGirl>   / _/ / _ `// _ `// _  // __// _ \ / _ \   
+<StoneGirl>  /___/ \_, / \_, / \_,_//_/   \___// .__/ 
+<StoneGirl>       /___/ /___/                 /_/
+<StoneGirl>            ___    ____   
+<StoneGirl>           <  /   |_  /  
+<StoneGirl>           / /_  _/_ < 
+<StoneGirl>          /_/(_)/____/ (c) Robey Pointer 1997
+<StoneGirl>  
+<StoneGirl>  
+<StoneGirl> Hey arlequin!  My name is StoneGirl and I am running eggdrop v1.3.8, on Linux 2.0.32.
+<StoneGirl> Local time is now 17:42
+<StoneGirl> 
+<StoneGirl> Commands start with '.' (like '.quit' or '.help')
+<StoneGirl> Everything else goes out to the party line.
+<StoneGirl> 
+<StoneGirl> You can set up a greet with .greet [greet]
+<StoneGirl> You have no messages.
+<StoneGirl> *** arlequin joined the party line.
+<StoneGirl> [17:42] #arlequin# bans all
+<StoneGirl> Global bans:   (! = not active on #pvm)
+<StoneGirl>   [  1] *!*@vsat.mn (perm)
+<StoneGirl>         arlequin: requested
+<StoneGirl>         Created 17:41
+<StoneGirl> ! [  2] 2!*@* (perm)
+<StoneGirl>         arlequin: requested
+<StoneGirl>         Created 17:41
+<StoneGirl> ! [  3] *!*@mail.lifeaction.org (perm)
+<StoneGirl>         fugitivo: requested
+<StoneGirl>         Created 18 days ago, last used 17 days ago
+<StoneGirl> ! [  4] *!*rootsoul@* (perm)
+<StoneGirl>         fugitivo: requested
+<StoneGirl>         Created 32 days ago
+<StoneGirl> ! [  5] r00tsoul!*@* (perm)
+<StoneGirl>         fugitivo: requested
+<StoneGirl>         Created 32 days ago
+<StoneGirl> ! [  6] *!*@195.188.8.191 (perm)
+<StoneGirl>         fugitivo: requested
+<StoneGirl>         Created 46 days ago, last used 1 day ago
+<StoneGirl> ! [  7] *!*@azurduy-vlan2-cm209.fibertel.com.ar (perm)
+<StoneGirl>         ven0m0us: requested
+<StoneGirl>         Created 50 days ago, last used 7 days ago
+<StoneGirl> ! [  8] *!*@cr991266-a.pr1.on.wave.home.com (perm)
+<StoneGirl>         fugitivo: requested
+<StoneGirl>         Created 17 days ago, last used 15 days ago
+<StoneGirl> ! [  9] kerplunk_!*@* (perm)
+<StoneGirl>         fugitivo: requested
+<StoneGirl>         Created 15 days ago, last used 10 days ago
+<StoneGirl> ! [ 10] m0l3!*@* (perm)
+<StoneGirl>         fugitivo: requested
+<StoneGirl>         Created 8 days ago
+<StoneGirl> Channel bans for  #pvm:   (! = not active, * = not placed by bot)
+<StoneGirl> ! [ 11] topo!*@* (perm)
+<StoneGirl>         arlequin: 5mins without password
+<StoneGirl>         Created 38 days ago
+<StoneGirl> [17:42] GetOps: happosai requested that I unban him on #pvm.
+<StoneGirl> [17:42] #pvm: mode change '-b *!*@vsat.mn ' by StoneGirl!StoneGirl@ns2.nswbc.nsw.edu
+   .au
+<StoneGirl> [17:42] #pvm: mode change '-b *!*@vsat.mn ' by Angra!jarmoa@207.124.222.30
+<Arlequin> .-ban 2
+<StoneGirl> [17:43] #arlequin# -ban 2!*@*
+<StoneGirl> Removed ban: 2!*@*
+<Arlequin> .save
+<StoneGirl> [17:43] #arlequin# save
+<StoneGirl> Saving user file...
+<StoneGirl> [17:43] Writing user file...
+<StoneGirl> [17:43] Writing channel file ...
+<StoneGirl> [17:43] #pvm: mode change '+v hard2kill ' by Arlequin!Arle@ppp-microc-tr51-56.satlink.com
+<StoneGirl> [17:43] GetOps: happosai requested that I unban him on #pvm.
+<Arlequin> .who
+<Arlequin> .bots
+<Arlequin> .who happosai
+<StoneGirl> [17:44] #arlequin# who
+<StoneGirl> Party line members:  (* = owner, + = master, @ = op)
+<StoneGirl>   +arlequin  Arle@ppp-microc-tr51-56.satlink.com (con:mkcobxs)
+<StoneGirl> Bots connected:
+<StoneGirl>   ->+happosai  (22 Jan 13:59) eggdrop v1.3.8 <>
+<StoneGirl> [17:44] #arlequin# bots
+<StoneGirl> Bots: StoneGirl, happosai, angra
+<StoneGirl> (total: 3)
+<StoneGirl> [17:44] GetOps: happosai requested that I unban him on #pvm.
+<StoneGirl> [17:44] #arlequin# who happosai
+<StoneGirl> *** [happosai] Channels: #pvm  (eggdrop v1.3.8)
+<StoneGirl> *** [happosai] Admin: happosai
+<StoneGirl> *** [happosai] Party line members:  (* = owner, + = master, @ = op)
+<StoneGirl> *** [happosai] Bots connected:
+<StoneGirl> *** [happosai]   <-+stonegirl       eggdrop v1.3.8 <>
+<StoneGirl> *** [happosai]   <-+angra           eggdrop v1.3.8 <>
+<Arlequin> .-ban happosai
+<StoneGirl> [17:45] GetOps: happosai requested that I unban him on #pvm.
+<Arlequin> .-ban happosai #pvm
+<StoneGirl> No such ban.
+<Arlequin> .bans all
+<StoneGirl> No such ban.
+<StoneGirl> [17:46] #arlequin# bans all
+<StoneGirl> Global bans:   (! = not active on #pvm)
+<StoneGirl> ! [  1] *!*@vsat.mn (perm)
+<StoneGirl>         arlequin: requested
+<StoneGirl>         Created 17:41
+<StoneGirl> ! [  2] *!*@mail.lifeaction.org (perm)
+<StoneGirl>         fugitivo: requested
+<StoneGirl>         Created 18 days ago, last used 17 days ago
+<StoneGirl> ! [  3] *!*rootsoul@* (perm)
+<StoneGirl>         fugitivo: requested
+<StoneGirl>         Created 32 days ago
+<StoneGirl> ! [  4] r00tsoul!*@* (perm)
+<StoneGirl>         fugitivo: requested
+<StoneGirl>         Created 32 days ago
+<StoneGirl> ! [  5] *!*@195.188.8.191 (perm)
+<StoneGirl>         fugitivo: requested
+<StoneGirl>         Created 46 days ago, last used 1 day ago
+<StoneGirl> ! [  6] *!*@azurduy-vlan2-cm209.fibertel.com.ar (perm)
+<StoneGirl>         ven0m0us: requested
+<StoneGirl>         Created 50 days ago, last used 7 days ago
+<StoneGirl> ! [  7] *!*@cr991266-a.pr1.on.wave.home.com (perm)
+<StoneGirl>         fugitivo: requested
+<StoneGirl>         Created 17 days ago, last used 15 days ago
+<StoneGirl> ! [  8] kerplunk_!*@* (perm)
+<StoneGirl>         fugitivo: requested
+<StoneGirl>         Created 15 days ago, last used 10 days ago
+<StoneGirl> ! [  9] m0l3!*@* (perm)
+<StoneGirl>         fugitivo: requested
+<StoneGirl>         Created 8 days ago
+<StoneGirl> Channel bans for  #pvm:   (! = not active, * = not placed by bot)
+<StoneGirl> ! [ 10] topo!*@* (perm)
+<StoneGirl>         arlequin: 5mins without password
+<StoneGirl>         Created 38 days ago
+<StoneGirl> [17:46] GetOps: happosai requested that I unban him on #pvm.
+<StoneGirl> [17:47] GetOps: happosai requested that I unban him on #pvm.
+<Arlequin> .who happosai
+<StoneGirl> [17:47] #arlequin# who happosai
+<StoneGirl> *** [happosai] Channels: #pvm  (eggdrop v1.3.8)
+<StoneGirl> *** [happosai] Admin: happosai
+<StoneGirl> *** [happosai] Party line members:  (* = owner, + = master, @ = op)
+<StoneGirl> *** [happosai] Bots connected:
+<StoneGirl> *** [happosai]   <-+stonegirl       eggdrop v1.3.8 <>
+<StoneGirl> *** [happosai]   <-+angra           eggdrop v1.3.8 <>
+<Arlequin> .whois happosai
+<Arlequin> .chattr happosai
+<StoneGirl> [17:48] #arlequin# whois happosai
+<StoneGirl> HANDLE    PASS NOTES FLAGS           LAST
+<StoneGirl> happosai  yes      0 bfo             14:51 (#circe    )
+<StoneGirl>   #circe             s               14:51
+<StoneGirl>   #scene.ar          s               14:51
+<StoneGirl>   #pvm               s               14:51
+<StoneGirl>   HOSTS: *!*@202.145.246.168, *!*@www.bullet.com.tw
+<StoneGirl>   BOT FLAGS: hp
+<StoneGirl>   ADDRESS: www.bullet.com.tw
+<StoneGirl>      telnet: 98236, relay: 98236
+<StoneGirl> [17:48] #arlequin# chattr happosai 
+<StoneGirl> Global flags for happosai are now +bfo
+<StoneGirl> [17:48] GetOps: happosai requested that I unban him on #pvm.
+<Arlequin> .bans all
+<StoneGirl> [17:48] #arlequin# bans all
+<StoneGirl> Global bans:   (! = not active on #pvm)
+<StoneGirl> ! [  1] *!*@vsat.mn (perm)
+<StoneGirl>         arlequin: requested
+<StoneGirl>         Created 17:41
+<StoneGirl> ! [  2] *!*@mail.lifeaction.org (perm)
+<StoneGirl>         fugitivo: requested
+<StoneGirl>         Created 18 days ago, last used 17 days ago
+<StoneGirl> ! [  3] *!*rootsoul@* (perm)
+<StoneGirl>         fugitivo: requested
+<StoneGirl>         Created 32 days ago
+<StoneGirl> ! [  4] r00tsoul!*@* (perm)
+<StoneGirl>         fugitivo: requested
+<StoneGirl>         Created 32 days ago
+<StoneGirl> ! [  5] *!*@195.188.8.191 (perm)
+<StoneGirl>         fugitivo: requested
+<StoneGirl>         Created 46 days ago, last used 1 day ago
+<StoneGirl> ! [  6] *!*@azurduy-vlan2-cm209.fibertel.com.ar (perm)
+<StoneGirl>         ven0m0us: requested
+<StoneGirl>         Created 50 days ago, last used 7 days ago
+<StoneGirl> ! [  7] *!*@cr991266-a.pr1.on.wave.home.com (perm)
+<StoneGirl>         fugitivo: requested
+<StoneGirl>         Created 17 days ago, last used 15 days ago
+<StoneGirl> ! [  8] kerplunk_!*@* (perm)
+<StoneGirl>         fugitivo: requested
+<StoneGirl>         Created 15 days ago, last used 10 days ago
+<StoneGirl> ! [  9] m0l3!*@* (perm)
+<StoneGirl>         fugitivo: requested
+<StoneGirl>         Created 8 days ago
+<StoneGirl> Channel bans for  #pvm:   (! = not active, * = not placed by bot)
+<StoneGirl> ! [ 10] topo!*@* (perm)
+<StoneGirl>         arlequin: 5mins without password
+<StoneGirl>         Created 38 days ago
+<StoneGirl> [17:49] GetOps: happosai requested that I unban him on #pvm.
+<Arlequin> .inivte happosai #pvm
+<StoneGirl> What?  You need '.help'
+<Arlequin> .invite happosai #pvm
+<StoneGirl> [17:50] GetOps: happosai requested that I unban him on #pvm.
+<StoneGirl> [17:50] #arlequin# (#pvm) invite happosai #pvm
+<StoneGirl> Inviting happosai #pvm to #pvm.
+<StoneGirl> [17:51] GetOps: happosai requested that I unban him on #pvm.
+Session Close: Sat Jan 23 04:28:40 1999
+
+Session Start: Sat Jan 23 18:39:28 1999
+<Arlequin> op HERESY1
+Session Close: Sat Jan 23 18:39:34 1999
+
+Session Start: Sat Jan 23 23:06:44 1999
+Session Close: Sat Jan 23 23:06:45 1999
+
+Session Start: Mon Jan 25 22:25:34 1999
+<Arlequin> op HERESY1
+Session Close: Mon Jan 25 22:25:41 1999
+
+Session Start: Tue Jan 26 13:54:43 1999
+<Arlequin> op HERESY1
+Session Close: Tue Jan 26 13:54:49 1999
+
+Session Start: Tue Jan 26 22:55:28 1999
+<Arlequin> op HERESY!
+<Arlequin> op HERESY1
+Session Close: Tue Jan 26 22:55:35 1999
+
+Session Start: Thu Jan 28 23:58:24 1999
+<Arlequin> op HERESY1
+Session Close: Thu Jan 28 23:58:30 1999
+
+Session Start: Sat Jan 30 01:01:35 1999
+<Arlequin> op HERESY1
+Session Close: Sat Jan 30 01:01:41 1999
+
+Session Start: Sun Jan 31 20:55:34 1999
+<Arlequin> op HERESY1
+Session Close: Sun Jan 31 20:55:38 1999
+
+Session Start: Mon Feb 01 23:36:31 1999
+Chat with StoneGirl
+Waiting for acknowledgement...
+DCC Chat connection established
+-
+<StoneGirl> Enter your password.
+<Arlequin> HERESY1
+<StoneGirl> Connected to StoneGirl, running Eggdrop v1.3.8  (c)1997 Robey Pointer
+<StoneGirl> 
+<StoneGirl>     ____                __ 
+<StoneGirl>    / __/___ _ ___ _ ___/ /____ ___   ___ 
+<StoneGirl>   / _/ / _ `// _ `// _  // __// _ \ / _ \   
+<StoneGirl>  /___/ \_, / \_, / \_,_//_/   \___// .__/ 
+<StoneGirl>       /___/ /___/                 /_/
+<StoneGirl>            ___    ____   
+<StoneGirl>           <  /   |_  /  
+<StoneGirl>           / /_  _/_ < 
+<StoneGirl>          /_/(_)/____/ (c) Robey Pointer 1997
+<StoneGirl>  
+<StoneGirl>  
+<StoneGirl> Hey arlequin!  My name is StoneGirl and I am running eggdrop v1.3.8, on Linux 2.0.32.
+<StoneGirl> Local time is now 13:00
+<StoneGirl> 
+<StoneGirl> Commands start with '.' (like '.quit' or '.help')
+<StoneGirl> Everything else goes out to the party line.
+<StoneGirl> 
+<StoneGirl> You can set up a greet with .greet [greet]
+<StoneGirl> You have no messages.
+<StoneGirl> *** arlequin joined the party line.
+<Arlequin> ..adduser lordnitro
+<StoneGirl> What?  You need '.help'
+<Arlequin> .adduser lordnitro
+<StoneGirl> lordnitro is already known as lordnitro.
+<StoneGirl> [13:00] #pvm: mode change '-o LoRdNiTrO ' by Arlequin!Arle@ppp-microc-tr52-09.satlink.c
+   om
+<StoneGirl> [13:01] #pvm: mode change '+o divil ' by happosai!~happosai@www.bullet.com.tw
+<StoneGirl> [13:08] (LoRdNiTrO!lordnitr0@cr417652-a.surrey1.bc.wave.home.com) !*! failed IDENT 
+   LoRdNiTrO
+<StoneGirl> [13:09] (LoRdNiTrO!lordnitr0@cr417652-a.surrey1.bc.wave.home.com) !lordnitro! OP
+<Arlequin> .chattr lordnitro
+<Arlequin> .chattr lordnitro +o #pvm
+<StoneGirl> [13:10] #arlequin# chattr lordnitro 
+<StoneGirl> No global flags for lordnitro.
+<StoneGirl> [13:10] #arlequin# (#pvm) chattr lordnitro +o
+<StoneGirl> Channel flags for lordnitro on #pvm are now +o
+<StoneGirl> [13:12] (LoRdNiTrO!lordnitr0@cr417652-a.surrey1.bc.wave.home.com) !lordnitro! OP
+<StoneGirl> [13:12] #pvm: mode change '+o LoRdNiTrO ' by StoneGirl!~StoneGirl@ns2.nswbc.nsw.edu
+   .au
+<Arlequin> .chattr lordnitro +f #pvm
+<StoneGirl> [13:13] #arlequin# (#pvm) chattr lordnitro +f
+Session Close: Mon Feb 01 23:49:40 1999
+
+Session Start: Tue Feb 02 13:45:27 1999
+<Arlequin> op HERESY1
+Session Close: Tue Feb 02 13:45:33 1999
+
+Session Start: Tue Feb 02 23:37:36 1999
+<Arlequin> op HERESY1
+Session Close: Tue Feb 02 23:37:42 1999
+
+Session Start: Wed Feb 03 17:00:28 1999
+<Arlequin> op HERESY1
+Session Close: Wed Feb 03 17:00:32 1999
+
+Session Start: Wed Feb 03 23:36:08 1999
+<Arlequin> op HERESY1
+Session Close: Wed Feb 03 23:36:13 1999
+
+Session Start: Thu Feb 04 14:29:28 1999
+<Arlequin> op HERESY1
+Session Close: Thu Feb 04 14:29:35 1999
+
+Session Start: Thu Feb 04 22:22:43 1999
+<Arlequin> op HERESY1
+Session Close: Thu Feb 04 22:22:49 1999
+
+Session Start: Fri Feb 05 00:31:31 1999
+<Arlequin> op HERESY1
+Session Close: Fri Feb 05 00:31:37 1999
+
+Session Start: Fri Feb 05 01:01:58 1999
+Chat with StoneGirl
+Waiting for acknowledgement...
+DCC Chat connection established
+-
+<StoneGirl> Enter your password.
+<Arlequin> HERESY1
+<StoneGirl> Connected to StoneGirl, running Eggdrop v1.3.8  (c)1997 Robey Pointer
+<Arlequin> .bans all
+<StoneGirl> 
+<StoneGirl>     ____                __ 
+<StoneGirl>    / __/___ _ ___ _ ___/ /____ ___   ___ 
+<StoneGirl>   / _/ / _ `// _ `// _  // __// _ \ / _ \   
+<StoneGirl>  /___/ \_, / \_, / \_,_//_/   \___// .__/ 
+<StoneGirl>       /___/ /___/                 /_/
+<StoneGirl>            ___    ____   
+<StoneGirl>           <  /   |_  /  
+<StoneGirl>           / /_  _/_ < 
+<StoneGirl>          /_/(_)/____/ (c) Robey Pointer 1997
+<StoneGirl>  
+<StoneGirl>  
+<StoneGirl> Hey arlequin!  My name is StoneGirl and I am running eggdrop v1.3.8, on Linux 2.0.32.
+<StoneGirl> Local time is now 14:25
+<StoneGirl> 
+<StoneGirl> Commands start with '.' (like '.quit' or '.help')
+<StoneGirl> Everything else goes out to the party line.
+<StoneGirl> 
+<StoneGirl> You can set up a greet with .greet [greet]
+<StoneGirl> You have no messages.
+<StoneGirl> *** arlequin joined the party line.
+<StoneGirl> [14:25] #arlequin# bans all
+<StoneGirl> Global bans:   (! = not active on #pvm)
+<StoneGirl> ! [  1] *!*@mail.lifeaction.org (perm)
+<StoneGirl>         fugitivo: requested
+<StoneGirl>         Created 31 days ago, last used 30 days ago
+<StoneGirl> ! [  2] *!*rootsoul@* (perm)
+<StoneGirl>         fugitivo: requested
+<StoneGirl>         Created 45 days ago
+<StoneGirl> ! [  3] r00tsoul!*@* (perm)
+<StoneGirl>         fugitivo: requested
+<StoneGirl>         Created 45 days ago
+<StoneGirl>   [  4] *!*@195.188.8.191 (perm)
+<StoneGirl>         fugitivo: requested
+<StoneGirl>         Created 59 days ago, last used 6 days ago
+<StoneGirl> ! [  5] *!*@azurduy-vlan2-cm209.fibertel.com.ar (perm)
+<StoneGirl>         ven0m0us: requested
+<StoneGirl>         Created 62 days ago, last used 20 days ago
+<StoneGirl> ! [  6] *!*@cr991266-a.pr1.on.wave.home.com (perm)
+<StoneGirl>         fugitivo: requested
+<StoneGirl>         Created 30 days ago, last used 28 days ago
+<StoneGirl>   [  7] kerplunk_!*@* (perm)
+<StoneGirl>         fugitivo: requested
+<StoneGirl>         Created 28 days ago, last used 09:14
+<StoneGirl>   [  8] m0l3!*@* (perm)
+<StoneGirl>         fugitivo: requested
+<StoneGirl>         Created 21 days ago, last used 14:25
+<StoneGirl> ! [  9] *!*@vsat.mn (perm)
+<StoneGirl>         arlequin: requested
+<StoneGirl>         Created 12 days ago
+<StoneGirl>   [ 10] *!*venom@*.realise.com (perm)
+<StoneGirl>         [sludge]: requested
+<StoneGirl>         Created 12 days ago, last used 2 days ago
+<StoneGirl> Channel bans for  #pvm:   (! = not active, * = not placed by bot)
+<StoneGirl> ! [ 11] topo!*@* (perm)
+<StoneGirl>         arlequin: 5mins without password
+<StoneGirl>         Created 51 days ago
+<StoneGirl> * [ 12] *!*i586@209.13.5.* (Arlequin!Arle@ppp-microc-tr52-29.satlink.com) (active 5842:43)
+<StoneGirl> * [ 13] *!*venom@195.188.8.* ([sludge]!sludge@rdutlp12a5.impsat.net.ar) (active 5842:42)
+<StoneGirl> * [ 14] *!*a@*.fibertel.com.ar ([sludge]!sludge@200.41.36.195) (active 3637:51)
+<StoneGirl> * [ 15] *!*@proxy.advance.com.ar (biomemo!imacboy@200.41.37.74) (active 309:59)
+<StoneGirl> [14:25] (Spek!dj-spektor@ppp57-ts2.servicenet.com.ar) !*! failed IDENT Spek
+<StoneGirl> [14:25] (Spek!dj-spektor@ppp57-ts2.servicenet.com.ar) !spektor! OP
+<StoneGirl> [14:25] #pvm: mode change '+o Spek ' by StoneGirl!~StoneGirl@ns2.nswbc.nsw.edu.au
+<Arlequin> .-ban 8
+<Arlequin> .save
+<StoneGirl> [14:26] #arlequin# -ban m0l3!*@*
+<StoneGirl> Removed ban: m0l3!*@*
+<StoneGirl> [14:26] #arlequin# save
+<StoneGirl> Saving user file...
+<StoneGirl> [14:26] Writing user file...
+<StoneGirl> [14:26] Writing channel file ...
+<StoneGirl> [14:26] #pvm: mode change '-b m0l3!*@* ' by StoneGirl!~StoneGirl@ns2.nswbc.nsw.edu.a
+   u
+<StoneGirl> [14:26] -Spek (Spek!dj-spektor@ppp57-ts2.servicenet.com.ar)- DCC Chat 
+   (200.41.157.240)
+<StoneGirl> [14:26] Refused DCC chat (no access): Spek!dj-spektor@ppp57-ts2.servicenet.com.ar
+<StoneGirl> [14:26] CTCP DCC: CHAT chat 3358170608 3689 from Spek (dj-spektor@ppp57-ts2.servic
+   enet.com.ar)
+<StoneGirl> [14:28] GetOps: PiChan requested that I unban him on #pvm.
+<StoneGirl> [14:28] #pvm: mode change '-bbbb *!*a@*.fibertel.com.ar *!*i586@209.13.5.* 
+   *!*venom@195.188.8.* *!*@195.188.8.191 ' by happosai!~happosai@www.bullet.com.tw
+<StoneGirl> [14:28] #pvm: mode change '-bbb *!*venom@*.realise.com kerplunk_!*@* 
+   *!*@proxy.advance.com.ar ' by happosai!~happosai@www.bullet.com.tw
+<StoneGirl> [14:28] #pvm: mode change '-bbbb *!*i586@209.13.5.* *!*venom@195.188.8.* 
+   *!*@195.188.8.191 *!*venom@*.realise.com ' by StoneGirl!~StoneGirl@ns2.nswbc.nsw.edu.au
+<StoneGirl> [14:28] #pvm: mode change '-bbb *!*a@*.fibertel.com.ar kerplunk_!*@* 
+   *!*@proxy.advance.com.ar ' by StoneGirl!~StoneGirl@ns2.nswbc.nsw.edu.au
+<StoneGirl> [14:28] GetOps: PiChan requested that I unban him on #pvm.
+<StoneGirl> [14:29] GetOps: PiChan requested that I unban him on #pvm.
+Session Close: Fri Feb 05 01:06:54 1999
+
+Session Start: Fri Feb 05 16:10:58 1999
+<Arlequin> op HERESY!
+<Arlequin> op HERESY1
+Session Close: Fri Feb 05 16:11:06 1999
+
+Session Start: Sat Feb 06 21:14:50 1999
+<Arlequin> op HERESY1
+Session Close: Sat Feb 06 21:14:56 1999
+
+Session Start: Sun Feb 07 00:41:40 1999
+<Arlequin> op HERESY1
+Session Close: Sun Feb 07 00:41:47 1999
+
+Session Start: Sun Feb 07 18:52:11 1999
+<Arlequin> op HERESY1
+Session Close: Sun Feb 07 18:52:16 1999
+
+Session Start: Sun Feb 07 20:36:19 1999
+<Arlequin> op HERESY1
+Session Close: Sun Feb 07 20:36:24 1999
+
+Session Start: Sun Feb 07 23:23:19 1999
+<Arlequin> op HERESY1
+Session Close: Sun Feb 07 23:23:24 1999
+
+Session Start: Mon Feb 08 00:16:56 1999
+Chat with StoneGirl
+Waiting for acknowledgement...
+DCC Chat connection established
+-
+<StoneGirl> Enter your password.
+<Arlequin> HERESY!
+<StoneGirl> Negative on that, Houston.
+Session Close: Mon Feb 08 00:17:09 1999
+
+Session Start: Tue Feb 09 23:18:34 1999
+<Arlequin> op HERESY1
+Session Close: Tue Feb 09 23:18:39 1999
+
+Session Start: Wed Feb 10 13:56:55 1999
+<Arlequin> op HERESY1
+Session Close: Wed Feb 10 13:57:00 1999
+
+Session Start: Wed Feb 10 23:20:08 1999
+<Arleka> op HERESY1
+Session Close: Wed Feb 10 23:20:14 1999
+
+Session Start: Wed Feb 10 23:21:24 1999
+Chat with StoneGirl
+Waiting for acknowledgement...
+DCC Chat connection established
+-
+<StoneGirl> Enter your password.
+<Arleka> HERESY!
+<StoneGirl> Negative on that, Houston.
+Session Close: Wed Feb 10 23:22:12 1999
+
+Session Start: Thu Feb 11 11:30:29 1999
+<Arlequin> op HERESY1
+Session Close: Thu Feb 11 11:30:34 1999
+
+Session Start: Thu Feb 11 22:24:23 1999
+<Arlequin> op HERESY1
+Session Close: Thu Feb 11 22:24:28 1999
+
+Session Start: Thu Feb 11 23:29:17 1999
+<Arlequin> op HERESY1
+Session Close: Thu Feb 11 23:29:21 1999
+
+Session Start: Sat Feb 13 00:22:21 1999
+<Arlequin> op HERESY1
+Session Close: Sat Feb 13 00:22:27 1999
+
+Session Start: Sat Feb 13 13:37:30 1999
+<Arlequin> op HERESY1
+Session Close: Sat Feb 13 13:37:34 1999
+
+Session Start: Sat Feb 13 23:52:19 1999
+<Arlequin> op HERESY1
+Session Close: Sat Feb 13 23:52:25 1999
+
+Session Start: Sun Feb 14 16:29:25 1999
+<Arlequin> op HERESY1
+Session Close: Sun Feb 14 16:29:29 1999
+
+Session Start: Sun Feb 14 19:42:11 1999
+<Arlequin> op HERESY1
+Session Close: Sun Feb 14 19:42:17 1999
+
+Session Start: Sun Feb 14 21:16:17 1999
+<Arlequin> op HERESY1
+Session Close: Sun Feb 14 21:16:21 1999
+
+Session Start: Sun Feb 14 21:16:42 1999
+<Arlequin> op HERESY1
+Session Close: Sun Feb 14 21:16:47 1999
+
+Session Start: Sun Feb 14 22:25:44 1999
+<Arlequin> op HERESY1
+Session Close: Sun Feb 14 22:25:49 1999
+
+Session Start: Mon Feb 15 22:39:49 1999
+<Arlequin> op HERESY1
+Session Close: Mon Feb 15 22:39:53 1999
+
+Session Start: Mon Feb 15 22:42:57 1999
+Chat with StoneGirl
+Waiting for acknowledgement...
+DCC Chat connection established
+-
+<StoneGirl> Enter your password.
+<Arlequin> HERESY1
+<StoneGirl> Connected to StoneGirl, running Eggdrop v1.3.8  (c)1997 Robey Pointer
+<StoneGirl> 
+<StoneGirl>     ____                __ 
+<StoneGirl>    / __/___ _ ___ _ ___/ /____ ___   ___ 
+<StoneGirl>   / _/ / _ `// _ `// _  // __// _ \ / _ \   
+<StoneGirl>  /___/ \_, / \_, / \_,_//_/   \___// .__/ 
+<StoneGirl>       /___/ /___/                 /_/
+<StoneGirl>            ___    ____   
+<StoneGirl>           <  /   |_  /  
+<StoneGirl>           / /_  _/_ < 
+<StoneGirl>          /_/(_)/____/ (c) Robey Pointer 1997
+<StoneGirl>  
+<StoneGirl>  
+<StoneGirl> Hey arlequin!  My name is StoneGirl and I am running eggdrop v1.3.8, on Linux 2.0.32.
+<StoneGirl> Local time is now 12:08
+<StoneGirl> 
+<StoneGirl> Commands start with '.' (like '.quit' or '.help')
+<StoneGirl> Everything else goes out to the party line.
+<StoneGirl> 
+<StoneGirl> You can set up a greet with .greet [greet]
+<StoneGirl> You have no messages.
+<StoneGirl> *** arlequin joined the party line.
+<Arlequin> .match zubfatal
+<StoneGirl> [12:08] #arlequin# match zubfatal
+<StoneGirl> *** Matching 'zubfatal':
+<StoneGirl> HANDLE    PASS NOTES FLAGS           LAST
+<StoneGirl> zubfatal  yes      0 hpx             12:06 (partyline )
+<StoneGirl>   HOSTS: *!DemonClaw@*.ppp.get2net.dk
+<StoneGirl>   Saved Console Settings:
+<StoneGirl>     Channel: #pvm
+<StoneGirl>     Console flags: -, Strip flags: -, Echo: yes
+<StoneGirl>     Page setting: 0, Console channel: 0
+<StoneGirl> --- Found 1 match.
+<Arlequin> .chattr zubfatal +o #pvm
+<StoneGirl> [12:08] #arlequin# (#pvm) chattr zubfatal +o
+<Arlequin> .save
+<StoneGirl> Channel flags for zubfatal on #pvm are now +o
+<StoneGirl> [12:08] #arlequin# save
+<StoneGirl> Saving user file...
+<StoneGirl> [12:08] Writing user file...
+<StoneGirl> [12:08] Writing channel file ...
+<Arlequin> .match zubfatal
+<StoneGirl> [12:08] #arlequin# match zubfatal
+<StoneGirl> *** Matching 'zubfatal':
+<StoneGirl> HANDLE    PASS NOTES FLAGS           LAST
+<StoneGirl> zubfatal  yes      0 hpx             12:06 (partyline )
+<StoneGirl>   #pvm               o               never
+<StoneGirl>   HOSTS: *!DemonClaw@*.ppp.get2net.dk
+<StoneGirl>   Saved Console Settings:
+<StoneGirl>     Channel: #pvm
+<StoneGirl>     Console flags: -, Strip flags: -, Echo: yes
+<StoneGirl>     Page setting: 0, Console channel: 0
+<StoneGirl> --- Found 1 match.
+<Arlequin> .adduser zubfatal
+<StoneGirl> zubfatal is already known as zubfatal.
+<StoneGirl> [12:09] #pvm: mode change '-o ZubFataL ' by Arlequin!Arle@ppp-microc-tr52-39.satlink.co
+   m
+<StoneGirl> [12:12] (ZubFataL!DemonClaw@p202-33.ppp.get2net.dk) !zubfatal! OP
+<StoneGirl> [12:12] (ZubFataL!DemonClaw@p202-33.ppp.get2net.dk) !*! failed IDENT ZubFataL
+<StoneGirl> [12:12] [ZubFataL!DemonClaw@p202-33.ppp.get2net.dk] ehhehehehe 
+<StoneGirl> [12:13] #pvm: mode change '+o ZubFataL ' by StoneGirl!~StoneGirl@203.102.162.4
+Session Close: Mon Feb 15 22:57:30 1999
+
+Session Start: Tue Feb 16 00:31:49 1999
+<Ar2lequin> op HERESY
+Session Close: Tue Feb 16 00:31:54 1999
+

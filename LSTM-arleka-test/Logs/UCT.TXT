@@ -1,0 +1,46 @@
+<uctumi> f u g i t i v o q u i e r o o p
+<uctumi> :)
+<AcidBrain> uct: happosai dijo :)
+<fugitivo> uctumi: pedile a happosai
+<uctumi> ah bueno
+<uctumi> no me da
+<fugitivo> uctumi: a ver, pedi de vuelta
+<fugitivo> uctumi: usa el ident
+<uctumi> fug: ident? que es eso?
+<AcidBrain> aaa?!
+<uctumi> explica
+<fugitivo> estas usando otro isp del que estaban usando cuando te agregue al bot
+<AcidBrain> ./msg happosai ident <tupass>
+<fugitivo> pone /msg happosai ident tupassword
+<uctumi> fugitivo: ahhh
+<uctumi> fugitivo: thankiu
+<fugitivo> hace el ident!
+<uctumi> ya lo hice pal
+<uctumi> no anda
+<fugitivo> no hiciste el ident
+<uctumi> si lo hice
+<uctumi> lo hago otra vez
+*** panoramix (panoramix@ppp73-ts1.servicenet.com.ar) has joined #pcboard
+<fugitivo> deja
+<fugitivo> lo hago yo manualmente
+*** happosai sets mode: +o panoramix
+*** AcidBrain sets mode: +o uctumi
+<AcidBrain> uct: ya ta, dejaros de joder.
+<uctumi> pero nose porque
+<uctumi> acid: no es la cosa, porque no funca el bot
+<fugitivo> proba ahora uct
+<AcidBrain> uct: no rompas las bolas :)
+*** uctumi sets mode: -o uctumi
+<uctumi> pondre mal la pass?
+<uctumi> por ahi es eso
+<fugitivo> debes estar poniendo mal el pass
+<uctumi> ahh
+<uctumi> si
+<AcidBrain> diosmio
+<uctumi> que boloz
+*** happosai sets mode: +o uctumi
+<uctumi> ahi ta!
+<uctumi> todo bien :)
+<panoramix> hehe
+*** [rnt] (pepe@ppp-microc-tr51-07.satlink.com) has joined #pcboard
+*** Arlequin (Arle@ppp-microc-tr51-01.satlink.com) has joined #pcboard

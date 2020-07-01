@@ -1,0 +1,19 @@
+Session Start: Wed Feb 03 00:36:42 1999
+<Sneaker> (15,4.:SnEaKeRs:.) !sneakstat Help
+<Sneaker> !sneakstat               = shows sitestat
+<Sneaker> !sneakstat utop          = top uploaders
+<Sneaker> !sneakstat dtop          = top downloaders
+<Sneaker> !sneakstat user <user>   = info for user
+<Sneaker> !sneakstat group utop    = group top uploaders
+<Sneaker> !sneakstat group dtop    = group top downloaders
+<Sneaker> !sneakstat group <group> = info on group
+<Sneaker> !sneaksearch <pattern>   = searches upload db
+<Sneaker> !sneakdupe <pattern>     = searches dupe db
+<Sneaker> !sneaklast               = show last uploads
+<Sneaker> !sneakdir                = shows info on dir
+<Sneaker> (15,4.:SnEaKeRs:.) Operator Commands
+<Sneaker> !sneakgroup <login> <group> = Set users' groups
+<Sneaker> !sneakann <announcement>    = Announcement
+<Sneaker> !sneaknuke <reason> <mult> <dir>  = nuke directory
+Session Close: Wed Feb 03 00:49:52 1999
+

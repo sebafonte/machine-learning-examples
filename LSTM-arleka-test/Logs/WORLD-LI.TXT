@@ -1,0 +1,314 @@
+                __      __
+               /  \    /  \____ _______  ____ ________
+               \   \/\/   |__  \\_  __ \/ __ \\___   /
+                \        / / __ \|  | \|  ___/ /    /
+                 \__/\  / (____  /__|   \___  >_____ \
+                  __  \/  __   \/       .__ \/   .__\/
+                 /  \    /  \___________|  |   __| _/
+                 \   \/\/   /  _ \_  __ \  |  / __ |
+                  \        (  <_> )  | \/  |_/ /_/ |
+                   \__/\  / \____/|__|  |____|____ |
+                        \/                        \/
+                 (-) The Ultimate Warez Domination (-)
+
+                          <-] By Kuti '98 [->
+
+  
+ $$       $$                    $$$$$$$                            *          
+  $$     $$  $$$   $$$$$  $$$$$  $   $$      *                              ,    
+  $$     $$   $$$$  $$  $  $        $$                                    ,$;$,
+   $$ $ $$   $$,$$  $$$$   $´´     $$                       ,4$$$4,     :$;;;;;$:
+    $$ $$    $$ $$  $$  $ $$$$$   $$  $                   ,$ /; ,; $,   :$;;;;;$:
+                                 $$$$$$$                 $$;;;   ;; $$    ´$;$´          
+  $$       $$                                            $$;;   .,;;$$      ´          
+   $$     $$  $$$$  $$$$$  $$    $$$$$         *         $$ ;    ;;;$$      *              
+   $$     $$ $$  $$  $$  $ $$     $$  $                   ´$;;    ;$´            
+    $$ $ $$  $$  $$  $$$$  $$  $  $$  $     *               ´4$$$4´                     
+     $$ $$    $$$$   $$  $ $$$$$ $$$$$                               *             
+                       --=< by Kuti >=--
+
+This list is available on #Warez-World on both Euronet and Efnet.  To obtain
+the list just type !worldlist once you have entered the channel.  This list
+is best viewed from Notepad.
+
+
+
+****NOTE:  We have made a big change in the way that you can submit sites to be added
+****       to the !WorldList.  Now, all you have to do is type !Addsite in the channel
+****       and our sitecheck bot will dcc chat you.  After you have acknowledged the
+****       dcc chat with the bot, the bot will give you a list of options.  If you choose
+****       to add a site, the bot will prompt you for the IP, port, logon, password and
+****       directory.  We have broken up the addsite a bit to make easier for you all.
+****       It couldn't be much easier than this :).......
+****       HAVE FUN AND HELP US MAKE THE LIST BETTER FOR EVERYONE.  THANX!!!!
+
+****       For those people using mirc to addsites with !addsite, you need to use quotes
+****       around the directory path for the mirc script to accept it as it thinks anything
+****       preceded by a / is a command.
+
+
+       UNLESS OTHERWISE NOTED L/P(LOGON/PASSWORD): Anonymous  PORT: 21
+
+
+========================================================================================
+                          SITES VERIFIED 2-7-99
+========================================================================================
+IP: 209.180.185.230
+PORT: 21
+DIR: "/"
+  read the text file How_to_get_in.txt
+
+IP: 216.122.8.42
+PORT: 21
+DIR: "/"
+  check -=Uploads=- dir lotsa stuff there
+
+IP: 
+
+very slow day to day 
+                   Kuti
+========================================================================================
+                          SITES VERIFIED 2-6-99
+========================================================================================
+IP: 132.229.149.121
+  very nice site
+
+IP: 129.21.101.130
+l/p: warez/warez
+  ok site
+
+IP: 208.160.134.65
+DIR: /pub
+  nice lil site
+
+IP: 209.240.15.13
+  enjoy
+
+IP: 216.25.18.250 
+DIR: /public/_vti_cnf/tmp/WarezGraphics/
+  messy site but there is stuff here
+
+IP: 130.195.43.7 
+DIR: /pub/incoming/eredata/.new/.null/  /3dee
+  a few graphix appz, plugs and other stuff
+
+IP: 203.38.171.250 
+DIR: /pub/incoming
+  ok site
+
+IP: 24.128.132.66
+DIR: /pub
+  a few odds and ends
+
+IP: 24.3.11.15
+l/p: mp3phish/mp3phish
+  not much
+
+IP: 24.226.84.235
+l/p: leech/nam
+  mostly an mp3 site
+
+IP: 198.203.164.10 
+DIR: /incoming/.tmp/.null/DI/WarezGraphics/
+  ok site
+========================================================================================
+                          SITES VERIFIED 2-5-99
+========================================================================================
+IP: 167.206.77.146 -  BUSY
+
+IP: 24.226.112.29 -  BUSY
+PORT: 21
+DIR: /
+LOGIN: wareznorth
+PASS: wareznorth
+
+IP: 24.92.235.87 
+PORT: 21
+DIR: /
+LOGIN: warez
+PASS: warez
+  nice lil site
+========================================================================================
+                          SITES VERIFIED 4-2-99 by Kuti
+========================================================================================
+IP: 134.103.24.2 - BUSY (10 users max)
+PORT: 21
+DIR: /pub/
+
+IP: ftp.uni-rostock.de
+PORT: 21
+DIR: /incoming/
+  turok 2, and some stuff on this site
+
+IP: 161.53.119.60
+PORT: 2121
+LOGIN:mp3
+PASS: mp3
+  some mp3z
+
+IP: 202.103.108.228
+PORT: 6666
+DIR: /incoming/
+LOGIN: warez
+PASS: warez
+  fucked up site....check it
+
+IP: ftp.epsilon3.com
+PORT: 21
+DIR: /pub/humor/YAWN/ifxp/
+  0-day appz
+
+IP: 210.115.168.133
+PORT: 21
+DIR: /pub/incoming/Bal4/
+  bleh
+
+IP: ftp.nrsc.no
+PORT: 21
+DIR: /pub/incoming/
+  15kb of crap
+
+IP: 208.240.133.164
+PORT: 21
+DIR: /_vti_pvt/
+  nice lil site
+
+IP: 24.226.189.12 - BUSY (5 users max)
+PORT: 22
+LOGIN: how
+PASS: how
+========================================================================================
+                          SITES VERIFIED 2-2-99
+========================================================================================
+IP: 128.210.205.21 
+PORT: 200
+DIR: 
+LOGIN: arcwarez
+PASS: freewarez
+  ok site....check out the upload directory
+
+IP: 132.170.40.60 - BUSY 
+PORT: 411
+DIR: 
+LOGIN: kfp
+PASS: rulez
+
+IP: 167.206.222.239 
+PORT: 33
+DIR: "/"
+LOGIN: warez
+PASS: warez
+  ok warez site
+
+IP: 203.38.171.250 
+PORT: 21
+DIR: /pub/incoming
+  nice lil pub site
+
+IP: 205.241.211.133 
+PORT: 7070
+DIR: "/"
+LOGIN: 000
+PASS: 000
+  enjoy :)
+
+IP: 212.33.78.179
+PORT: 22
+l/p: warez/warez
+  ok site
+
+IP: 24.0.119.14 
+PORT: 21
+DIR: "/"
+LOGIN: mp3
+PASS: mp3
+  ***NOTE:  SITE DOES NOT WORK WITH CUTEFTP V1.7 OR OLDER..USE V2.0 OR ABOVE OR A DIFFERANT
+  FTP CLIENT
+
+IP: 24.2.231.56 
+PORT: 9872
+DIR: "/"
+LOGIN: warez1
+PASS: warez
+  enjoy :)
+
+IP: 24.64.108.92 
+PORT: 666
+DIR: "/"
+LOGIN: warez
+PASS: warez
+  enjoy :)
+
+
+
+========================================================================================
+                          SITES VERIFIED 1-24-99
+========================================================================================
+IP: 209.183.21.79 (209.183.21.79)
+PORT: 123
+DIR: "/"
+LOGIN: mpeg3
+PASS: mpeg3
+  kinda kewlio mp3 site....check it out
+
+IP: 24.1.237.89 (24.1.237.89)
+PORT: 21
+DIR: c:\uploads
+LOGIN: warez
+PASS: warez
+  couple of sounds tracks in the logon dir...you have to manually change to
+  c:/uploads   -then you'll find the warez
+
+IP: 24.128.132.66 (24.128.132.66)
+PORT: 21
+DIR: "/pub/"
+  nice lil pub site
+
+IP: 159.213.43.131
+DIR: /Temp
+  bunch of mp3's
+
+IP: 198.248.166.89
+L/P: warez/warez
+  nice site
+
+IP: 209.240.15.13
+  cool site
+
+IP: 209.204.253.231  -  BUSY
+
+IP: 198.76.100.20
+DIR: /HoW
+  some newer gamez and stuff here
+
+IP: 204.210.56.196
+L/P: skywalker/jeti
+  mostly good gamez
+========================================================================================
+                          SITES VERIFIED 1-16-99
+========================================================================================
+IP: 206.252.176.62
+L/P: 8/8
+  oddball stuff
+
+IP: 210.105.185.9 
+DIR: /pub/WebPDS/game_classic
+  old sheit
+
+IP: 195.113.126.7  -   
+DIR: /incoming
+  ok pub...overloaded with ppl though and kinda slow
+
+IP: 204.210.56.196
+l/p: luke/force
+DIR: /Gamez
+  a bugs life, astroids, blood2, civilization 2 gold, commandos, dune 2000, extreampinball,
+  fifa 99, flight sim 98, half, interstate 76 gold, mmm, railroad tycoon 2, roadrash, sin,
+  snowmobile racing, tombraider3, worms2....and a few zips
+
+IP: 194.226.192.67  -  BUSY
+DIR: /pub/windows
+
+IP: 202.103.108.228  -  BUSY
+port: 6666
+l/p: warez/warez

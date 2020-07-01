@@ -1,0 +1,298 @@
+Session Start: Fri Jan 22 22:55:45 1999
+<Arlequin> op HERESY1
+Session Close: Fri Jan 22 22:55:50 1999
+
+Session Start: Sat Jan 23 03:46:58 1999
+Chat with Angra
+Waiting for acknowledgement...
+DCC Chat connection established
+-
+<Angra> Enter your password.
+<Arlequin> HERESY1
+<Angra> Connected to Angra, running Eggdrop v1.3.8  (c)1997 Robey Pointer
+<Arlequin> .bans all
+<Angra> 
+<Angra>     ____                __ 
+<Angra>    / __/___ _ ___ _ ___/ /____ ___   ___ 
+<Angra>   / _/ / _ `// _ `// _  // __// _ \ / _ \   
+<Angra>  /___/ \_, / \_, / \_,_//_/   \___// .__/ 
+<Angra>       /___/ /___/                 /_/
+<Angra>            ___    ____   
+<Angra>           <  /   |_  /  
+<Angra>           / /_  _/_ < 
+<Angra>          /_/(_)/____/ (c) Robey Pointer 1997
+<Angra>  
+<Angra>  
+<Angra> Hey arlequin!  My name is Angra and I am running eggdrop v1.3.8, on Linux 2.0.30.
+<Angra> Local time is now 02:53
+<Angra> 
+<Angra> Commands start with '.' (like '.quit' or '.help')
+<Angra> Everything else goes out to the party line.
+<Angra> 
+<Angra> You can set up a greet with .greet [greet]
+<Angra> You have no messages.
+<Angra> *** arlequin joined the party line.
+<Angra> [02:53] #arlequin# bans all
+<Angra> Global bans:   (! = not active on #pvm)
+<Angra> ! [  1] *!venom@195.188.8.191 (perm)
+<Angra>         [sludge]: requested
+<Angra>         Created 1 day ago
+<Angra>   [  2] *!*@freddy.realise.com (perm)
+<Angra>         fugitivo: requested
+<Angra>         Created 6 days ago, last used 02:51
+<Angra>   [  3] hard2kill!*@* (perm)
+<Angra>         fugitivo: requested
+<Angra>         Created 6 days ago, last used 02:51
+<Angra> ! [  4] *!*@vsat.mn (perm)
+<Angra>         fugitivo: requested
+<Angra>         Created 16 days ago, last used 1 day ago
+<Angra> ! [  5] *!*@mail.lifeaction.org (perm)
+<Angra>         fugitivo: requested
+<Angra>         Created 18 days ago, last used 17 days ago
+<Angra> ! [  6] *!*rootsoul@* (perm)
+<Angra>         fugitivo: requested
+<Angra>         Created 32 days ago
+<Angra> ! [  7] r00tsoul!*@* (perm)
+<Angra>         fugitivo: requested
+<Angra>         Created 32 days ago
+<Angra> ! [  8] *!*@195.188.8.191 (perm)
+<Angra>         fugitivo: requested
+<Angra>         Created 46 days ago, last used 1 day ago
+<Angra> ! [  9] *!*@azurduy-vlan2-cm209.fibertel.com.ar (perm)
+<Angra>         ven0m0us: requested
+<Angra>         Created 49 days ago, last used 7 days ago
+<Angra> ! [ 10] *!*@cr991266-a.pr1.on.wave.home.com (perm)
+<Angra>         fugitivo: requested
+<Angra>         Created 17 days ago, last used 15 days ago
+<Angra> ! [ 11] kerplunk_!*@* (perm)
+<Angra>         fugitivo: requested
+<Angra>         Created 15 days ago, last used 10 days ago
+<Angra> ! [ 12] m0l3!*@* (perm)
+<Angra>         fugitivo: requested
+<Angra>         Created 8 days ago
+<Angra> Channel bans for  #pvm:   (! = not active, * = not placed by bot)
+<Angra> [02:54] GetOps: Requesting ops from stonegirl on #circe
+<Angra> [02:54] GetOps: MSG from StoneGirl: I don't recognize you on IRC (your ident: 
+   Angra!~angra@207.124.222.30)
+<Arlequin> .-ban 3
+<Angra> [02:54] #arlequin# -ban hard2kill!*@*
+<Angra> Removed ban: hard2kill!*@*
+<Arlequin> .netsave
+<Angra> What?  You need '.help'
+<Arlequin> .save
+Session Close: Sat Jan 23 03:48:53 1999
+
+Session Start: Sat Jan 23 04:15:07 1999
+Chat with Angra
+Waiting for acknowledgement...
+DCC Chat connection established
+-
+<Angra> Enter your password.
+<Arlequin> HERESY1
+<Angra> Connected to Angra, running Eggdrop v1.3.8  (c)1997 Robey Pointer
+<Angra> 
+<Angra>     ____                __ 
+<Angra>    / __/___ _ ___ _ ___/ /____ ___   ___ 
+<Angra>   / _/ / _ `// _ `// _  // __// _ \ / _ \   
+<Angra>  /___/ \_, / \_, / \_,_//_/   \___// .__/ 
+<Angra>       /___/ /___/                 /_/
+<Angra>            ___    ____   
+<Angra>           <  /   |_  /  
+<Angra>           / /_  _/_ < 
+<Angra>          /_/(_)/____/ (c) Robey Pointer 1997
+<Angra>  
+<Angra>  
+<Angra> Hey arlequin!  My name is Angra and I am running eggdrop v1.3.8, on Linux 2.0.30.
+<Angra> Local time is now 03:21
+<Angra> 
+<Angra> Commands start with '.' (like '.quit' or '.help')
+<Angra> Everything else goes out to the party line.
+<Angra> 
+<Angra> You can set up a greet with .greet [greet]
+<Angra> You have no messages.
+<Angra> *** arlequin joined the party line.
+<Angra> [03:21] GetOps: happosai requested that I unban him on #pvm.
+<Arlequin> .-bans all
+<Angra> [03:21] #pvm: mode change '-b *!*@freddy.realise.com ' by StoneGirl!StoneGirl@ns2.nswbc.n
+   sw.edu.au
+<Angra> [03:21] #pvm: mode change '-b *!*@freddy.realise.com ' by Angra!jarmoa@207.124.222.30
+<Angra> What?  You need '.help'
+<Angra> [03:22] #pvm: mode change '+b *!*@freddy.realise.com ' by Angra!jarmoa@207.124.222.30
+<Angra> [03:22] hard2kill!venom@freddy.realise.com kicked from #pvm by Angra!jarmoa@207.124.222
+   .30: banned: requested
+<Arlequin> .-bans all
+<Angra> What?  You need '.help'
+<Arlequin> .bans all
+<Angra> [03:22] #arlequin# bans all
+<Angra> Global bans:   (! = not active on #pvm)
+<Angra> ! [  1] *!venom@195.188.8.191 (perm)
+<Angra>         [sludge]: requested
+<Angra>         Created 1 day ago
+<Angra>   [  2] *!*@freddy.realise.com (perm)
+<Angra>         fugitivo: requested
+<Angra>         Created 6 days ago, last used 03:22
+<Angra> ! [  3] *!*@vsat.mn (perm)
+<Angra>         fugitivo: requested
+<Angra>         Created 16 days ago, last used 1 day ago
+<Angra> ! [  4] *!*@mail.lifeaction.org (perm)
+<Angra>         fugitivo: requested
+<Angra>         Created 18 days ago, last used 17 days ago
+<Angra> ! [  5] *!*rootsoul@* (perm)
+<Angra>         fugitivo: requested
+<Angra>         Created 32 days ago
+<Angra> ! [  6] r00tsoul!*@* (perm)
+<Angra>         fugitivo: requested
+<Angra>         Created 32 days ago
+<Angra> ! [  7] *!*@195.188.8.191 (perm)
+<Angra>         fugitivo: requested
+<Angra>         Created 46 days ago, last used 1 day ago
+<Angra> ! [  8] *!*@azurduy-vlan2-cm209.fibertel.com.ar (perm)
+<Angra>         ven0m0us: requested
+<Angra>         Created 49 days ago, last used 7 days ago
+<Angra> ! [  9] *!*@cr991266-a.pr1.on.wave.home.com (perm)
+<Angra>         fugitivo: requested
+<Angra>         Created 17 days ago, last used 15 days ago
+<Angra> ! [ 10] kerplunk_!*@* (perm)
+<Angra>         fugitivo: requested
+<Angra>         Created 15 days ago, last used 10 days ago
+<Angra> ! [ 11] m0l3!*@* (perm)
+<Angra>         fugitivo: requested
+<Angra>         Created 8 days ago
+<Angra> Channel bans for  #pvm:   (! = not active, * = not placed by bot)
+<Arlequin> .-ban 1
+<Angra> [03:22] #arlequin# -ban *!venom@195.188.8.191
+<Angra> Removed ban: *!venom@195.188.8.191
+<Arlequin> .-ban 2
+<Angra> [03:22] #arlequin# -ban *!*@vsat.mn
+<Angra> Removed ban: *!*@vsat.mn
+<Angra> [03:22] GetOps: happosai requested that I unban him on #pvm.
+<Angra> [03:22] #pvm: mode change '-b *!*@freddy.realise.com ' by Angra!jarmoa@207.124.222.30
+<Angra> [03:22] #pvm: mode change '-b *!*@freddy.realise.com ' by StoneGirl!StoneGirl@ns2.nswbc.n
+   sw.edu.au
+<Arlequin> ,+ban 2
+<Angra> -arlequin- +ban 2
+<Arlequin> .+ban 2
+<Angra> [03:23] #arlequin# (GLOBAL) +ban 2!*@* (requested)
+<Angra> New ban: 2!*@* (requested)
+<Angra> [03:23] #pvm: mode change '+b 2!*@* ' by Angra!jarmoa@207.124.222.30
+<Angra> [03:23] #pvm: mode change '+b *!*@freddy.realise.com ' by StoneGirl!StoneGirl@ns2.nswbc.
+   nsw.edu.au
+<Angra> [03:23] hard2kill!venom@freddy.realise.com kicked from #pvm by StoneGirl!StoneGirl@ns2.ns
+   wbc.nsw.edu.au: banned: requested
+<Arlequin> .-ban 2
+<Angra> [03:23] #arlequin# -ban *!*@freddy.realise.com
+<Angra> Removed ban: *!*@freddy.realise.com
+<Angra> [03:23] #pvm: mode change '-b *!*@freddy.realise.com ' by Angra!jarmoa@207.124.222.30
+<Angra> [03:23] GetOps: happosai requested that I unban him on #pvm.
+<Angra> [03:23] #pvm: mode change '-b 2!*@* ' by StoneGirl!StoneGirl@ns2.nswbc.nsw.edu.au
+<Angra> [03:23] #pvm: mode change '-b 2!*@* ' by Angra!jarmoa@207.124.222.30
+<Arlequin> .+ban *!*@vsat.mn
+<Angra> [03:23] #arlequin# (GLOBAL) +ban *!*@vsat.mn (requested)
+<Angra> New ban: *!*@vsat.mn (requested)
+<Angra> [03:23] #pvm: mode change '+b *!*@vsat.mn ' by Angra!jarmoa@207.124.222.30
+<Arlequin> .save
+<Angra> [03:24] #arlequin# save
+<Angra> Saving user file...
+<Angra> [03:24] Writing user file...
+<Angra> [03:24] Writing channel file ...
+<Angra> [03:24] #pvm: mode change '+o pHd ' by StoneGirl!StoneGirl@ns2.nswbc.nsw.edu.au
+<Angra> *** (StoneGirl) arlequin has joined the party line.
+<Angra> [03:24] GetOps: happosai requested that I unban him on #pvm.
+<Angra> [03:24] #pvm: mode change '-b *!*@vsat.mn ' by StoneGirl!StoneGirl@ns2.nswbc.nsw.edu.au
+<Angra> [03:24] #pvm: mode change '-b *!*@vsat.mn ' by Angra!jarmoa@207.124.222.30
+<Angra> [03:25] happosai: cancel ban 2!*@*
+<Angra> [03:25] #pvm: mode change '+v hard2kill ' by Arlequin!Arle@ppp-microc-tr51-56.satlink.com
+<Angra> [03:25] GetOps: happosai requested that I unban him on #pvm.
+<Angra> [03:26] GetOps: happosai requested that I unban him on #pvm.
+<Angra> [03:27] GetOps: happosai requested that I unban him on #pvm.
+<Angra> [03:28] GetOps: happosai requested that I unban him on #pvm.
+<Angra> [03:29] GetOps: happosai requested that I unban him on #pvm.
+<Angra> [03:30] GetOps: happosai requested that I unban him on #pvm.
+<Angra> [03:31] GetOps: happosai requested that I unban him on #pvm.
+<Angra> [03:32] GetOps: happosai requested that I unban him on #pvm.
+<Angra> [03:33] GetOps: happosai requested that I unban him on #pvm.
+<Angra> *** (StoneGirl) arlequin has left the party line (lost dcc link).
+<Angra> [03:34] GetOps: happosai requested that I unban him on #pvm.
+<Angra> [03:35] GetOps: happosai requested that I unban him on #pvm.
+<Angra> [03:36] GetOps: happosai requested that I unban him on #pvm.
+<Angra> [03:37] GetOps: happosai requested that I unban him on #pvm.
+<Angra> [03:38] GetOps: happosai requested that I unban him on #pvm.
+<Angra> [03:39] GetOps: happosai requested that I unban him on #pvm.
+Session Close: Sat Jan 23 04:34:39 1999
+
+Session Start: Tue Jan 26 23:27:34 1999
+Chat with Angra
+Waiting for acknowledgement...
+DCC Chat connection established
+-
+<Angra> Enter your password.
+<Arlequin> HERESY1
+<Angra> Connected to Angra, running Eggdrop v1.3.8  (c)1997 Robey Pointer
+<Angra> 
+<Angra>     ____                __ 
+<Angra>    / __/___ _ ___ _ ___/ /____ ___   ___ 
+<Angra>   / _/ / _ `// _ `// _  // __// _ \ / _ \   
+<Angra>  /___/ \_, / \_, / \_,_//_/   \___// .__/ 
+<Angra>       /___/ /___/                 /_/
+<Angra>            ___    ____   
+<Angra>           <  /   |_  /  
+<Angra>           / /_  _/_ < 
+<Angra>          /_/(_)/____/ (c) Robey Pointer 1997
+<Angra>  
+<Angra>  
+<Angra> Hey arlequin!  My name is Angra and I am running eggdrop v1.3.8, on Linux 2.0.30.
+<Angra> Local time is now 22:34
+<Angra> 
+<Angra> Commands start with '.' (like '.quit' or '.help')
+<Angra> Everything else goes out to the party line.
+<Angra> 
+<Angra> You can set up a greet with .greet [greet]
+<Angra> You have no messages.
+<Angra> *** arlequin joined the party line.
+<Arlequin> .invite spektor #scene.ar
+<Angra> [22:34] #arlequin# (#pvm) invite spektor #scene.ar
+<Angra> Inviting spektor #scene.ar to #pvm.
+<Angra> [22:34] #pvm: mode change '+o phidget ' by happosai!~happosai@www.bullet.com.tw
+<Angra> [22:34] #pvm: mode change '+o phidget ' by StoneGirl!~StoneGirl@ns2.nswbc.nsw.edu.au
+Session Close: Tue Jan 26 23:29:03 1999
+
+Session Start: Sat Jan 30 02:25:34 1999
+Chat with Angra
+Waiting for acknowledgement...
+DCC Chat connection established
+-
+<Angra> Enter your password.
+<Arlequin> HERESY1
+<Angra> Connected to Angra, running Eggdrop v1.3.8  (c)1997 Robey Pointer
+<Angra> 
+<Angra>     ____                __ 
+<Angra>    / __/___ _ ___ _ ___/ /____ ___   ___ 
+<Angra>   / _/ / _ `// _ `// _  // __// _ \ / _ \   
+<Angra>  /___/ \_, / \_, / \_,_//_/   \___// .__/ 
+<Angra>       /___/ /___/                 /_/
+<Angra>            ___    ____   
+<Angra>           <  /   |_  /  
+<Angra>           / /_  _/_ < 
+<Angra>          /_/(_)/____/ (c) Robey Pointer 1997
+<Angra>  
+<Angra>  
+<Angra> Hey arlequin!  My name is Angra and I am running eggdrop v1.3.8, on Linux 2.0.30.
+<Angra> Local time is now 01:32
+<Angra> 
+<Angra> Commands start with '.' (like '.quit' or '.help')
+<Angra> Everything else goes out to the party line.
+<Angra> 
+<Angra> You can set up a greet with .greet [greet]
+<Angra> You have no messages.
+<Angra> *** arlequin joined the party line.
+<Arlequin> .who
+<Angra> [01:33] #arlequin# who
+<Angra> Party line members:  (* = owner, + = master, @ = op)
+<Angra>   +arlequin  Arle@ppp-microc-tr52-29.satlink.com (con:mkcobxs)
+<Angra> Bots connected:
+<Angra>   ->+happosai  (28 Jan 14:56) eggdrop v1.3.8 <>
+<Angra> [01:36] BitchX: VERSION  CTCP:  from osie (~sellasie@209.13.5.133)
+<Angra> [01:36] CTCP VERSION:  from osie (~sellasie@209.13.5.133)
+<Angra> [01:39] #pvm: mode change '+o bpAnther ' by Arlequin!Arle@ppp-microc-tr52-29.satlink.com
+Session Close: Sat Jan 30 03:09:10 1999
+
