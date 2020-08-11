@@ -28,17 +28,17 @@ def capture(freq, label, range_freq, range_gain):
 			file_name = 'data-' + label + '-' + str(double(freq + freq_var)) + '-g-' + str(gain_var)
 			print("Saving " + file_name)
 			savefig(file_name + '.png')
-			
+
 			# Save samples to file
 			fh = open(file_name + '.iq', "wb")
-			x = samples			
+			x = samples
 			x = x[:5000000]
-			
+
 			for sample in x:
 				ba = bytearray(struct.pack("f", numpy.float32(sample.real)))
 				for b in ba:
 					fh.write(bytearray([b]))
-			for sample in x:
+
 				ba = bytearray(struct.pack("f", numpy.float32(sample.imag)))
 				for b in ba:
 					fh.write(bytearray([b]))
@@ -59,10 +59,3 @@ capture(101100000.0, 'fm', freqs, gains)
 capture(300000000.0, 'noise', freqs, gains)
 capture(251000000.0, 'noise', freqs, gains)
 capture(400000000.0, 'noise', freqs, gains)
-
-
-#from array import array
-#output_file = open('data-gsm-8911', 'wb')
-#float_array = array('d', samples)
-#float_array.tofile(output_file)
-#output_file.close()
